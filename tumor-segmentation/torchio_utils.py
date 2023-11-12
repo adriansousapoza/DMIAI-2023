@@ -7,13 +7,13 @@ import torchio as tio
 from pathlib import Path
 import shutil
 import json
-
+from tqdm import tqdm
 
 
 # Content of your dataset.json
 dataset_json_content = {
     "channel_names": {
-        "0": "MIP-PET"
+        "0": "MIP-PET"   # This will be updated later
     },
     "labels": {
         "background": 0,
@@ -23,57 +23,60 @@ dataset_json_content = {
     "file_ending": ".png"
 }
 
-
-def save_inverted_images(dataset, save_dir):
-    os.makedirs(save_dir, exist_ok=True)
+def save_inverted_images(dataset, inverted_images_dir):
+    os.makedirs(inverted_images_dir, exist_ok=True)
 
     for i, subject in enumerate(dataset):
         image_array = subject.img[tio.DATA].squeeze().numpy()
-        slice_index = 0
-        image_slice = image_array[slice_index, :, :]
-        image_pil = Image.fromarray(image_slice)
-        image_pil.save(os.path.join(save_dir, f'patient_{i}.png'))
+        inverted_image_array = 255 - image_array
+        inverted_image_array = inverted_image_array.astype(np.uint8)
+        inverted_image_pil = Image.fromarray(inverted_image_array[0, :, :])
+        inverted_image_filename = f'patient_{i:04d}.png'
+        inverted_image_pil.save(inverted_images_dir / inverted_image_filename)
 
-def save_nnUNet_raw(dataset, save_dir, num_subjects, dataset_json_content):
-    os.makedirs(save_dir, exist_ok=True)
-    images_dir = os.path.join(save_dir, 'imagesTr')
-    labels_dir = os.path.join(save_dir, 'labelsTr')
+
+def save_nnUNet_raw(dataset, base_dir, dataset_ID, num_subjects, file_ending='.png'):
+    # Adjust dataset directory naming convention
+    dataset_dir = Path(base_dir) / f"Dataset{int(dataset_ID):03d}"
+    images_dir = dataset_dir / 'imagesTr'
+    labels_dir = dataset_dir / 'labelsTr'
+
+    # Create directories
     os.makedirs(images_dir, exist_ok=True)
     os.makedirs(labels_dir, exist_ok=True)
 
-    for i, subject in enumerate(dataset):
-        # Convert and normalize image data
+    # Save images and labels with correct naming convention
+    print(f'Saving {num_subjects} subjects to {dataset_dir}...')
+    for i, subject in tqdm(enumerate(dataset), total=len(dataset)):
+        # Image processing
         image_array = subject.img[tio.DATA].squeeze().numpy()
-        image_array -= image_array.min()  # Normalize to 0
-        image_array /= image_array.max()  # Normalize to 1
-        image_array *= 255.0  # Scale to 0-255
-        image_array = image_array.astype(np.uint8)  # Convert to uint8
-        slice_index = 0
-        image_slice = image_array[slice_index, :, :]
-        image_pil = Image.fromarray(image_slice)
+        image_array = (image_array - image_array.min()) / (image_array.max() - image_array.min()) * 255.0
+        image_array = image_array.astype(np.uint8)
+        image_pil = Image.fromarray(image_array[0, :, :])
+        image_filename = f'patient_{i:04d}_0000{file_ending}'  # Assuming single channel (MIP-PET)
+        image_pil.save(images_dir / image_filename)
 
-        # Process label data
+        # Label processing
         label_array = subject.label[tio.DATA].squeeze().numpy()
-        label_slice = label_array[slice_index, :, :]
-        label_pil = Image.fromarray(label_slice.astype(np.uint8))
+        label_pil = Image.fromarray(label_array[0, :, :].astype(np.uint8))
+        label_filename = f'patient_{i:04d}{file_ending}'
+        label_pil.save(labels_dir / label_filename)
 
-        # Save the images and labels
-        image_pil.save(os.path.join(images_dir, f'patient_{i}.png'))
-        label_pil.save(os.path.join(labels_dir, f'patient_{i}.png'))
+    # Create dataset.json content
+    dataset_json_content = {
+        "channel_names": {"0": "MIP-PET"},
+        "labels": {"background": 0, "TargetRegion": 1},
+        "numTraining": num_subjects,
+        "file_ending": file_ending
+    }
 
-    dataset_json_path = os.path.join(save_dir, 'dataset.json')
+    # Write dataset.json file
+    dataset_json_path = dataset_dir / 'dataset.json'
     with open(dataset_json_path, 'w') as f:
         json.dump(dataset_json_content, f, indent=4)
 
-    # Update the number of training images in dataset.json
-    with open(dataset_json_path, 'r') as f:
-        data = json.load(f)
-        data['numTraining'] = num_subjects
-    with open(dataset_json_path, 'w') as f:
-        json.dump(data, f, indent=4)
-
     # Create a zip file containing the nnUNet_raw data including dataset.json
-    shutil.make_archive(save_dir, 'zip', save_dir)
+    #shutil.make_archive(save_dir, 'zip', save_dir)
 
 
 def plot_example(image_slice, label_slice):
@@ -91,7 +94,7 @@ def plot_example(image_slice, label_slice):
 
 def torchio_compose_train(image_paths, label_paths, control_paths, 
                         invert_colors=True, cropsize = (1024,1024), train_size = False, create_inverted_images = False, hist_standardization = True,
-                        save_training_dataset = False):
+                        dataset_ID = None):
     assert len(image_paths) == len(label_paths)
 
     print(f'Found {len(image_paths)} subjects')
@@ -217,11 +220,12 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
                             p=0.1)
     ])
 
+    print(f'Augmenting {train_size-len(dataset)} subjects')
     if train_size != False:
         subjects_augmented = []
         j = 0
 
-        for i in range(train_size-len(dataset)):
+        for i in tqdm(range(train_size-len(dataset))):
             subject = dataset[j]
             subject = training_transform(subject)
             subjects_augmented.append(subject)
@@ -232,7 +236,7 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
         all_subjects = subjects_original + subjects_augmented
         dataset = tio.SubjectsDataset(all_subjects)
 
-    if save_training_dataset:
+    if dataset_ID != None:
         # rescale images to 0-255 for png conversion
         rescale_intensity = tio.RescaleIntensity((0, 1))
 
@@ -243,7 +247,10 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
             subjects_new.append(subject)
 
         dataset = tio.SubjectsDataset(subjects_new)
-        save_nnUNet_raw(dataset, 'nnUNet_raw/dataset001', len(dataset), dataset_json_content)
+        channel_names = {"0": f"{dataset_ID}"}
+        labels = {"background": 0, "TargetRegion": 1}
+        save_nnUNet_raw(dataset, 'nnUNet_raw', dataset_ID, len(dataset), file_ending=".png")
+
     
     return dataset
 
