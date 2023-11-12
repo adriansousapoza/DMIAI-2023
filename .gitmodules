@@ -1,0 +1,3 @@
+[submodule "tumor-segmentation/tumor-segmentation/nnUNet"]
+	path = tumor-segmentation/tumor-segmentation/nnUNet
+	url = https://github.com/MIC-DKFZ/nnUNet

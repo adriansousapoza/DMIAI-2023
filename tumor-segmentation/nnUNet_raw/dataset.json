@@ -1,0 +1,11 @@
+{
+    "channel_names": {
+        "0": "MIP-PET"
+    },
+    "labels": {
+        "background": 0,
+        "TargetRegion": 1
+    },
+    "numTraining": 200,
+    "file_ending": ".png"
+}
