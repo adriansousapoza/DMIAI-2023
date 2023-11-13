@@ -8,6 +8,8 @@ from pathlib import Path
 import shutil
 import json
 from tqdm import tqdm
+import cv2
+import gc
 
 
 # Content of your dataset.json
@@ -35,7 +37,7 @@ def save_inverted_images(dataset, inverted_images_dir):
         inverted_image_pil.save(inverted_images_dir / inverted_image_filename)
 
 
-def save_nnUNet_raw(dataset, base_dir, dataset_ID, num_subjects, file_ending='.png'):
+def save_nnUNet_raw_opencv(dataset, base_dir, dataset_ID, num_subjects, file_ending='.png'):
     # Adjust dataset directory naming convention
     dataset_dir = Path(base_dir) / f"Dataset{int(dataset_ID):03d}"
     images_dir = dataset_dir / 'imagesTr'
@@ -52,15 +54,14 @@ def save_nnUNet_raw(dataset, base_dir, dataset_ID, num_subjects, file_ending='.p
         image_array = subject.img[tio.DATA].squeeze().numpy()
         image_array = (image_array - image_array.min()) / (image_array.max() - image_array.min()) * 255.0
         image_array = image_array.astype(np.uint8)
-        image_pil = Image.fromarray(image_array[0, :, :])
         image_filename = f'patient_{i:04d}_0000{file_ending}'  # Assuming single channel (MIP-PET)
-        image_pil.save(images_dir / image_filename)
+        cv2.imwrite(str(images_dir / image_filename), image_array[0, :, :])
 
         # Label processing
         label_array = subject.label[tio.DATA].squeeze().numpy()
-        label_pil = Image.fromarray(label_array[0, :, :].astype(np.uint8))
+        label_array = (label_array > 0).astype(np.uint8)  # Convert to binary (0 and 1)
         label_filename = f'patient_{i:04d}{file_ending}'
-        label_pil.save(labels_dir / label_filename)
+        cv2.imwrite(str(labels_dir / label_filename), label_array[0, :, :])
 
     # Create dataset.json content
     dataset_json_content = {
@@ -75,9 +76,8 @@ def save_nnUNet_raw(dataset, base_dir, dataset_ID, num_subjects, file_ending='.p
     with open(dataset_json_path, 'w') as f:
         json.dump(dataset_json_content, f, indent=4)
 
-    # Create a zip file containing the nnUNet_raw data including dataset.json
-    #shutil.make_archive(save_dir, 'zip', save_dir)
-
+    # No need to create a zip file here unless required
+    # shutil.make_archive(dataset_dir, 'zip', dataset_dir)
 
 def plot_example(image_slice, label_slice):
     # Plotting the images
@@ -92,9 +92,20 @@ def plot_example(image_slice, label_slice):
 
     plt.show()
 
+def invert_colors(image, max_value=255):
+    image_array = image[tio.DATA].squeeze().numpy()
+    inverted_image_array = max_value - image_array
+    inverted_image_tensor = torch.from_numpy(inverted_image_array).to(torch.uint8)
+    image[tio.DATA] = inverted_image_tensor.unsqueeze(-1)
+    return image
+
 def torchio_compose_train(image_paths, label_paths, control_paths, 
-                        invert_colors=True, cropsize = (1024,1024), train_size = False, create_inverted_images = False, hist_standardization = True,
-                        dataset_ID = None):
+                          invert_colors=True, 
+                          cropsize = (1024,1024), 
+                          train_size = False, 
+                          create_inverted_images = False, 
+                          hist_standardization = True,
+                          dataset_ID = None):
     assert len(image_paths) == len(label_paths)
 
     print(f'Found {len(image_paths)} subjects')
@@ -112,23 +123,11 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
     # invert colors
 
     if invert_colors:
-        max_value = 255
-
         subjects_new = []
 
         for i, subject in enumerate(dataset):
-            image_array = subject.img[tio.DATA].squeeze().numpy()
-            label_array = subject.label[tio.DATA].squeeze().numpy()
-
-            inverted_image_array = max_value - image_array
-
-            inverted_image_tensor = torch.from_numpy(inverted_image_array).to(torch.uint8)
-
-            subject.img[tio.DATA] = inverted_image_tensor.unsqueeze(-1)
-            subject.label[tio.DATA] = torch.from_numpy(label_array).unsqueeze(-1)
-
+            subject.img = invert_colors(subject.img)
             subjects_new.append(subject)
-
 
         dataset = tio.SubjectsDataset(subjects_new)
 
@@ -249,8 +248,7 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
         dataset = tio.SubjectsDataset(subjects_new)
         channel_names = {"0": f"{dataset_ID}"}
         labels = {"background": 0, "TargetRegion": 1}
-        save_nnUNet_raw(dataset, 'nnUNet_raw', dataset_ID, len(dataset), file_ending=".png")
-
+        save_nnUNet_raw_opencv(dataset, 'nnUNet_raw', dataset_ID, len(dataset), file_ending='.png')
     
     return dataset
 
