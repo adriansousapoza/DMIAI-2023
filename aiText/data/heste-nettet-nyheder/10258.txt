@@ -1,0 +1,3 @@
+HesteData er oppe igen!   Opdateret
+2013-10-10T13:33:24
+Danmarks Nationale Hestedatabase er på tredjedagen ramt af et nedbrud. Det betyder, at hverken folk i almindelighed, firmaer såsom Heste-Nettet eller ansatte på Videnscentret kan tilgå databasen.   For Heste-Nettets brugere betyder det, at man rammes af en fejlmeddelelse, når man forsøger at oprette sin hest med ID. Problemet ligger ikke hos Heste-Nettet. Vi kan ligesom andre brugere af HesteData blot afvente, at problemet løses. Dog kan man stadig oprette sin hest uden ID, for senere at redigere i oprettelsen, når kontakten til HesteData er genetableret.  
