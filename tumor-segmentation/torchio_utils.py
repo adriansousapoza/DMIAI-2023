@@ -11,8 +11,7 @@ from tqdm import tqdm
 import cv2
 import gc
 
-
-# Content of your dataset.json
+# Updated dataset_json_content
 dataset_json_content = {
     "channel_names": {
         "0": "MIP-PET"   # This will be updated later
@@ -29,15 +28,17 @@ def save_inverted_images(dataset, inverted_images_dir):
     os.makedirs(inverted_images_dir, exist_ok=True)
 
     for i, subject in enumerate(dataset):
-        image_array = subject.img[tio.DATA].squeeze().numpy()
-        inverted_image_array = 255 - image_array
+        # Get the already inverted image array
+        inverted_image_array = subject.img[tio.DATA].squeeze().numpy()
         inverted_image_array = inverted_image_array.astype(np.uint8)
         inverted_image_pil = Image.fromarray(inverted_image_array[0, :, :])
         inverted_image_filename = f'patient_{i:04d}.png'
-        inverted_image_pil.save(inverted_images_dir / inverted_image_filename)
+        inverted_image_pil.save(os.path.join(inverted_images_dir, inverted_image_filename))
 
+        del inverted_image_array, inverted_image_pil
+        gc.collect()
 
-def save_nnUNet_raw_opencv(dataset, base_dir, dataset_ID, num_subjects, file_ending='.png'):
+def save_nnUNet_raw_original(dataset, base_dir, dataset_ID, num_subjects, file_ending='.png'):
     # Adjust dataset directory naming convention
     dataset_dir = Path(base_dir) / f"Dataset{int(dataset_ID):03d}"
     images_dir = dataset_dir / 'imagesTr'
@@ -59,10 +60,16 @@ def save_nnUNet_raw_opencv(dataset, base_dir, dataset_ID, num_subjects, file_end
 
         # Label processing
         label_array = subject.label[tio.DATA].squeeze().numpy()
-        label_array = (label_array > 0).astype(np.uint8)  # Convert to binary (0 and 1)
+        binary_label_array = (label_array > 0).astype(np.uint8)  # Convert to binary (0 and 1)
         label_filename = f'patient_{i:04d}{file_ending}'
-        cv2.imwrite(str(labels_dir / label_filename), label_array[0, :, :])
+        cv2.imwrite(str(labels_dir / label_filename), binary_label_array[0, :, :])
 
+        del image_array, label_array, binary_label_array
+        gc.collect()
+    
+    create_json_file(dataset_dir, num_subjects, file_ending=file_ending)
+
+def create_json_file(dataset_dir, num_subjects, file_ending='.png'):
     # Create dataset.json content
     dataset_json_content = {
         "channel_names": {"0": "MIP-PET"},
@@ -76,11 +83,61 @@ def save_nnUNet_raw_opencv(dataset, base_dir, dataset_ID, num_subjects, file_end
     with open(dataset_json_path, 'w') as f:
         json.dump(dataset_json_content, f, indent=4)
 
-    # No need to create a zip file here unless required
-    # shutil.make_archive(dataset_dir, 'zip', dataset_dir)
+def save_nnUNet_raw_augmented(subject, base_dir, dataset_ID, index, file_ending='.png'):
+    # Adjust dataset directory naming convention
+    dataset_dir = Path(base_dir) / f"Dataset{int(dataset_ID):03d}"
+    images_dir = dataset_dir / 'imagesTr'
+    labels_dir = dataset_dir / 'labelsTr'
 
-def plot_example(image_slice, label_slice):
-    # Plotting the images
+    image_array = subject.img[tio.DATA].squeeze().numpy()
+    image_array = (image_array - image_array.min()) / (image_array.max() - image_array.min()) * 255.0
+    image_array = image_array.astype(np.uint8)
+    image_filename = f'patient_{index:04d}_0000{file_ending}'  # Assuming single channel (MIP-PET)
+    cv2.imwrite(str(images_dir / image_filename), image_array[0, :, :])
+
+    # Label processing
+    label_array = subject.label[tio.DATA].squeeze().numpy()
+    binary_label_array = (label_array > 0).astype(np.uint8)  # Convert to binary (0 and 1)
+    label_filename = f'patient_{index:04d}{file_ending}'
+    cv2.imwrite(str(labels_dir / label_filename), binary_label_array[0, :, :])
+
+    del image_array, label_array, binary_label_array
+    gc.collect()
+
+def save_nnUNet_raw_validation(dataset, base_dir, dataset_ID, num_subjects, file_ending='.png'):
+    # Adjust dataset directory naming convention
+    dataset_dir = Path(base_dir) / f"Dataset{int(dataset_ID):03d}"
+    images_dir = dataset_dir / 'imagesTs'
+
+    # Create directories
+    os.makedirs(images_dir, exist_ok=True)
+
+    # Save images and labels with correct naming convention
+    print(f'Saving {num_subjects} subjects to {dataset_dir}...')
+    for i, subject in tqdm(enumerate(dataset), total=len(dataset)):
+        # Image processing
+        image_array = subject.img[tio.DATA].squeeze().numpy()
+        image_array = (image_array - image_array.min()) / (image_array.max() - image_array.min()) * 255.0
+        image_array = image_array.astype(np.uint8)
+        image_filename = f'patient_{i:04d}_0000{file_ending}'  # Assuming single channel (MIP-PET)
+        cv2.imwrite(str(images_dir / image_filename), image_array[0, :, :])
+
+        del image_array
+        gc.collect()
+    
+    create_json_file(dataset_dir, num_subjects, file_ending=file_ending)
+
+
+def plot_example(dataset_example):
+
+    one_subject = dataset_example
+    image_array = one_subject.img[tio.DATA].squeeze().numpy()
+    label_array = one_subject.label[tio.DATA].squeeze().numpy()
+
+    slice_idx = 0
+    image_slice = image_array[slice_idx, :, :]
+    label_slice = label_array[slice_idx, :, :]
+
     fig, axes = plt.subplots(1, 2, figsize=(12, 6))
     axes[0].imshow(image_slice, cmap='gray')
     axes[0].set_title('Image')
@@ -92,18 +149,15 @@ def plot_example(image_slice, label_slice):
 
     plt.show()
 
-def invert_colors(image, max_value=255):
-    image_array = image[tio.DATA].squeeze().numpy()
-    inverted_image_array = max_value - image_array
-    inverted_image_tensor = torch.from_numpy(inverted_image_array).to(torch.uint8)
-    image[tio.DATA] = inverted_image_tensor.unsqueeze(-1)
-    return image
+"""
+Composition function
+"""
 
 def torchio_compose_train(image_paths, label_paths, control_paths, 
                           invert_colors=True, 
                           cropsize = (1024,1024), 
                           train_size = False, 
-                          create_inverted_images = False, 
+                          save_inverted_imgs = False, 
                           hist_standardization = True,
                           dataset_ID = None):
     assert len(image_paths) == len(label_paths)
@@ -123,15 +177,26 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
     # invert colors
 
     if invert_colors:
+        max_value = 255
+
         subjects_new = []
 
         for i, subject in enumerate(dataset):
-            subject.img = invert_colors(subject.img)
+            image_array = subject.img[tio.DATA].squeeze().numpy()
+            label_array = subject.label[tio.DATA].squeeze().numpy()
+
+            inverted_image_array = max_value - image_array
+
+            inverted_image_tensor = torch.from_numpy(inverted_image_array).to(torch.uint8)
+
+            subject.img[tio.DATA] = inverted_image_tensor.unsqueeze(-1)
+            subject.label[tio.DATA] = torch.from_numpy(label_array).unsqueeze(-1)
+
             subjects_new.append(subject)
 
         dataset = tio.SubjectsDataset(subjects_new)
 
-        if create_inverted_images:
+        if save_inverted_imgs:
             inverted_images_dir = 'inverted_imgs'
             save_inverted_images(dataset, inverted_images_dir)
     
@@ -199,9 +264,9 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
 
     dataset = tio.SubjectsDataset(subjects_new)
 
-    # create new subjects with augmented images
+    save_nnUNet_raw_original(dataset, 'nnUNet_raw', dataset_ID, len(dataset), file_ending='.png')
 
-    subjects_original = subjects_new
+    # create new subjects with augmented images
 
     training_transform = tio.Compose([
         tio.RandomAnisotropy(p=0.25),
@@ -210,7 +275,7 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
                             degrees=(-10, 10)),
             tio.RandomElasticDeformation(max_displacement=(10, 10, 0),
                                         num_control_points=10)},
-            p=1),
+            p=0.8),
         tio.OneOf({
             tio.RandomBlur(std=(0,2)),
             tio.RandomNoise(std=(0,0.2))},
@@ -220,36 +285,133 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
     ])
 
     print(f'Augmenting {train_size-len(dataset)} subjects')
-    if train_size != False:
-        subjects_augmented = []
-        j = 0
 
+    if train_size != False:
+        j = 0
         for i in tqdm(range(train_size-len(dataset))):
             subject = dataset[j]
-            subject = training_transform(subject)
-            subjects_augmented.append(subject)
-            j += 1
-            if j == len(dataset):
-                j = 0
-    
-        all_subjects = subjects_original + subjects_augmented
-        dataset = tio.SubjectsDataset(all_subjects)
+            augmented_subject = training_transform(subject)  # Apply transformations
+            save_nnUNet_raw_augmented(augmented_subject, 'nnUNet_raw', dataset_ID, len(dataset)+i, file_ending='.png')
+            del augmented_subject  # Free memory
+            gc.collect()  # Explicit garbage collection call
+            j = (j + 1) % len(dataset)  # Cycle through the dataset
 
-    if dataset_ID != None:
-        # rescale images to 0-255 for png conversion
-        rescale_intensity = tio.RescaleIntensity((0, 1))
+    return True
+
+
+"""
+Validation function
+"""
+
+def torchio_validation_composition(image_paths, 
+                          invert_colors=True,
+                          cropsize = (400,991),
+                          dataset_ID = None):
+    print(f'Found {len(image_paths)} subjects')
+
+    subjects = []
+    for image_path in image_paths:
+        subject = tio.Subject(
+            img=tio.ScalarImage(image_path),
+        )
+        subjects.append(subject)
+
+    dataset = tio.SubjectsDataset(subjects)
+
+    # invert colors
+
+    if invert_colors:
+        max_value = 255
 
         subjects_new = []
 
-        for subject in dataset:
-            subject = rescale_intensity(subject)
+        for i, subject in enumerate(dataset):
+            image_array = subject.img[tio.DATA].squeeze().numpy()
+            inverted_image_array = max_value - image_array
+            inverted_image_tensor = torch.from_numpy(inverted_image_array).to(torch.uint8)
+            subject.img[tio.DATA] = inverted_image_tensor.unsqueeze(-1)
             subjects_new.append(subject)
 
         dataset = tio.SubjectsDataset(subjects_new)
-        channel_names = {"0": f"{dataset_ID}"}
-        labels = {"background": 0, "TargetRegion": 1}
-        save_nnUNet_raw_opencv(dataset, 'nnUNet_raw', dataset_ID, len(dataset), file_ending='.png')
     
-    return dataset
+    # crop and pad
+    
+    target_shape = cropsize[0], cropsize[1], 1
+    crop_pad = tio.CropOrPad(target_shape)
 
+    subjects_new = []
+    original_sizes = []
+
+    for subject in dataset:
+        original_height, original_width = subject.img[tio.DATA].shape[-3], subject.img[tio.DATA].shape[-2]
+        original_sizes.append(np.array([original_height, original_width]))
+        subject = crop_pad(subject)
+        subjects_new.append(subject)
+
+    dataset = tio.SubjectsDataset(subjects_new)
+
+    # histogram standardization
+
+    histogram_landmarks_path = 'histogram_landmarks.npy'
+    landmarks = np.load(histogram_landmarks_path)
+    landmarks_dict = {'img': landmarks}
+
+    histogram_standardization = tio.HistogramStandardization(landmarks=landmarks_dict)
+        
+    subjects_new = []
+
+    for subject in dataset:
+        subject = histogram_standardization(subject)
+        subjects_new.append(subject)
+
+    dataset = tio.SubjectsDataset(subjects_new)
+
+    # z-normalization
+
+    znorm = tio.ZNormalization()
+
+    subjects_new = []
+
+    for subject in dataset:
+        subject = znorm(subject)
+        subjects_new.append(subject)
+
+    dataset = tio.SubjectsDataset(subjects_new)
+
+    if dataset_ID != None:
+        save_nnUNet_raw_validation(dataset, 'nnUNet_raw', dataset_ID, len(dataset), file_ending='.png')
+
+    return original_sizes
+
+def process_and_crop_labels(label_files, original_sizes, save_dir='data_validation/patients/labels', file_ending='.png'):
+    os.makedirs(save_dir, exist_ok=True)
+
+    index = 0
+    for label_file, original_size in zip(label_files, original_sizes):
+        # Load the label image
+        label_image = cv2.imread(str(label_file), cv2.IMREAD_GRAYSCALE)
+
+        # Crop to get the central part of the image
+        current_height, current_width = label_image.shape
+        original_height, original_width = original_size
+        x_start = (current_width - original_width) // 2
+        y_start = (current_height - original_height) // 2
+        cropped_label_image = label_image[y_start:y_start + original_height, x_start:x_start + original_width]
+
+        # Change color scale to black and white (0 and 255)
+        cropped_label_image = np.where(cropped_label_image > 0, 255, 0).astype(np.uint8)
+
+        #rotate the image
+        rotated_label_image = np.rot90(cropped_label_image, 3)
+        
+        #mirror the image
+        rotated_label_image = np.flip(rotated_label_image, 1)
+
+        # Save the processed label
+        label_filename = f'segmentation_{index:03d}{file_ending}'
+        cv2.imwrite(os.path.join(save_dir, label_filename), rotated_label_image)
+
+        index += 1
+
+    print(f"Processed labels saved to {save_dir}")
 

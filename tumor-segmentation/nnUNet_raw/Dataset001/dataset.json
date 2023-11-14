@@ -6,6 +6,6 @@
         "background": 0,
         "TargetRegion": 1
     },
-    "numTraining": 200,
+    "numTraining": 20,
     "file_ending": ".png"
 }
