@@ -1,0 +1,30 @@
+Prompts:
+
+
+Giv råd
+----
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+
+
+Politiker; interview
+----
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+
+
+Journalist; artikel
+----
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er journalist og skal skrive en artikel ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Udelad titel. Ignorer smiley:
+
+At blive spurgt og give sin mening
+----
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du bliver spurgt om emnet og skal give din mening.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+
+
+Uddyb og forklar 
+----
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forklar og uddyb emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+
+
+Debatforum
+----
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er inde på et uformelt debatforum og skal skrive en kommentar.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
