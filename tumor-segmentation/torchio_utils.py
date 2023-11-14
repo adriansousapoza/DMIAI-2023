@@ -64,11 +64,44 @@ def save_nnUNet_raw_original(dataset, base_dir, dataset_ID, num_subjects, file_e
         label_filename = f'patient_{i:04d}{file_ending}'
         cv2.imwrite(str(labels_dir / label_filename), binary_label_array[0, :, :])
 
+        print(i)
+
+        del image_array, label_array, binary_label_array
+        gc.collect()
+
+def save_nnUNet_raw_control(dataset, base_dir, dataset_ID, num_subjects, init, file_ending='.png'):
+    # Adjust dataset directory naming convention
+    dataset_dir = Path(base_dir) / f"Dataset{int(dataset_ID):03d}"
+    images_dir = dataset_dir / 'imagesTr'
+    labels_dir = dataset_dir / 'labelsTr'
+
+    # Create directories
+    os.makedirs(images_dir, exist_ok=True)
+    os.makedirs(labels_dir, exist_ok=True)
+
+    # Save images and labels with correct naming convention
+    print(f'Saving {num_subjects} controls to {dataset_dir}...')
+    for subject in tqdm(dataset):
+        # Image processing
+        image_array = subject.img[tio.DATA].squeeze().numpy()
+        image_array = (image_array - image_array.min()) / (image_array.max() - image_array.min()) * 255.0
+        image_array = image_array.astype(np.uint8)
+        image_filename = f'patient_{init:04d}_0000{file_ending}'  # Assuming single channel (MIP-PET)
+        cv2.imwrite(str(images_dir / image_filename), image_array[0, :, :])
+
+        # Label processing
+        label_array = subject.label[tio.DATA].squeeze().numpy()
+        binary_label_array = (label_array > 0).astype(np.uint8)  # Convert to binary (0 and 1)
+        label_filename = f'patient_{init:04d}{file_ending}'
+        cv2.imwrite(str(labels_dir / label_filename), binary_label_array[0, :, :])
+
+        init += 1
+
+        print(init)
+
         del image_array, label_array, binary_label_array
         gc.collect()
     
-    create_json_file(dataset_dir, num_subjects, file_ending=file_ending)
-
 def create_json_file(dataset_dir, num_subjects, file_ending='.png'):
     # Create dataset.json content
     dataset_json_content = {
@@ -100,6 +133,8 @@ def save_nnUNet_raw_augmented(subject, base_dir, dataset_ID, index, file_ending=
     binary_label_array = (label_array > 0).astype(np.uint8)  # Convert to binary (0 and 1)
     label_filename = f'patient_{index:04d}{file_ending}'
     cv2.imwrite(str(labels_dir / label_filename), binary_label_array[0, :, :])
+
+    print(index)
 
     del image_array, label_array, binary_label_array
     gc.collect()
@@ -151,7 +186,7 @@ def plot_example(dataset_example):
 
 """
 Composition function
-"""
+"""    
 
 def torchio_compose_train(image_paths, label_paths, control_paths, 
                           invert_colors=True, 
@@ -159,6 +194,7 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
                           train_size = False, 
                           save_inverted_imgs = False, 
                           hist_standardization = True,
+                          include_controls = False,
                           dataset_ID = None):
     assert len(image_paths) == len(label_paths)
 
@@ -213,44 +249,31 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
 
     dataset = tio.SubjectsDataset(subjects_new)
 
-    if hist_standardization == False:
-        # rescale intensity
+    # histogram standardization
 
-        rescale_intensity = tio.RescaleIntensity((0, 1), percentiles=(0.5, 99.5))
+    inverted_imgs_dir = Path('inverted_imgs')
+    inverted_imgs_paths = sorted(inverted_imgs_dir.glob('*.png'))
 
-        subjects_new = []
+    histogram_landmarks_path = 'histogram_landmarks.npy'
 
-        for subject in dataset:
-            subject = rescale_intensity(subject)
-            subjects_new.append(subject)
-
-        dataset = tio.SubjectsDataset(subjects_new)
-
-    else:
-        # histogram standardization
-
-        inverted_imgs_dir = Path('inverted_imgs')
-        inverted_imgs_paths = sorted(inverted_imgs_dir.glob('*.png'))
-
-        histogram_landmarks_path = 'histogram_landmarks.npy'
-
+    if not os.path.exists(histogram_landmarks_path):
         landmarks = tio.HistogramStandardization.train(
             images_paths=inverted_imgs_paths,
             output_path=histogram_landmarks_path
-        )
+        )            
+    else:
         landmarks = np.load(histogram_landmarks_path)
-        print('Landmarks:', landmarks)
-        landmarks_dict = {'img': landmarks}
 
-        histogram_standardization = tio.HistogramStandardization(landmarks=landmarks_dict)
+    landmarks_dict = {'img': landmarks}
+    histogram_standardization = tio.HistogramStandardization(landmarks=landmarks_dict)
         
-        subjects_new = []
+    subjects_new = []
 
-        for subject in dataset:
-            subject = histogram_standardization(subject)
-            subjects_new.append(subject)
+    for subject in dataset:
+        subject = histogram_standardization(subject)
+        subjects_new.append(subject)
 
-        dataset = tio.SubjectsDataset(subjects_new)
+    dataset = tio.SubjectsDataset(subjects_new)
 
     # z-normalization
 
@@ -284,17 +307,133 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
                             p=0.1)
     ])
 
-    print(f'Augmenting {train_size-len(dataset)} subjects')
+    original_size = len(dataset)
+
+    print(f'Augmenting {train_size-original_size} subjects')
 
     if train_size != False:
+        if include_controls:
+            augmented_size = train_size - original_size - len(control_paths)
+        else:
+            augmented_size = train_size - original_size
         j = 0
-        for i in tqdm(range(train_size-len(dataset))):
+        for i in tqdm(range(augmented_size)):
             subject = dataset[j]
             augmented_subject = training_transform(subject)  # Apply transformations
             save_nnUNet_raw_augmented(augmented_subject, 'nnUNet_raw', dataset_ID, len(dataset)+i, file_ending='.png')
             del augmented_subject  # Free memory
             gc.collect()  # Explicit garbage collection call
-            j = (j + 1) % len(dataset)  # Cycle through the dataset
+            j = (j + 1) % original_size  # Cycle through the dataset
+
+    # add controls
+
+    if include_controls:
+        assert train_size > len(image_paths) + len(control_paths)
+
+        # Create the directory if it does not exist
+        controls_labels_dir = Path('controls/labels')
+        controls_labels_dir.mkdir(parents=True, exist_ok=True)
+
+        print(f'Adding {len(control_paths)} control subjects')
+
+        control_subjects = []
+        for control_path in tqdm(control_paths):
+            # Read the control image to get its size
+            control_img = cv2.imread(str(control_path), cv2.IMREAD_UNCHANGED)
+            height, width = control_img.shape[:2]
+
+            # Create a blank mask with the same size
+            blank_mask = np.zeros((height, width), dtype=np.uint8)
+
+            # Save the blank mask
+            blank_mask_path = controls_labels_dir / control_path.name
+            cv2.imwrite(str(blank_mask_path), blank_mask)
+
+            # Create the subject with the control image and its mask
+            control_subject = tio.Subject(
+                img=tio.ScalarImage(control_path),
+                label=tio.LabelMap(blank_mask_path)
+            )
+            control_subjects.append(control_subject)
+
+        control_dataset = tio.SubjectsDataset(control_subjects)
+
+        # invert colors
+
+        if invert_colors:
+            max_value = 255
+
+            subjects_new = []
+
+            for i, subject in enumerate(control_dataset):
+                image_array = subject.img[tio.DATA].squeeze().numpy()
+                label_array = subject.label[tio.DATA].squeeze().numpy()
+
+                inverted_image_array = max_value - image_array
+
+                inverted_image_tensor = torch.from_numpy(inverted_image_array).to(torch.uint8)
+
+                subject.img[tio.DATA] = inverted_image_tensor.unsqueeze(-1)
+                subject.label[tio.DATA] = torch.from_numpy(label_array).unsqueeze(-1)
+
+                subjects_new.append(subject)
+
+            control_dataset = tio.SubjectsDataset(subjects_new)
+        
+        # crop and pad
+
+        target_shape = cropsize[0], cropsize[1], 1
+        crop_pad = tio.CropOrPad(target_shape)
+
+        subjects_new = []
+
+        for subject in control_dataset:
+            subject = crop_pad(subject)
+            subjects_new.append(subject)
+
+        control_dataset = tio.SubjectsDataset(subjects_new)
+
+        # histogram standardization
+
+        inverted_imgs_dir = Path('inverted_imgs')
+        inverted_imgs_paths = sorted(inverted_imgs_dir.glob('*.png'))
+
+        histogram_landmarks_path = 'histogram_landmarks.npy'
+
+        if not os.path.exists(histogram_landmarks_path):
+            landmarks = tio.HistogramStandardization.train(
+                images_paths=inverted_imgs_paths,
+                output_path=histogram_landmarks_path
+            )            
+        else:
+            landmarks = np.load(histogram_landmarks_path)
+
+        landmarks_dict = {'img': landmarks}
+        histogram_standardization = tio.HistogramStandardization(landmarks=landmarks_dict)
+            
+        subjects_new = []
+
+        for subject in control_dataset:
+            subject = histogram_standardization(subject)
+            subjects_new.append(subject)
+
+        control_dataset = tio.SubjectsDataset(subjects_new)
+
+        # z-normalization
+
+        znorm = tio.ZNormalization()
+
+        subjects_new = []
+
+        for subject in control_dataset:
+            subject = znorm(subject)
+            subjects_new.append(subject)
+
+        control_dataset = tio.SubjectsDataset(subjects_new)
+
+        save_nnUNet_raw_control(control_dataset, 'nnUNet_raw', dataset_ID, train_size, augmented_size + original_size, file_ending='.png')
+    
+    create_json_file(Path('nnUNet_raw') / f'Dataset{int(dataset_ID):03d}', train_size, file_ending='.png')
 
     return True
 
