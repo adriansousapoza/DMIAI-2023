@@ -64,8 +64,6 @@ def save_nnUNet_raw_original(dataset, base_dir, dataset_ID, num_subjects, file_e
         label_filename = f'patient_{i:04d}{file_ending}'
         cv2.imwrite(str(labels_dir / label_filename), binary_label_array[0, :, :])
 
-        print(i)
-
         del image_array, label_array, binary_label_array
         gc.collect()
 
@@ -96,8 +94,6 @@ def save_nnUNet_raw_control(dataset, base_dir, dataset_ID, num_subjects, init, f
         cv2.imwrite(str(labels_dir / label_filename), binary_label_array[0, :, :])
 
         init += 1
-
-        print(init)
 
         del image_array, label_array, binary_label_array
         gc.collect()
@@ -133,8 +129,6 @@ def save_nnUNet_raw_augmented(subject, base_dir, dataset_ID, index, file_ending=
     binary_label_array = (label_array > 0).astype(np.uint8)  # Convert to binary (0 and 1)
     label_filename = f'patient_{index:04d}{file_ending}'
     cv2.imwrite(str(labels_dir / label_filename), binary_label_array[0, :, :])
-
-    print(index)
 
     del image_array, label_array, binary_label_array
     gc.collect()
@@ -198,7 +192,10 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
                           dataset_ID = None):
     assert len(image_paths) == len(label_paths)
 
-    print(f'Found {len(image_paths)} subjects')
+    original_size = len(image_paths)
+    control_size = len(control_paths)
+
+    print(f'Found {original_size} subjects')
 
     subjects = []
     for (image_path, label_path) in zip(image_paths, label_paths):
@@ -287,7 +284,7 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
 
     dataset = tio.SubjectsDataset(subjects_new)
 
-    save_nnUNet_raw_original(dataset, 'nnUNet_raw', dataset_ID, len(dataset), file_ending='.png')
+    save_nnUNet_raw_original(dataset, 'nnUNet_raw', dataset_ID, original_size, file_ending='.png')
 
     # create new subjects with augmented images
 
@@ -307,20 +304,17 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
                             p=0.1)
     ])
 
-    original_size = len(dataset)
-
-    print(f'Augmenting {train_size-original_size} subjects')
-
     if train_size != False:
         if include_controls:
-            augmented_size = train_size - original_size - len(control_paths)
+            augmented_size = train_size - original_size - control_size
         else:
             augmented_size = train_size - original_size
+        print(f'Augmenting dataset with {augmented_size} subjects')
         j = 0
         for i in tqdm(range(augmented_size)):
             subject = dataset[j]
             augmented_subject = training_transform(subject)  # Apply transformations
-            save_nnUNet_raw_augmented(augmented_subject, 'nnUNet_raw', dataset_ID, len(dataset)+i, file_ending='.png')
+            save_nnUNet_raw_augmented(augmented_subject, 'nnUNet_raw', dataset_ID, original_size+i, file_ending='.png')
             del augmented_subject  # Free memory
             gc.collect()  # Explicit garbage collection call
             j = (j + 1) % original_size  # Cycle through the dataset
@@ -328,33 +322,17 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
     # add controls
 
     if include_controls:
-        assert train_size > len(image_paths) + len(control_paths)
+        assert train_size > original_size + control_size
 
-        # Create the directory if it does not exist
-        controls_labels_dir = Path('controls/labels')
-        controls_labels_dir.mkdir(parents=True, exist_ok=True)
-
-        print(f'Adding {len(control_paths)} control subjects')
+        print(f'Adding {control_size} control subjects')
 
         control_subjects = []
         for control_path in tqdm(control_paths):
-            # Read the control image to get its size
-            control_img = cv2.imread(str(control_path), cv2.IMREAD_UNCHANGED)
-            height, width = control_img.shape[:2]
-
-            # Create a blank mask with the same size
-            blank_mask = np.zeros((height, width), dtype=np.uint8)
-
-            # Save the blank mask
-            blank_mask_path = controls_labels_dir / control_path.name
-            cv2.imwrite(str(blank_mask_path), blank_mask)
-
-            # Create the subject with the control image and its mask
-            control_subject = tio.Subject(
+            subject = tio.Subject(
                 img=tio.ScalarImage(control_path),
-                label=tio.LabelMap(blank_mask_path)
+                label=tio.LabelMap(control_path),
             )
-            control_subjects.append(control_subject)
+            control_subjects.append(subject)
 
         control_dataset = tio.SubjectsDataset(control_subjects)
 
@@ -370,6 +348,7 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
                 label_array = subject.label[tio.DATA].squeeze().numpy()
 
                 inverted_image_array = max_value - image_array
+                label_array = np.zeros_like(label_array)
 
                 inverted_image_tensor = torch.from_numpy(inverted_image_array).to(torch.uint8)
 
@@ -379,6 +358,9 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
                 subjects_new.append(subject)
 
             control_dataset = tio.SubjectsDataset(subjects_new)
+
+        #check whether all labels are zero
+        assert np.all(control_dataset[0].label[tio.DATA].squeeze().numpy() == 0)
         
         # crop and pad
 
@@ -395,18 +377,8 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
 
         # histogram standardization
 
-        inverted_imgs_dir = Path('inverted_imgs')
-        inverted_imgs_paths = sorted(inverted_imgs_dir.glob('*.png'))
-
         histogram_landmarks_path = 'histogram_landmarks.npy'
-
-        if not os.path.exists(histogram_landmarks_path):
-            landmarks = tio.HistogramStandardization.train(
-                images_paths=inverted_imgs_paths,
-                output_path=histogram_landmarks_path
-            )            
-        else:
-            landmarks = np.load(histogram_landmarks_path)
+        landmarks = np.load(histogram_landmarks_path)
 
         landmarks_dict = {'img': landmarks}
         histogram_standardization = tio.HistogramStandardization(landmarks=landmarks_dict)
