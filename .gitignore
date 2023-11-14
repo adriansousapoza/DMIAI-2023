@@ -165,3 +165,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Custom Exclusions
+tumor-segmentation/nnUNet_raw/
+tumor-segmentation/nnUNet_results/
+tumor-segmentation/nnUNet_preprocessed/
+tumor-segmentation/data_validation/
+tumor-segmentation/data/
+tumor-segmentation/inverted_imgs/
+tumor-segmentation/nnUNet
