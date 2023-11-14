@@ -1,0 +1,17 @@
+Du er journalist og skal skrive en artikel om emnet, hvad skriver du?
+gpt-3.5-turbo
+Artikel: 
+
+Titel: Advarsel til forældre: Det tredje krydderi har farlige bivirkninger for børn
+
+Introduktion: 
+Hvis du er forælder til et barn under 18 år, er det vigtigt at være opmærksom på et stof, der kan have alvorlige konsekvenser for dit barns sundhed. Det tredje krydderi, også kendt som MSG (MNG), er et smagsforstærkende tilsætningsstof, der findes i en lang række fødevarer. Denne artikel vil belyse de potentielle farer ved dette tredje krydderi og give råd om, hvordan man bedst undgår det.
+
+Farlige bivirkninger for børn:
+MSG (MNG) kan have alvorlige bivirkninger, især hos børn. Når de indtages i store mængder kan det forårsage hovedpine, kvalme, svimmelhed og endda allergiske reaktioner hos følsomme individer. Desuden er der nogle undersøgelser, der tyder på, at MSG kan påvirke hjernens udvikling hos børn og forårsage problemer med indlæring og hukommelse.
+
+Undgåelse af MSG:
+For at beskytte dit barns sundhed er det vigtigt at læse ingredienslisterne på de fødevarer, du køber. MSG findes ofte i dåsesupper, bagværk, kødprodukter, frosne måltider og mange andre bearbejdede fødevarer. Det er også vigtigt at være opmærksom på, at ingredienslisten kan være angivet på engelsk, så det er vigtigt at være opmærksom på de alternative navne for MSG, såsom MNG.
+
+Konklusion:
+Det tredje krydderi MSG (MNG) er en farlig tilsætning til fødevarer, især for børn. Dette smagsforstærkende stof kan have alvorlige bivirkninger og påvirke hjernens udvikling hos børn. Det er derfor vigtigt for forældre at være opmærksomme på indholdet af MSG i de fødevarer, de køber, og undgå at give det til deres børn. Gennem at læse og forstå ingredienslisterne kan man træffe informerede valg og beskytte sit barns helbred.

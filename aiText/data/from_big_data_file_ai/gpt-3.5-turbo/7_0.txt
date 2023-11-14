@@ -1,0 +1,7 @@
+Fortæl om emnet
+gpt-3.5-turbo
+Emnet handler om oplysninger om en persons fornavn, efternavn og identifikationsnummer i forskellige kontekster som fødsel, begravelse, dåb og konfirmation.
+
+Oplysningerne viser, at personens efternavn altid kommer først, efterfulgt af fornavnet og i nogle tilfælde også en angivelse af, hvilken begivenhed det drejer sig om (fødsel, begravelse, dåb eller konfirmation). Derudover er der også et unikt identifikationsnummer, der ser ud til at tilhøre personen i alle de nævnte kontekster.
+
+Det er dog vigtigt at bemærke, at de specifikke oplysninger om personens fødsel, begravelse, dåb og konfirmation ikke er angivet i teksten. Oplysningerne, der er præsenteret, er mere generelle og viser kun, at der findes oplysninger om personens navn og identifikationsnummer i forbindelse med disse begivenheder.

@@ -1,0 +1,5 @@
+Fortæl om emnet
+gpt-3.5-turbo
+Høng Gymnastikforening er en klub, der byder alle velkommen. For at blive medlem skal man registrere sig, udfylde de påkrævede felter som brugernavn, efternavn og fødselsdag. Når man er logget ind, har man mulighed for at nulstille sit kodeord, hvis man har glemt det. Klubben sender en e-mail med et nyt kodeord. 
+
+Der er også nyheder tilgængelige på klubbens hjemmeside. Et af indlæggene er et referat fra et bestyrelsesmøde den 30. maj 2017. Der blev blandt andet godkendt et referat fra et møde den 21. marts. I referatet stod der også, at Kristine havde afleveret oplysninger om løb i april og maj.
