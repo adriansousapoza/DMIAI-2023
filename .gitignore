@@ -1,4 +1,3 @@
-tumor-segmentation/nnUNet_results/Dataset001/*
 da.txt
 
 
@@ -168,9 +167,9 @@ cython_debug/
 
 # Custom Exclusions
 tumor-segmentation/nnUNet_raw/
-tumor-segmentation/nnUNet_results/
+#tumor-segmentation/nnUNet_results/
 tumor-segmentation/nnUNet_preprocessed/
-tumor-segmentation/data_validation/
-tumor-segmentation/data/
+#tumor-segmentation/data_validation/
+#tumor-segmentation/data/
 tumor-segmentation/inverted_imgs/
-tumor-segmentation/nnUNet
+#tumor-segmentation/nnUNet
