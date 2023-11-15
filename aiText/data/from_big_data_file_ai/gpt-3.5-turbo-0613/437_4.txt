@@ -1,0 +1,15 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forklar og uddyb emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+I dagens moderne verden er det almindeligt at linke til websteder, artikler og andre online ressourcer for at give læserne yderligere information. Det er en nem måde at give læserne mulighed for at dykke dybere ned i et emne eller få adgang til relevante kilder. Så hvordan indsætter man egentlig et link i en tekst? Det er faktisk ret simpelt.
+
+For det første skal du finde det websted eller den artikel, du ønsker at linke til. Lad os tage et eksempel. Forestil dig, at du skriver en artikel om nyheden om en vellykket lunge-transplantation efter at have levet en uge uden sine inficerede lunger. Du ønsker at linke til den oprindelige nyhedskilde, så læserne kan læse mere om det. 
+
+For at indsætte linket i din tekst skal du først finde webadressen for den pågældende artikel. Kopier webadressen. I vores eksempel ville webadressen være noget lignende "www.eksempelartikel.com/vellykket_lungetransplantation". 
+
+Derefter skal du indsætte linket i din tekst. Du kan gøre dette på forskellige måder, afhængigt af den platform, du bruger til at skrive din tekst. Hvis du skriver i Word, kan du markere den relevante tekst, højreklikke og vælge "indsæt hyperlink". Hvis du skriver på en blog eller et forum, vil der normalt være en knap eller en funktion, der giver dig mulighed for at indsætte et hyperlink.
+
+Når du indsætter linket, skal du sikre dig, at det ser pænt og læsevenligt ud. Du kan måske ændre ordlyden eller tilføje en relevant beskrivelse til linket. I vores eksempel kunne vi ændre linket fra "www.eksempelartikel.com/vellykket_lungetransplantation" til noget som "Læs mere om den utrolige historie om en vellykket lunge-transplantation her".
+
+Når du har indsæt linket og justeret det efter behov, skal du sikre dig, at det fungerer korrekt. Hvis det er et eksternt link, skal du klikke på det for at sikre dig, at det fører til den rigtige side. Hvis det er et internt link i din egen tekst, skal du sørge for, at det fører til det rigtige afsnit eller det rigtige dokument.
+
+At indsætte et link i en tekst kan virke som en lille, ubetydelig detalje. Men det kan tilføje værdi og give læserne mulighed for at udforske yderligere, hvis de ønsker det. Så næste gang du skriver en artikel, en blogpost eller bare en almindelig tekst, skal du huske at linke til de relevante ressourcer og berige dine læseres oplevelse.

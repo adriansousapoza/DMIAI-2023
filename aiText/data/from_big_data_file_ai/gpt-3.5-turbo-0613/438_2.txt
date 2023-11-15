@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er journalist og skal skrive en artikel ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Udelad titel. Ignorer smiley:
+gpt-3.5-turbo-0613
+Teknologi har altid spillet en vigtig rolle i vores moderne samfund, og dette gælder også inden for arkivering og formidling af dansk kultur og litteratur. Et af de nyere redskaber, der anvendes i denne sammenhæng, er PID - Persistent Identifier.
+
+PID, eller Persistent Identifier, er en unik identifikator, der bruges til at identificere digitale objekter, såsom dokumenter, videoer eller lydfiler. Denne identifikator er permanent og kan bruges til at spore og henvise til objektet, uanset hvilke fremtidige ændringer der måtte ske med objektet.
+
+I Danmark har PID fundet anvendelse i flere områder, hvor arkivering og formidling er afgørende. Et eksempel er Arkiv for Dansk Litteratur, der er en digital samling af dansk skønlitteratur. Her er PID blevet brugt til at identificere hver enkelt værk og sikre, at det forbliver tilgængeligt for kommende generationer.
+
+Et andet eksempel er tidsskrift.dk, hvor PID anvendes til at identificere og linke til de forskellige artikler og udgivelser. Dette gør det nemt for læsere og forskere at finde og henvise til specifikke artikler, selvom tidsskriftet måtte ændre layout eller placering.
+
+Et tredje eksempel er Mediestream, en tjeneste der giver adgang til en enorm samling af dansk radio og tv-udsendelser samt reklamer. Her anvendes PID til at identificere hver enkelt udsendelse, hvilket gør det muligt for brugerne at finde og se specifikke programmer eller reklamer fra fortiden.
+
+Disse eksempler viser, hvordan PID kan være en uvurderlig ressource i arkivering og formidling af dansk kultur. Ved at tildele hver enkelt digitalt objekt en unik og permanent identifikator, sikrer man, at de vil forblive tilgængelige og sporbare i fremtiden.
+
+Når det kommer til valget af PID-type, er Danpid en af de mest anvendte i disse danske use cases. Danpid er designet specifikt til danske institutioner og er baseret på internationale standarder. Denne type PID har vist sig at være robust og pålidelig og er derfor blevet foretrukket i mange tilfælde.
+
+PID har revolutioneret arkivering og formidling af dansk kultur og litteratur. Ved at tildele hvert enkelt digitalt objekt en vedvarende identifikator, sikrer man, at disse værdifulde ressourcer vil være tilgængelige for nuværende og kommende generationer. Det er et stort skridt fremad i digital arkivering, og Danmark er på forkant med denne udvikling.
