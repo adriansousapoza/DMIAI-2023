@@ -1,0 +1,6 @@
+forklar og uddyb emnet
+
+ScummVM - Wikipedia, den frie encyklopædi
+Fra Wikipedia, den frie encyklopædi
+Udvikler(e)
+ScummVM er et program som gør det muligt at spille LucasArts adventurespil som bruger SCUMM system. Det virker på mange forskellige platforme, som spillene originalt ikke var designet til. Der er også en række ikke-SCUMM spil som understøttes af ScummVM, bl.a. fra udviklerne Revolution Software og Adventure Soft. ScummVM er freeware og bliver udgivet under GNU GPL

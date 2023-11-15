@@ -1,0 +1,6 @@
+forklar og uddyb emnet
+
+Radiokæde - Wikipedia, den frie encyklopædi
+Fra Wikipedia, den frie encyklopædi
+Gå til: navigation, søg
+En radiokæde er et system af flere transceivere (egentlig repeatere), der kan overføre et signal fra den første station over evt. mellemliggende stationer til den afsluttende station og ofte den anden vej tilbage

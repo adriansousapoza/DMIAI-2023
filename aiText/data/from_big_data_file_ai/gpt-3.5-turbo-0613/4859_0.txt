@@ -1,0 +1,15 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+En cookie er en lille tekstfil, der gemmes på din computer eller mobilenhed, når du besøger en hjemmeside. Denne fil indeholder oplysninger om din færden på hjemmesiden og kan genkendes, når du besøger hjemmesiden igen.
+
+Cookies bruges i stor udstrækning på internettet til forskellige formål. På TravelBird-webstedet bruger vi cookies til at sikre, at webstedet fungerer korrekt og til at tilpasse din oplevelse som bruger. Ved hjælp af cookies kan vi for eksempel gemme produkter du har tilføjet til din indkøbskurv, huske dine præferencer og tiltag på webstedet, og analysere, hvordan du bruger vores websted for at forbedre det.
+
+De to hovedtyper af cookies, der bruges, er funktionelle cookies og analytiske cookies. Funktionelle cookies er nødvendige for at webstedet fungerer korrekt. De kan for eksempel gemme de valg, du foretager, når du bruger vores websted, såsom sprogvalg eller regionale indstillinger.
+
+Analytiske cookies bruges til at indsamle oplysninger om, hvordan du bruger vores websted. Disse cookies hjælper os med at forstå, hvordan brugerne navigerer rundt på webstedet, hvilke sider der besøges mest, og hvilke interaktioner der foretages. Disse oplysninger bruges til at forbedre webstedets ydeevne og brugeroplevelse.
+
+Det er vigtigt at bemærke, at cookies ikke indeholder personlige oplysninger som f.eks. navn eller e-mailadresse. De bruges kun til at genkende din enhed og give dig en mere tilpasset brugeroplevelse.
+
+Hvis du ikke ønsker at acceptere cookies, kan du ændre dine browserindstillinger til at blokere eller advare dig, når der sendes cookies til din enhed. Vær dog opmærksom på, at ved at blokere cookies kan du måske ikke få den optimale brugeroplevelse på TravelBird-webstedet.
+
+Du kan finde flere oplysninger om vores cookie-politik og hvordan vi håndterer dine personlige oplysninger i vores privatlivspolitik.

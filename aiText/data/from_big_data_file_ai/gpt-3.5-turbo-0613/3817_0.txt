@@ -1,0 +1,15 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+for at sikre, at vi følger gældende love og beskytter brugernes privatliv på bedst mulig vis.
+
+En cookie er en lille tekstfil, der gemmes på brugerens computer eller mobil enhed, når man besøger en hjemmeside. Denne fil gør det muligt for hjemmesiden at genkende brugeren og huske informationer om vedkommende, f.eks. sprogindstillinger eller logininformation. På Vitrineskabe.dk anvendes cookies primært til trafikmåling og statistik, således at vi kan få indsigt i, hvor mange brugere der besøger vores site, hvor de kommer fra, og hvor lang tid de bliver på siden.
+
+Trafikmålinger er vigtige for os, da de giver os mulighed for at forbedre vores indhold og brugeroplevelse. Ved at analysere brugernes adfærd på siden kan vi få indsigt i brugerens præferencer og behov, og dermed tilpasse vores indhold og funktioner herefter. Dette kan for eksempel være ved at tilbyde relevant reklameindhold eller forbedre navigationen på sitet.
+
+Det er vigtigt at understrege, at de indsamlede data er fuldstændig anonyme og kan ikke identificere den enkelte bruger personligt. Vi behandler kun aggregede statistikker, der viser overordnede tendenser og mønstre i brugernes adfærd.
+
+Vitrineskabe.dk udbydes af en virksomhed, der behandler de indsamlede data i henhold til gældende lovkrav og retningslinjer for databeskyttelse. Vi sikrer, at de indsamlede data opbevares sikkert og kun anvendes til de angivne formål.
+
+Det er vigtigt at være opmærksom på, at teknologien bag cookies og behandlingen af personoplysninger kan ændre sig over tid. Derfor er det nødvendigt for os at foretage regelmæssige opdateringer af vores databeskyttelsespolitik og cookiepolitik for at sikre, at vi følger de nyeste standarder og lovkrav.
+
+Hvis du har spørgsmål eller bekymringer vedrørende vores brug af cookies eller behandling af personoplysninger, er du velkommen til at kontakte os via kontaktoplysningerne på vores hjemmeside. Vi vil gøre vores bedste for at besvare dine spørgsmål og adressere dine bekymringer på en tilfredsstillende måde.

@@ -1,0 +1,7 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Metal JobService er en tjeneste, der tilbydes af Dansk Metal til deres medlemmer. Den giver medlemmerne mulighed for at søge og se ledige job fra alle danske hjemmesider og jobdatabaser. Med Metal JobService kan medlemmerne søge på specifikke job, der er relevante for dem, og de kan også oprette en jobagent, der giver dem besked pr. mail, når der er nye ledige job, der matcher deres præferencer.
+
+En anden praktisk funktion ved Metal JobService er, at medlemmerne kan oprette og vedligeholde deres cv direkte på tjenesten. Dette gør det nemt for medlemmerne at ansøge om job, da de kan søge direkte på baggrund af deres cv.
+
+Det skal bemærkes, at Metal JobService kun er tilgængelig for medlemmer af Dansk Metal. Hvis man er medlem af et af de andre LO-forbund, henvises man til en anden tjeneste. For at få adgang til Metal JobService skal man derfor først blive medlem af Dansk Metal.

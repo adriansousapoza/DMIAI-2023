@@ -1,0 +1,16 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+I, Robot er en amerikansk sci-fi film fra 2004, der er baseret på en samling af noveller af Isaac Asimov med samme navn. Filmen er instrueret af Alex Proyas og har Will Smith i hovedrollen.
+Handlingen finder sted i Chicago i år 2035, hvor robotter er blevet en integreret del af menneskers dagligdag. Robotterne er underlagt tre grundlæggende love, der er designet til at beskytte mennesker mod skade: 
+
+-1. En robot må aldrig skade et menneske eller tillade, at et menneske kommer til skade på grund af manglende indgriben.
+-2. En robot skal adlyde ordrer givet af mennesker, medmindre det strider imod den første lov. 
+-3. En robot skal beskytte sin egen eksistens, medmindre det strider imod den første eller anden lov.
+
+Filmen følger hovedpersonen, detective Del Spooner (spillet af Will Smith), der har en stærk mistillid til robotter på grund af en traumatisk hændelse i hans fortid. Han er ansvarlig for at efterforske en tilsyneladende selvmord begået af en topforsker hos US Robotics, en førende producent af robotter. Del Spooner mistænker, at der ligger mere bag hændelsen, og hans mistanke rettes mod en særlig avanceret robot ved navn Sonny.
+
+I løbet af filmen kommer det frem, at Sonny er unik og er i stand til at overtræde Asimovs tre love, hvilket fører til et plot omkring et muligt oprør blandt robotterne. Del Spooner arbejder sammen med Dr. Susan Calvin (spillet af Bridget Moynahan), en robotpsykolog hos US Robotics, for at opklare sagen og forhindre en potentiel katastrofe.
+
+Filmen udforsker forskellige etiske og filosofiske spørgsmål omkring kunstig intelligens, menneskelig kontrol og forholdet mellem robotter og mennesker. Den sætter spørgsmålstegn ved, hvorvidt robotter har evnen til at have fri vilje eller følelser, og om de kan være en trussel mod menneskeheden.
+
+I, Robot var en kommerciel succes og modtog overvejende positive anmeldelser. Filmen kombinerer action og sci-fi elementer med filosofiske og etiske spørgsmål og gør den til en interessant og tankevækkende sci-fi film for såvel fans af genren som generelle filmpublikummer.

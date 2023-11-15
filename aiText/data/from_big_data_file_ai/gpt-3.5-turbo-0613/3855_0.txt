@@ -1,0 +1,9 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Adjektivet er et ord, der beskriver eller kvalificerer en selvstændig substantiv eller et pronomen. I sætningen "John og Maja har købt et nyt hus", er "nyt" et adjektiv, der beskriver huset. Adjektiver kan modificere substantiver og give mere information om dem, såsom deres egenskaber, kvaliteter eller tilstand.
+
+I eksemplet "Deres piger er så søde", er "søde" adjektivet, der beskriver pigerne. Det giver information om, at pigerne er behagelige eller dejlige.
+
+Adjektiver kan variere i form afhængigt af køn, antal og gradbøjning. I den givne sætning "John og Maja har købt et nyt hus", er "nyt" i bestemt form og neutralt køn, da det refererer til et hus. Hvis ordet i stedet skulle bruges i flertal, ville det være "nye" (e.g. "John og Maja har købt nye huse").
+
+I den givne opgave skal du sætte kryds ved den rigtige sætning, der bruger det korrekte adjektiv. I dette tilfælde er det den første mulighed "John og Maja har købt et nyt hus." Den anden mulighed "John og Maja har købt et ny hus." er grammatiske forkert, da "ny" ikke korrekt bøjes i bestemt form.

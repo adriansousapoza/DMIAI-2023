@@ -1,0 +1,6 @@
+forklar og uddyb emnet
+
+4.010.510 2115603 Kuglepenne Brand:Pentel Farve:Blå Miljømærker:Remmer miljø Skriftfarve:Blå Stregbredde:0,5
+4.010.520 2115604 Kuglepenne Brand:Pentel Farve:Grøn Miljømærker:Remmer miljø Skriftfarve:Grøn Stregbredde:0,5
+4.010.500 2115602 Kuglepenne Brand:Pentel Farve:Rød Miljømærker:Remmer miljø Skriftfarve:Rød Stregbredde:0,5
+4.010.490 2115601 Kuglepenne Brand:Pentel Farve:Sort Miljømærker:Remmer miljø Skriftfarve:Sort Stregbredde:0,5

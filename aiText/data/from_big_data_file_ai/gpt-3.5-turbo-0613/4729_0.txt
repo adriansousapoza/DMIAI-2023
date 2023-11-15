@@ -1,0 +1,11 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Emnet forklarer funktionen af Skyscanner, en populær rejsesøgemaskine, der gør det nemt for rejsende at finde de billigste flyrejser og bedste tilbud på flybilletter fra New York til Toronto.
+
+Skyscanner sammenligner priser og tilgængelighed for flyvninger fra en bred vifte af flyselskaber og rejsebureauer. Dette gør det muligt for brugeren at finde flyrejser fra New York til Toronto til de billigste priser på markedet.
+
+Udover at give information om priser og tilgængelighed, giver Skyscanner også nyttige oplysninger om afstanden mellem New York og Toronto samt rejsetiden mellem de to byer. Dette er nyttige oplysninger, der kan hjælpe brugerne med at planlægge deres rejser mere effektivt.
+
+Desuden kan brugerne også finde oplysninger om, hvilke flyselskaber der har de billigste flybilletter fra New York til Toronto. Dette kan være særligt nyttigt for brugerne, der søger at spare penge på deres rejser.
+
+Alt i alt er Skyscanner en pålidelig og praktisk søgemaskine for rejsende, der ønsker at finde de bedste tilbud på flyrejser fra New York til Toronto. Med sin enkle og brugervenlige grænseflade gør Skyscanner det nemt at sammenligne priser og finde den bedste mulighed for ens rejser.

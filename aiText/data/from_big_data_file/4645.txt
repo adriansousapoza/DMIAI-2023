@@ -1,0 +1,5 @@
+forklar og uddyb emnet
+
+USB Seriel Adapter - Wikipedia, den frie encyklopædi
+Fra Wikipedia, den frie encyklopædi
+For at en computer kan kommunikere med en USB seriel adapter skal der først installeres drivere på computeren. Efter at disse er installeret og USB seriel adapteren er tilsluttet computeren opretter driverne en virtuel seriel COM port under operativ-systemets Device Manager. Den oprettede seriel port kan derefter bruges næsten som hvis det havde været en lokal indbygget seriel COM port

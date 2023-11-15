@@ -1,0 +1,7 @@
+forklar og uddyb emnet
+
+Mindste fælles multiplum - Wikipedia, den frie encyklopædi
+Mindste fælles multiplum
+Fra Wikipedia, den frie encyklopædi
+Det mindste fælles multiplum af to positive heltal a og b er det mindste positive heltal som har a og b som divisorer.
+Notationen for mindste fælles multiplum af a og b er mfm(a,b), men ofte bruges[kilde mangler] også notationen fra den engelske litteratur: lcm(a,b).

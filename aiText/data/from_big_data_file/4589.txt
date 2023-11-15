@@ -1,0 +1,5 @@
+forklar og uddyb emnet
+
+Isotropantenne - Wikipedia, den frie encyklopædi
+Fra Wikipedia, den frie encyklopædi
+En isotropantenne er en teoretisk radioantenne, der udgør et punkt uden udstrækning i nogen retning. Den kan kun bruges som reference i beregninger, da man i praksis ikke kan udsende elektriske eller magnetiske felter fra et punkt.

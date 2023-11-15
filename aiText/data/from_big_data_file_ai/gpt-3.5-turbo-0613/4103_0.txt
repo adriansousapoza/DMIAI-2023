@@ -1,0 +1,11 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Desværre kan jeg ikke faktisk tjekke vejret i realtid eller give vejrprognoser. Men jeg kan hjælpe med at forklare emnet om vejrprognoser generelt.
+
+Vejrprognoser bruges til at forudsige, hvordan vejret bliver i fremtiden. De baseres på observationer af atmosfærens tilstand, herunder temperatur, luftfugtighed, vindhastighed og retning, og nedbør. Ved hjælp af matematiske modeller og algoritmer analyserer meteorologer disse data for at lave prognoser for perioder i fremtiden.
+
+En 14-dages vejrprognose forsøger at forudsige vejret over en to-ugers periode. Prognoserne bliver mere usikre, jo længere frem i tiden de strækker sig, da små ændringer i atmosfærens tilstand kan have store konsekvenser på lang sigt.
+
+I en 14-dages vejrprognose kan du se forventet temperatur, nedbør, vindhastighed og skydække for hver dag. Disse oplysninger kan hjælpe dig med at planlægge din ferie og beslutte, hvilke aktiviteter der er mest hensigtsmæssige at gøre i det pågældende vejr.
+
+Det er vigtigt at bemærke, at vejrforholdene kan ændre sig hurtigt, og prognoserne er ikke altid 100% nøjagtige. Derfor er det en god idé at bruge flere kilder til vejrprognoser og være åben for ændringer i planerne, hvis vejret ikke arter sig som forventet.

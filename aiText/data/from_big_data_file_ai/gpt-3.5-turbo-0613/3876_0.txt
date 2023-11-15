@@ -1,0 +1,11 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+. Translate: Oversætter den markerede tekst til et andet sprog. Share: Deler den markerede tekst via e-mail eller sociale medier.
+
+TalkingWeb er specielt udviklet til iPad og er en internetbrowser, der har den unikke funktion at oplæse tekst på forskellige sprog. Ved at bruge TalkingWeb kan brugeren gå på hvilken som helst hjemmeside og få teksten læst op. For at få teksten læst op skal brugeren markere den ønskede tekst. Efter at have markeret teksten får brugeren fire muligheder for oplæsning.
+
+Den første mulighed er 'Copy', som kopierer den markerede tekst. Den anden mulighed er 'Speak', hvor teksten bliver læst op med iPaddens indbyggede stemme. 'Translate'-funktionen gør det muligt at oversætte den markerede tekst til et andet sprog. Den sidste mulighed er 'Share', hvor brugeren kan dele den markerede tekst via e-mail eller sociale medier.
+
+TalkingWeb's primære formål er at give brugeren mulighed for at få teksten læst op, hvilket kan hjælpe personer med synshandicap eller dem, der foretrækker at lytte til teksten i stedet for at læse den. Det kan også være nyttigt for personer, der skal læse tekster på forskellige sprog, da TalkingWeb giver mulighed for at oversætte teksten.
+
+Denne app er specifikt udviklet til iPads og udnytter de indbyggede funktioner og muligheder, som iPads har. Det er en praktisk og tilgængelig måde at bruge internettet og få teksten læst op på en nem og bekvem måde.

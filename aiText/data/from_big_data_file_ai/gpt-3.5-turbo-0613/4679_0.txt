@@ -1,0 +1,7 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Produktet er en blå Martez t-shirt fra mærket Anerkjendt. Prisen er 199 DKK. 
+
+Prisland er en platform, der guider dig i en jungle af varer og forhandlere. Platformen samler information om produkter og priser fra forskellige forhandlere, så forbrugere nemt kan finde den bedste pris på det, de søger. 
+
+I dette tilfælde er der angivet nogle forskellige produkter med deres priser, mærke og forhandler. Først er der en finnisk blød lakrids på 140 gram til 25.14 DKK, der bliver solgt af Økologisk-Supermarked. Derefter er der bogen "Den Gamle Rige Konge" af Stig Michael, der koster 129.95 DKK og bliver solgt af Gucca.dk. Den næste bog, "Kommunikationskultur" af Susanne Idun Mørch, koster 249.95 DKK og bliver også solgt af Gucca.dk. Til sidst er der en blå Martez t-shirt af mærket Anerkjendt til en pris af 199 DKK, men der er ikke angivet nogen specifik forhandler for denne vare.

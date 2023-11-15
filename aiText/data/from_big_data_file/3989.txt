@@ -1,0 +1,6 @@
+forklar og uddyb emnet
+
+Svag syre - Wikipedia, den frie encyklopædi
+En svag syre er en syre, der ikke afgiver alle dens protoner i en opløsning. Disse syrer har højere syrestyrkekonstant-værdier, pKs-værdier, sammenlignet med stærke syrer, som afgiver alle deres protoner, når de opløses i vand.
+En svag syre er ofte lange og organiske syrer, der har en ringe tendens til af afgive hydroner (H+).
+Formlen for pH-værdien for en svag syre:

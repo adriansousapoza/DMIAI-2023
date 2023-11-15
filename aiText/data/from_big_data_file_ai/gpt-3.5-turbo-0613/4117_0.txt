@@ -1,0 +1,11 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+NASA's Space Apps Challenge er en årlig begivenhed, der finder sted over hele verden. Det er et hackathon, hvor deltagere har muligheden for at arbejde sammen i teams og udvikle innovative løsninger ved at bruge NASA-data og -teknologi. Formålet er at finde nye måder at løse aktuelle og presserende problemer på Jorden og i rummet.
+
+Konkurrencen er åben for alle, uanset alder eller faglig baggrund. Deltagerne kan være programmører, designere, ingeniører, studerende eller nysgerrige mennesker med interesse for rumforskning og teknologi. Det kræver ofte teamwork og tværfagligt samarbejde for at levere løsninger.
+
+Hvert år udvælger NASA forskellige udfordringer og problemstillinger, som deltagerne skal adressere. Disse udfordringer kan være alt fra beskyttelse af miljøet, overvågning af naturkatastrofer, udvikling af ny teknologi til udforskning af rummet eller forbedring af dagliglivet på Jorden. Deltagerne får adgang til NASA's omfattende samling af data, herunder satellitbilleder, rumsondedata og forskning, som de kan bruge til at udvikle deres ideer og prototyper.
+
+Hackathonet varer typisk en weekend, hvor deltagerne arbejder intensivt på deres projekter. Ved afslutningen af konkurrencen præsenterer hvert team deres arbejde for en panel af dommere fra industrien og videnskaben, der vurderer projekternes originalitet, gennemførlighed og impact.
+
+NASA's Space Apps Challenge er en mulighed for at samle kreative og tekniske hjerner fra hele verden og koncentrere deres talenter omkring de globale problemer, som vores planet og rummet står overfor. Det er en unik mulighed for at netværke, lære og være en del af NASA's vision om at udforske rummet og forbedre vores forståelse af vores eget hjem, Jorden.

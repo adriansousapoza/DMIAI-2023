@@ -1,0 +1,5 @@
+forklar og uddyb emnet
+
+Hypertekst - Wikipedia, den frie encyklopædi
+Fra Wikipedia, den frie encyklopædi
+Et hypertekst-system er en mængde information (tekst, billeder) organiseret således at et emne i systemet direkte henviser (gennem såkaldte hyperlinks) til andre emner i systemet. Dette tillader læseren frit at navigere, samt flere samtidige forfattere[kilde mangler] og udvisker dermed skellet mellem læser og forfatter[kilde mangler]

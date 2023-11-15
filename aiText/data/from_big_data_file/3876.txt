@@ -1,0 +1,3 @@
+forklar og uddyb emnet
+
+2 TalkingWeb til ipad TalkingWeb er din Internet Browser med oplæsning af tekster på mange sprog. Du kan gå på en hvilken som helst hjemmeside fra vores Browser og via TalkingWeb får du læst teksten på siden op. Det er en forudsætning at du markerer den tekst du vil have læst op. Når du har markeret teksten får du 4 muligheder for oplæsning. Copy: Kopierer den markerede tekst. Speak: Læser det markerede med ipaddens indbyggede stemme

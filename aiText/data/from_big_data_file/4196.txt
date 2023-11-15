@@ -1,0 +1,9 @@
+forklar og uddyb emnet
+
+Hvad er JavaScript Void ? - Tips for you - Tipsed.Com
+Hvad er JavaScript Void ?
+Hvis du refererer JavaScript-kode gemt i en separat fil, skal du
+I begge tilfælde huske at bruge det afsluttende & lt; / script & gt;tag.
+Du kan integrere det tomrum funktionen i et hyperlink, der åbner et andet browservindue.Kig på dette eksempel kode:
+Gennemsnitlig løn for en professionel fotograf
+Hvordan man beregner skatter , der skal tilbageholdes i Maryland

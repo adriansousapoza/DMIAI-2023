@@ -1,0 +1,6 @@
+forklar og uddyb emnet
+
+DDGU Scorekeeper er DDGUs online system til håndtering af scores og ratings. Systemet kan findes her: scorekeeper.ddgu.dk.
+Kort fortalt er systemet bygget til at lave statistik over resultater fra turneringer og matches. Disse bruges derefter til at beregne nye handicaps for spillerne. Brugerne har mulighed for også at lægge deres egne træningsresultater ind.
+Systemet giver dig bl.a. følgende muligheder:
+Se hvordan du klarer dig på en given bane.

@@ -1,0 +1,9 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Dataene angiver frekvensen eller procentdelen af personer inden for hver kategori. 
+
+1) Frekvens / % Kvinde 13 93% Mand 1 7%: Dette viser, at der er 13 kvinder, hvilket udgør 93% af deltagerne, og der er 1 mand, hvilket udgør 7% af deltagerne. Dataene angiver kønsfordelingen blandt deltagerne i en undersøgelse eller i en bestemt gruppe.
+
+2) Frekvens / % Jeg er en af de bedste 3 23% Der er nogle få, der er bedre end mig 9 69%: Dette angiver deltagerens vurdering af deres egen præstation i forhold til andre. 23% af deltagerne mener, at de er en af de bedste, mens 69% mener, at der er nogle få personer, der er bedre end dem.
+
+Den nævnte PDF-fil indeholder muligvis yderligere oplysninger og spørgsmål relateret til frekvensen eller procentdelen af forskellige oplevelser eller adfærd. Eksemplet i slutningen af sætningen er ufuldstændigt, og det er ikke muligt at give en fuld forklaring uden yderligere information.

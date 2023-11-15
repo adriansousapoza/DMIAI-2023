@@ -1,0 +1,5 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+
+Denne jQuery plugin giver dig mulighed for at låse en del af indholdet på en webside, indtil en bruger stillinger et foto til sin Facebook- profil og tags nogle af hans venner i den bogførte foto.
+Dette plugin kan øge trafikken på dit websted ved at populærvidenskab din hjemmeside på Facebook.
+Også dette plugin vil ikke spamme brugerens profil. Brugeren selv vælger de venner til at mærke fra den viste vennelisten, og skal klikke på en Post -knappen for at dele billedet og tag venner.

@@ -1,0 +1,9 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du bliver spurgt om emnet og skal give din mening.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+På hovedområde 03, som omfatter flere enkeltspørgsmål, er der blevet indsamlet data og resultaterne fremgår af nedenstående figur. Det er vigtigt at bemærke, at resultaterne på hvert enkelt spørgsmål vil blive præsenteret senere i rapporten.
+
+Vi kan se, at gennemsnittet på hovedområde 03 er blevet målt på en skala fra 1 til 5, hvor 5 er maximum og 1 er minimum. Her har en række personer besvaret spørgsmålene, og antallet af besvarelser er også angivet i figuren.
+
+Det er også interessant at sammenligne resultatet med de samlede resultater for både Gilbjergskolen og Gribskov Kommune. Dette kan give os et indblik i, hvordan vores skole klarer sig i forhold til de overordnede gennemsnit for hele kommunen.
+
+På baggrund af resultaterne på hovedområde 03 kan jeg konkludere, at _________. Her kan du tilføje din egen mening, men husk at underbygge det med data og resultater fra figuren.
