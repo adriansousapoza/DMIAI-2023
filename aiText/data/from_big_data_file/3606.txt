@@ -1,0 +1,5 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+
+Kapitel 4 Sandsynlighed og statistiske modeller - PDF
+5 Generalisering fra stikprøve til population Idé: Opstil en model for populationen og estimér modellens parametre på baggrund af stikprøven Kontrollér at stikprøven ikke er i modstrid med modellen Eksempel: 95% konfidensinterval for middelværdien i en normalfordeling
+7 Binomialfordelingen - uformelt Lyttetest: En person har i tre ud af tre sætninger korrekt hørt forskel på bas og pas - kan det være tilfældigt

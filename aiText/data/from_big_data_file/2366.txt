@@ -1,0 +1,10 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+
+Var det ikke lettest at ændre den du har (den eksterne) med lidt
+kraftigere komponenter og evt. en let ændring af trafoen ?
+Ellers kan du finde diagrammer på en bunke invertere på nettet - også til
+blitz i forskellige størrelser.
+Øge strømmen, men der er altså en topgrænse for hvor hurtigt du må fylde
+kondensatoren og jo tættere du kommer den grænse, jo kortere levetid har
+Svjks er ladetiden for den originale "powerpack" 1-1.5 sek, så en ladetid på
+meget under det er nok ikke godt for levetiden

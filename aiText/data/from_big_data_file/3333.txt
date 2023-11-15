@@ -1,0 +1,6 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+
+Tæl antal unikke besøgende i PHP & MySQL
+Den følgende artikel vil gennemgå opbygningen af en simpel tæller, hvor det meste af arbejdet er overladt til MySQL-funktionerne. Artiklen forudsætter basalt kendskab til PHPMyAdmin.
+Jeg vil gennemgå de forskellige trin i scriptet undervejs. Først skal vi have oprettet en tabel i vores MySQL database, tabellen skal have følgende struktur.
+Tabellen har jeg valgt at kalde counter. Tabellen indeholder 3 felter.

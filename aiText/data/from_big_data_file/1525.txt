@@ -1,0 +1,9 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forklar og uddyb emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+
+FAQ (hjælp)
+Hvis du ikke mener at kunne finde tilstrækkelig hjælp på denne side kan du kontakte vores support.
+Hvis du ønsker support på en specifik e-shop, så kontakt os på ovenstående mailadresse for tilbud på dette.
+Hvordan er oprettelsesforløbet for at kunne modtage betaling via kreditkort i min e-shop, hvis jeg vælger at benytte Freepay?
+Hvordan implementerer jeg Freepay i min nuværende e-shop?
+Jeres system virker ikke ? hvad gør jeg?
+Kan jeg få et testlogin, så jeg kan se administrationen

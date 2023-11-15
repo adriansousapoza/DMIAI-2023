@@ -1,0 +1,3 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+
+1 Side 1 Nyinstallation enkeltbruger (ny bruger på en enkeltstående PC) Det forudsættes at: Den generelle vejledning er læst på hjemmesiden Der er modtaget en ny/tom database til indlæsning fra EDB-Brugsen. Denne sikkerhedskopi er gemt på computeren (der er tale om en.zip-fil) f.eks. filen Ved oprettelse af en ny enkeltbruger skal flg. installeres: 1) Databaselæserprogrammet MySQL

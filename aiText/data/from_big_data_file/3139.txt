@@ -1,0 +1,6 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+
+Den seneste generation af Panasonic plasma TV har problemer med gengivelse af blu-ray film.
+Det er Panasonics plasma TV i G10 og S10 serierne, der har problemer med korrekt gengivelse af blu-ray 24p (1080P/24).
+I stedet for at gengive det som 72, 96 eller 120 Hz, for at undgå hakkeri ved panoreringer, så gengives billederne istedet ved 60Hz. Det betyder at objekter der bevæges sideværts, og panoreringer til siden, vil opleves som at flytte sig i ryk. Det fænomen kaldes også judder.
+Læs evt

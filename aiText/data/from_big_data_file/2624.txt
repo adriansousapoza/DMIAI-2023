@@ -1,0 +1,3 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+
+For nylig har jeg erhvervet mig en en brugt Leslie [https://en.wikipedia.org/wiki/Leslie_speaker] 760 forstærker. Det er en helt fantastisk maskine, men den pedal og preamp der skal bruges til at skifte hastighed og agere for-forstærker mellem orgel og forstærker, fulgte ikke med. Det viser sig, at sådan en pedal med de nødvendige kabler koster i omegnen af 3000 kr, så jeg satte mig for at bygge det selv. Nedenfor følger en gennemgang af, hvordan jeg gjorde.

@@ -1,0 +1,5 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er inde på et uformelt debatforum og skal skrive en kommentar.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+
+Vores værdier
+Første gang du får behov for at håndtere Big Data, er det nærliggende blot at hente et par OpenSource værktøjer og gå i gang – start småt! Der er dog en grund til ordsproget ”Tænk stort – start småt!”. En række ting bliver nemmere, hvis det er planlagt på forhånd.
+[13. maj 2015] Analyse af Big Data er en helt anden analyseopgave end at analysere strukturerede data med kendt format og god data kvalitet

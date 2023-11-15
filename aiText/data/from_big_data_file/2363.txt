@@ -1,0 +1,3 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er journalist og skal skrive en artikel ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Udelad titel. Ignorer smiley:
+
+Med API Management i Azure kan organisationer publicere API'er mere sikkert, pålidelig og skalerbart. Brug API Management til at fremme API-forbruget blandt interne teams, partnere og udviklere, samtidig med at du høster fordelen af forretnings- og loganalyser, som du finder i administrationsportalen

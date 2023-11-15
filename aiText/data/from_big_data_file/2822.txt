@@ -1,0 +1,8 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+
+Er der mon noget jeg har overset?
+Re: Mangler dansk sprog?
+Der er vel både sprogindstilling for hele boardet også pr. bruger så tjek hvad sprogindstilling din bruger har.
+Prøv og tjek hvad "Rekompiler fastfrosne typografikomponenter:" i ACP > Belastning er sat til.
+Den var sat til No, nu rettet til Yes, men sprog for den enkelte user kan jeg ikke hitte.
+Hver bruger kan vælge sprog i deres profil.

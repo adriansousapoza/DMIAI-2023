@@ -1,0 +1,4 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+
+Offentliggørelse
+CryptFIle2 Â er a ransomeware malware, listende infiltrerer systemer og krypterer filer ved hjælp af den asymmetriske algoritme. Denne malware tilføjer filtypenavnet “.id_ [VICTIM_ID] _ [EMAIL] .scl” alle dine krypterede filer. Under kryptering genererer denne ransomeware to forskellige nøgler (offentlige og private). Hvor offentlige ‘ bruges til at kryptere og Â ‘privat’ nøglen Â bruges til at dekryptere kompromitteret filer.
