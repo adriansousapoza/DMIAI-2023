@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er journalist og skal skrive en artikel ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Udelad titel. Ignorer smiley:
+gpt-3.5-turbo-0613
+Stærkere kodeord sikrer bedre tryghed online
+
+I en tid, hvor vores digitale liv fylder mere og mere, er sikkerheden på vores online konti af største vigtighed. Derfor opfordrer mange hjemmesider og tjenester os til at oprette stærkere kodeord for at beskytte vores data og personlige oplysninger. Senest har du nok oplevet dette, når du har forsøgt at logge ind på en hjemmeside og blev bedt om at oprette et nyt kodeord.
+
+Måske har du også glemt dit kodeord på et tidspunkt og har måttet nulstille det. Det kan være en frustrerende proces, men det er også en nødvendig foranstaltning for at sikre, at kun du har adgang til din konto.
+
+Når du opretter et nyt kodeord, er det vigtigt at vælge noget, der er svært at gætte. Undgå gængse kodeword som "123456" eller "password", da de er utroligt lette at bryde. Et godt kodeord skal bestå af en kombination af store og små bogstaver, tal og specialtegn. Jo længere og mere kompleks dit kodeord er, jo sværere vil det være for hackere at gætte det.
+
+Når du har indtastet dit nye kodeord, bliver du som regel bedt om at gentage det for at sikre, at der ikke er sket en tastefejl. Dette dobbelttjek sikrer, at du ikke risikerer at blive låst ude af din konto senere hen.
+
+Efter du har indtastet dit nye kodeord, vil du typisk modtage en bekræftelsesmail med et link. Når du klikker på dette link, aktiveres dit nye kodeord, og du kan nu logge ind på din konto med den nye sikkerhed.
+
+Måske synes du nok, at det alt sammen kan virke besværligt og tidskrævende, men det er vigtigt at huske, at det handler om at sikre dit digitale liv. Ved at vælge et stærkt kodeord og være påpasselig med, hvem du deler det med, kan du sikre, at dine personlige oplysninger og data er i trygge hænder.
+
+Så næste gang du bliver bedt om at oprette et nyt kodeord, bør du se det som en mulighed for at øge sikkerheden på din konto. En ekstra indsats nu kan betyde meget for din tryghed online fremover.
