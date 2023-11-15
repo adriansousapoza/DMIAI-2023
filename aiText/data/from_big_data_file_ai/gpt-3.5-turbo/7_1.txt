@@ -1,0 +1,3 @@
+Uddyb om emnet
+gpt-3.5-turbo
+Emnet i teksten handler om forskellige oplysninger om personer, herunder deres fornavn, efternavn og ID. Det ser ud til, at der er flere oplysninger, der er knyttet til hver person, såsom deres fødsels-, begravelses-, dåbs- og konfirmationsdata, hver med deres eget person-ID. Disse oplysninger kan være en del af et slægtsforskningsprojekt eller en database, der holder styr på personlige oplysninger om enkeltpersoner.

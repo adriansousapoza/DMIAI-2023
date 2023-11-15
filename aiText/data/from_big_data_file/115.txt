@@ -1,0 +1,5 @@
+
+
+Vi vil nu vise dig tre eksempler på en problemformulering i SRP i forskellige fagkombinationer og analyse af disse. I eksemplerne skiller vi den givne problemformulering ad i dens enkelte problemstillinger. Derefter analyserer vi hver enkelt problemstilling:
+Hvilke kodeord indeholder den? (hvad der skal løses)
+Hvilke faglige arbejdsmetoder og tilgange skal anvendes? (hvordan det skal løses)

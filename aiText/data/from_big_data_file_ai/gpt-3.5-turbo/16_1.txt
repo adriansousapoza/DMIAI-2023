@@ -1,0 +1,6 @@
+Uddyb om emnet
+gpt-3.5-turbo
+Høng Gymnastikforening er en klub, der lægger vægt på at være inkluderende og have plads til alle. Klubben kræver, at brugerne udfylder alle påkrævede felter ved registrering, herunder brugernavn, efternavn og fødselsdag. Når registreringen er fuldført, bliver brugernavnet og login-godkendelsen bekræftet.
+Hvis brugeren glemmer sit kodeord, har klubben en funktion til at generere et nyt kodeord og sende det til brugerens e-mail-adresse. Der kan dog opstå fejl under denne proces, og brugeren bliver bedt om at prøve igen.
+
+I nyhederne kan man finde referatet fra et bestyrelsesmøde, der blev afholdt den 30. maj 2017. På dette møde blev referatet fra et tidligere bestyrelsesmøde den 21. marts godkendt. Der blev også diskuteret løb, og Kristine havde tidligere afleveret information om løbekonkurrencer i april og maj.

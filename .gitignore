@@ -1,3 +1,10 @@
+tumor-segmentation/nnUNet_results/Dataset001/*
+da.txt
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -166,5 +173,4 @@ tumor-segmentation/nnUNet_preprocessed/
 tumor-segmentation/data_validation/
 tumor-segmentation/data/
 tumor-segmentation/inverted_imgs/
-tumor-segmentation/nnUNet/
-tumor-segmentation/data/
+tumor-segmentation/nnUNet

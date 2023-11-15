@@ -1,0 +1,5 @@
+
+
+2 x 8mm glatte stænger (350mm)
+Start med at samle holderen til heatbed'en ved at montere de 4 lineære kuglelejer underneden med de tilhørende laserskårne holdere. Start med at sætte 12 mm M3 bolte gennem pladen og påskrue låsemøtrikker løst i enden. Sæt derpå kuglelejerne på pladen og slide den ind på møtrikkerne som vist på billederne. Stram til sidst skruerne endeligt, men ikke alt for fast - de skal justeres senere.
+Nu skal Y-motor holderen monteres nederst på bagstykket af hovedrammen

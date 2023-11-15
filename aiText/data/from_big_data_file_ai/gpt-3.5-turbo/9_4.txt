@@ -1,0 +1,13 @@
+Du er journalist og skal skrive en artikel om emnet, hvad skriver du?
+gpt-3.5-turbo
+Jeg er journalist og skal skrive en artikel om, hvordan man samler en holder til heatbed'en. 
+
+Artiklen vil starte med en beskrivelse af de nødvendige materialer: 2 x 8mm glatte stænger med en længde på 350mm. Derefter vil jeg forklare trin for trin, hvordan man samler holderen.
+
+Først skal man samle holderen ved at montere de 4 lineære kuglelejer underneden ved hjælp af de tilhørende laserskårne holdere. Man starter med at sætte 12 mm M3 bolte gennem pladen og påskrue låsemøtrikker løst i enden. Derefter sætter man kuglelejerne på pladen og slider den ind over møtrikkerne, som det er vist på billederne. Til sidst strammer man skruerne endeligt, dog ikke alt for fast, da de skal justeres senere.
+
+Nu kommer vi til næste skridt, hvor Y-motor holderen skal monteres nederst på bagstykket af hovedrammen. 
+
+Det er vigtigt at følge disse instruktioner nøje for at sikre korrekt samling af heatbed'en. Når holderen er færdig samlet, kan man fortsætte med andre trin i processen.
+
+Jeg håber, at denne artikel vil hjælpe læserne med at samle deres heatbed-holder korrekt og effektivt.

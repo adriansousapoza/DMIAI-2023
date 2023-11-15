@@ -1,0 +1,5 @@
+Du bliver interviewet om emnet
+gpt-3.5-turbo
+Jeg begynder med at samle holderen til heatbed'en ved at montere de 4 lineære kuglelejer underneden med de tilhørende laserskårne holdere. Jeg sætter 12 mm M3 bolte gennem pladen og påskruer låsemøtrikkerne løst i enden. Derefter sætter jeg kuglelejerne på pladen og slider den ind på møtrikkerne som vist på billederne. Til sidst strammer jeg skruerne endeligt, men ikke alt for fast, da de skal justeres senere.
+
+Herefter skal jeg montere Y-motor holderen nederst på bagstykket af hovedrammen.

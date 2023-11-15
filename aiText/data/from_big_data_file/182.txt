@@ -1,0 +1,5 @@
+
+
+Facebook - Synes godt om
+I nytCMS kan der indsættes Facebook "Synes godt om". Når den besøgende klikker på sådan et link, etableres forbindelse til Facebook hvor der bliver lavet et opslag på den besøgendes væg med et link til den side, hvor der er klikket på "Synes godt om".
+Anvendelse af Facebook "Synes godt om" er en god og nem måde at sprede det gode budskab og reklamere for jeres hjemmeside - og dermed også en mulighed for at nye potentielle medlemmer bliver opmærksomme på jeres eksistens.
