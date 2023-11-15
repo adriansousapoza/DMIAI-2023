@@ -214,44 +214,28 @@ def torchio_compose_train(image_paths, label_paths, control_paths,
 
     dataset = tio.SubjectsDataset(subjects_new)
 
-    if hist_standardization == False:
-        # rescale intensity
+    inverted_imgs_dir = Path('inverted_imgs')
+    inverted_imgs_paths = sorted(inverted_imgs_dir.glob('*.png'))
 
-        rescale_intensity = tio.RescaleIntensity((0, 1), percentiles=(0.5, 99.5))
+    histogram_landmarks_path = 'histogram_landmarks.npy'
 
-        subjects_new = []
+    landmarks = tio.HistogramStandardization.train(
+        images_paths=inverted_imgs_paths,
+        output_path=histogram_landmarks_path
+    )
+    landmarks = np.load(histogram_landmarks_path)
+    print('Landmarks:', landmarks)
+    landmarks_dict = {'img': landmarks}
 
-        for subject in dataset:
-            subject = rescale_intensity(subject)
-            subjects_new.append(subject)
-
-        dataset = tio.SubjectsDataset(subjects_new)
-
-    else:
-        # histogram standardization
-
-        inverted_imgs_dir = Path('inverted_imgs')
-        inverted_imgs_paths = sorted(inverted_imgs_dir.glob('*.png'))
-
-        histogram_landmarks_path = 'histogram_landmarks.npy'
-
-        landmarks = tio.HistogramStandardization.train(
-            images_paths=inverted_imgs_paths,
-            output_path=histogram_landmarks_path
-        )
-        landmarks = np.load(histogram_landmarks_path)
-        print('Landmarks:', landmarks)
-        landmarks_dict = {'img': landmarks}
-
-        histogram_standardization = tio.HistogramStandardization(landmarks=landmarks_dict)
+    histogram_standardization = tio.HistogramStandardization(landmarks=landmarks_dict)
         
-        subjects_new = []
+    subjects_new = []
 
-        for subject in dataset:
-            subject = histogram_standardization(subject)
-            subjects_new.append(subject)
+    for subject in dataset:
+        subject = histogram_standardization(subject)
+        subjects_new.append(subject)
 
-        dataset = tio.SubjectsDataset(subjects_new)
+    dataset = tio.SubjectsDataset(subjects_new)
 
     # z-normalization
 
