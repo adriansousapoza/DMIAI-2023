@@ -1,0 +1,7 @@
+
+
+Du er velkommen til at dele dette dokument - helt
+eller delvist - med andre, sålænge du henviser til
+Dette dokument er lavet med LATEX og TikZ-pakken.
+Alle akkorderne i denne bog er præsenteret på samme måde. Under akkordens navn findes en kort beskrivelse af akkorden. Til højre herfor findes
+et diagram, der viser, hvilke toner, der skal med i akkorden. Tallene indeni

@@ -1,0 +1,10 @@
+
+
+Udfyld ansøgningsformularen omhyggeligt.
+Ansøgers data:
+Ansøgers fulde navn
+Ansøger er - Vælg fra listen - Gift Samlever Fraskilt/separeret Enke/enkemand Alene
+Statsborgerskab - Vælg fra listen - Dansk statsborgerskab Midlertidig opholdstilladelse Permanent opholdstilladelse
+Husstandens indtægtsforhold. Angives månedligt i hele tusinder (eks: 21000)
+Rådighedsbeløb (beløb til rådighed når øvrige udgifter er betalt).
+Har du brug for hjælp til beregning af rådighedsbeløb, klik her for hjælpeskema.

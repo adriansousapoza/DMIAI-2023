@@ -1,0 +1,14 @@
+Debatforum
+gpt-3.5-turbo-0613
+Hej alle sammen,
+
+Jeg ville lige dele en god nyhed med jer! I nytCMS kan man nu indsætte et Facebook "Synes godt om" link på ens hjemmeside. Det betyder, at når en besøgende klikker på linket, vil der blive lavet et opslag på deres Facebook-væg med et link til den side, hvor de klikkede på "Synes godt om".
+
+Jeg synes virkelig, at det er en fantastisk måde at sprede det gode budskab og reklamere for jeres hjemmeside. På den måde kan I nå ud til nye potentielle medlemmer, som måske slet ikke var klar over, at I eksisterede. Det er virkelig en simpel og effektiv løsning.
+
+Jeg kan godt lide, hvordan nytCMS hele tiden kommer med nye og smarte funktioner, der hjælper os med at markedsføre vores hjemmesider. Det viser virkelig, at udviklerne har fingeren på pulsen og forstår, hvad der er vigtigt for os brugere. 
+
+Så hvad venter I på? Kom i gang med at bruge Facebook "Synes godt om" og spred budskabet om jeres fantastiske hjemmeside!
+
+Hav en dejlig dag,
+[dit navn]

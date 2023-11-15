@@ -1,0 +1,5 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du bliver spurgt om emnet og skal give din mening.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+
+På nuværende tidspunkt understøtter LibreOffice Hindi, Thai, Hebraisk, og Arabisk som CTL-sprog.
+Hvis du vælger tekstforløbet fra højre mod venstre, vil indlejret vestligt tekst stadig blive vist fra venstre mod højre. Markøren svarer til piletasterne på den måde, at højrepil flytter markøren til tekstens slutning, og venstrepil flytter til tekstens begyndelse.
+Du kan ændre tekstens skriveretning direkte ved at trykke en af de følgende taster:
