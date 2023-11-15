@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er inde på et uformelt debatforum og skal skrive en kommentar.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Hej alle sammen!
+
+Jeg vil gerne dele nogle tips til, hvordan man opretter en sikker e-mailkonto. Det er vigtigt at beskytte vores personlige oplysninger online, så her er nogle gode råd:
+
+1. Vælg et log-in navn, der er unikt og svært at gætte. Undgå at bruge dit rigtige navn eller noget åbenlyst som "email123". Prøv at inkludere mindst to karakterer, der ikke er almindelige, som punktum, understregning eller minus-tegn.
+
+2. Hvis din e-mail-udbyder tillader det, kan du bruge tegnsætningstegn som en ekstra sikkerhedsforanstaltning. Disse kan gøre dit log-in navn endnu mere unikt og vanskeligere at hacke.
+
+3. Hvis din udbyder ikke tillader specielle tegn, kan du efterligne dem ved at tilføje et tilfældigt tal på tre eller fire cifre til begyndelsen eller slutningen af dit log-in navn. Dette vil også bidrage til at gøre det sværere for uønskede gæster at gætte dit log-in.
+
+Husk at holde dine adgangskoder stærke og sikre og aldrig dele dem med andre. Det er også en god idé at aktivere totrinsbekræftelse, hvis din e-mail-udbyder tilbyder det. Dette tilføjer en ekstra lag af sikkerhed ved at kræve en kode eller bekræftelsesbesked for at logge ind på din konto.
+
+Pas på jer selv derude og vær opmærksom på sikkerheden!
+
+😊

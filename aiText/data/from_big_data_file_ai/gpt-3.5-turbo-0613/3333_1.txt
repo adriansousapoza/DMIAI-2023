@@ -1,0 +1,22 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+gpt-3.5-turbo-0613
+Hej alle sammen,
+
+I dag vil jeg gerne tale om en metode til at tælle antallet af unikke besøgende på en hjemmeside ved hjælp af PHP og MySQL. Dette er en simpel og effektiv måde at få indsigt i, hvor mange personer der besøger ens hjemmeside.
+
+Først og fremmest skal vi oprette en tabel i vores MySQL-database, som vi kan bruge til at gemme vores tællerdata. Vi vil kalde tabellen "counter" og den vil indeholde tre felter. Dette er vores grundlæggende struktur, og det er her, vi vil gemme vores information.
+
+Nu hvor vi har vores tabel klar, er det på tide at begynde at skrive vores PHP-script. Vi vil bruge PHP til at håndtere vores tællerlogik og forbinde det til vores MySQL-database.
+
+Først opretter vi en forbindelse til vores database ved hjælp af MySQLi-funktionerne i PHP. Dette vil give os adgang til vores tællertabel og lade os interagere med den.
+
+Derefter skal vi kontrollere, om den besøgende allerede er eksisterende i vores database eller ej. Vi gør dette ved at tjekke IP-adressen på den besøgende og sammenligne den med de IP-adresser, der allerede er gemt i vores tæller.
+
+Hvis den besøgende allerede er gemt i vores database, opdaterer vi simpelthen besøgsdatoen for at holde vores data opdaterede. Hvis den besøgende derimod ikke er gemt i vores database, indsætter vi en ny række med IP-adressen og den aktuelle dato.
+
+Til sidst får vi antallet af unikke besøgende ved at tælle antallet af rækker i vores tællertabel. Dette giver os det nøjagtige antal mennesker, der har besøgt vores hjemmeside.
+
+Jeg håber, at denne metode vil være nyttig for jer, når I ønsker at tælle antallet af unikke besøgende på jeres hjemmeside. Det kan give jer et værdifuldt indblik i, hvor mange mennesker der interagerer med jeres indhold.
+
+Tak for jeres opmærksomhed, og husk at bruge denne metode med omhu og respekt for brugernes privatliv.
+

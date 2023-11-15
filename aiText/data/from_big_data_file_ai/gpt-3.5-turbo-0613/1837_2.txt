@@ -1,0 +1,11 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er journalist og skal skrive en artikel ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Udelad titel. Ignorer smiley:
+gpt-3.5-turbo-0613
+Windows 8 har været på markedet i bare en måned, og allerede har Microsoft solgt mere end 40 millioner licenser til det nye operativsystem. Sammen med lanceringen af Windows 8 blev også Windows Store åbnet, hvor brugere kan downloade apps til deres nye system. Og det ser ud til, at populariteten af Windows 8 også har smittet af på Windows Store, da antallet af apps allerede er steget til over 22.000.
+
+Det store antal apps i Windows Store er en god nyhed for brugerne af Windows 8, da det betyder, at der er et bredt udvalg af programmer og funktioner at vælge imellem. Både private brugere og virksomheder kan finde apps, der passer til deres behov og ønsker.
+
+Den positive udvikling omkring Windows 8 og Windows Store har også fanget interessen hos mange danske virksomheder. Med 40 millioner solgte licenser på verdensplan er der ingen tvivl om, at der er et stort marked for apps og software, der kan udnytte Windows 8-platformen. Flere danske virksomheder har allerede fået øjnene op for de mange muligheder, og de har kastet sig ud i udviklingen af apps til Windows Store.
+
+En af de virksomheder, der har set potentialet i Windows 8, er Microsoft selv. De inviterer nu både partnere og kunder til at deltage i den første årlige Lync-konference i USA. Lync er en kommunikations- og samarbejdsplatform fra Microsoft, der også kan integreres med Windows 8 og Windows Store. Konferencen vil præsentere de seneste nyheder og tendenser inden for digital kommunikation og vil give deltagerne mulighed for at netværke og udveksle viden.
+
+Med så mange solgte licenser og et stadigt voksende antal apps i Windows Store ser det ud til, at Windows 8 er kommet for at blive. Brugerne har brug for apps, der kan udnytte potentialet i det nye system, og der er mange danske virksomheder, der er klar til at levere. For brugere af Windows 8 og Windows Store er det bare med at holde øje med de mange spændende muligheder, der ligger og venter i det digitale univers.

@@ -1,0 +1,18 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+gpt-3.5-turbo-0613
+Kære alle,
+
+Jeg vil gerne tage et øjeblik til at diskutere et emne, som jeg føler er vigtigt for vores samfund. Vi har alle et fælles ansvar for at sikre, at dansk sprog bevares og værdsættes i vores dagligdag. Sproget er en dybt forankret del af vores kultur og identitet, og det er vigtigt, at vi fortsætter med at tale og skrive på dansk.
+
+Jeg er klar over, at der kan være tekniske udfordringer i forhold til sprogindstillinger, og det er noget, vi skal se nærmere på. Vi bør sikre, at sprogindstillingerne for hele platformen og hver enkelt bruger er konfigureret korrekt. I det lys vil jeg opfordre hver enkelt bruger til at tjekke deres sprogindstillinger og sikre, at de er indstillet til dansk.
+
+Det er også vigtigt at nævne, at der er en funktion i administrationen (ACP), hvor man kan vælge at "Rekompilere fastfrosne typografikomponenter". Jeg vil opfordre jer til at tjekke denne indstilling og sørge for, at den er indstillet til "Yes".
+
+Jeg ved, at det kan være frustrerende, hvis man ikke kan finde sprogindstillingerne på sin brugerprofil. Jeg vil derfor opfordre vores tekniske team til at se nærmere på dette og finde en løsning, så alle brugere nemt kan vælge det sprog, de foretrækker.
+
+Endelig vil jeg gerne understrege, at det er vores fælles ansvar som samfund at værne om og fremme dansk sprog. Lad os arbejde sammen for at bevare vores kulturelle arv og sikre, at dansk sprog forbliver en levende og dynamisk del af vores hverdag.
+
+Tak for jeres opmærksomhed, og lad os fortsætte kampen for dansk sprog!
+
+Med venlig hilsen,
+[Navn]

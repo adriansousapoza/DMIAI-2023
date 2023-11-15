@@ -1,0 +1,22 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+gpt-3.5-turbo-0613
+Vigtige sikkerhedsanvisninger
+------------------------------
+
+Kære bruger,
+
+Vi ønsker at sikre dit velbefindende og sikkerhed, når du arbejder med elektriske anlæg. Derfor er det vigtigt, at du følger de rette forholdsregler for at undgå potentielle farer.
+
+Som du kan se, er der et mærke placeret på anlægget, der tydeligt angiver, at det for øjeblikket er ude af drift og ikke må betjenes. Dette skyldes, at der pågår arbejde på anlægget, der kan udgøre risiko for både dig og andre.
+
+Det er vigtigt at respektere dette mærke og lade være med at betjene anlægget, medmindre du er en autoriseret person med de rette kompetencer. Kun de personer, der har adgang til L-AUS lommebogen og har gennemgået de påkrævede instruktioner, må fjerne mærket og betjene anlægget.
+
+På nuværende tidspunkt kan det være frustrerende, at du ikke kan bruge anlægget som ønsket. Men husk, det er kun for din egen sikkerhed. Hvis du har brug for at udføre arbejde på anlægget, skal du kontakte de relevante autoriteter eller ansvarlige personer for at sikre, at alt er gjort korrekt og i overensstemmelse med alle sikkerhedsprocedurer.
+
+Vi opfordrer dig til at downloade og læse "Anvisninger ved arbejde på elektriske anlæg" i L-AUS lommebogen. Disse instruktioner vil hjælpe dig med at få en bedre forståelse af, hvordan du kan arbejde sikkert og trygt med elektriske anlæg.
+
+Pas på dig selv og andre, og hold dig sikker!
+
+Med venlig hilsen,
+
+[dit navn]

@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du bliver spurgt om emnet og skal give din mening.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Lokale spørgeskemaundersøgelser kan være en effektiv måde at indsamle vigtige informationer om arbejdspladsen og medarbejdernes trivsel. Ved at følge denne vejledning kan du nemt oprette en lokal spørgeskemaundersøgelse på din arbejdsplads.
+
+Først skal du logge på HR-systemet og vælge modulet APV & Trivsel. Hvis du har adgang til mere end én afdeling eller arbejdsplads, skal du sørge for at vælge den rigtige enhed på forsiden. Det er vigtigt at sikre, at spørgeskemaundersøgelsen sendes til den korrekte enhed.
+
+Når du har valgt den rigtige enhed, kan du begynde at oprette spørgeskemaundersøgelsen. Det kan være en god idé at starte med at definere formålet og målene for undersøgelsen. Hvad ønsker du at opnå med undersøgelsen? Vil du fokusere på specifikke arbejdsområder, medarbejdertrivsel eller noget helt tredje?
+
+Herefter kan du udvikle spørgsmålene til undersøgelsen. Det er vigtigt at lave spørgsmål, der er relevante og målbare. Sørg for, at spørgsmålene er klare og enkle, så medarbejderne nemt kan forstå dem og give konkrete svar. Du kan eventuelt bede om input fra kollegaer eller HR-afdelingen for at sikre, at spørgsmålene er af høj kvalitet.
+
+Når spørgsmålene er klar, kan du oprette selve spørgeskemaet i HR-systemet. Her kan du strukturere spørgsmålene, angive svarkategorier og eventuelt tilføje nogle instruktioner til medarbejderne. Det er vigtigt at sørge for, at spørgeskemaet er useriøs, let at afvikle og at det kan tilpasses den specifikke arbejdsplads.
+
+Når spørgeskemaet er klar, er det tid til at distribuere det til medarbejderne. Dette kan gøres elektronisk via HR-systemet eller ved at uddele fysiske kopier. Det er vigtigt at forklare formålet med undersøgelsen og opfordre medarbejderne til at deltage aktivt.
+
+Efter en passende periode kan du samle resultatet af undersøgelsen og analysere dataene. Det kan være en god idé at involvere HR-afdelingen eller andre relevante interessenter i denne proces for at sikre en korrekt og grundig analyse. Resultaterne skal bruges til at identificere områder, der kræver forbedring, og udvikle konkrete handlinger og løsninger.
+
+Lokale spørgeskemaundersøgelser kan være et værdifuldt værktøj til at forbedre arbejdspladsen og medarbejdernes trivsel. Ved at gøre brug af denne vejledning og tage de nødvendige skridt, kan du sikre en vellykket og meningsfuld undersøgelse, der kan bidrage til at skabe en endnu bedre arbejdsplads.

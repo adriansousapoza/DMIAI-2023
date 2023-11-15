@@ -1,0 +1,16 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+gpt-3.5-turbo-0613
+Kære alle,
+
+Jeg vil gerne tale med jer i dag om et emne, der er relevant for mange af os – adgang til vores arbejdsmail og kalender hjemmefra. Som I måske allerede har hørt, er det blevet muligt for medarbejdere på PCN at få adgang til webmail og kalender, selv når vi ikke er på kontoret. Dette er en fantastisk mulighed, der giver os mere fleksibilitet i vores arbejdsliv og gør det lettere for os at være produktive.
+
+Hvordan får man så adgang til mail og kalender? Det er faktisk ganske simpelt. Først og fremmest skal I klikke på linket "log på Webmail". Når I kommer ind på siden, skal I blot indtaste jeres brugernavn og adgangskode – præcis som I ville gøre, når I er på arbejde og logger ind på jeres computer. Det er vigtigt at nævne, at der anvendes en krypteret forbindelse for at beskytte vores brugernavne og adgangskoder. Sikkerheden er i højsædet!
+
+Desværre er der dog også en mindre god nyhed. Vi kan ikke længere logge på intranettet hjemmefra. Jeg ved, at dette kan være en skuffelse for nogle af jer, men det er vigtigt at huske, at vi stadig har adgang til vores mail og kalender, hvilket er det mest nødvendige i vores arbejde.
+
+Jeg håber, at I vil tage imod denne nye mulighed for at få adgang til vores arbejdsmail og kalender hjemmefra med åbne arme. Det er en stor fordel for os i vores travle hverdag, hvor fleksibilitet og evnen til at arbejde effektivt er afgørende.
+
+Tak for jeres opmærksomhed, og husk at udnytte denne nye mulighed til fulde!
+
+Mange hilsner, 
+[dit navn]

@@ -1,0 +1,19 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er journalist og skal skrive en artikel ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Udelad titel. Ignorer smiley:
+gpt-3.5-turbo-0613
+Frihed til at se dine yndlingsfilm når som helst og hvor som helst - det er en luksus, som iPhone-brugere kan nyde takket være den store skærm og kraftfulde teknologi i denne smarte enhed. Men hvis du nogensinde har prøvet at afspille en film, der ikke er kompatibel med din iPhone, ved du sandsynligvis, hvor frustrerende det kan være.
+
+Men fortvivl ikke! Der er løsninger, der kan hjælpe dig med at gøre dine film kompatible med din iPhone og få dig tilbage til at nyde dine yndlingsfilm på farten. Her er nogle nyttige tips til dig.
+
+Det første skridt er at downloade en DVD-kopi software til din computer. Der er mange tilgængelige programmer, både betalte og gratis. Et af de mest populære gratis programmer er MacTheRipper, som kan downloades fra deres hjemmeside. Når du har downloadet og installeret softwaren, skal du genstarte din computer.
+
+Næste trin er at indsætte den DVD, som du gerne vil konvertere til en iPhone-kompatibel fil, i din computers diskdrev. Åbn derefter DVD-kopi softwaren, og følg de angivne kommandoer for at kopiere DVD'en til din computer's harddisk.
+
+Efter at have kopieret DVD'en til din computer, kan du åbne filen i en videokonverteringssoftware for at konvertere den til et iPhone-kompatibelt format. Der er mange forskellige videokonverteringssoftware tilgængelige online, og de fleste af dem er nemme at bruge. Du skal blot angive det ønskede outputformat og vælge iPhone som dit målapparat. Klik på "Konverter", og softwaren vil begynde at konvertere filmen til det ønskede format.
+
+Når konverteringen er færdig, kan du overføre den konverterede film til din iPhone ved hjælp af iTunes eller andre filoverførselsmetoder. Tilslut din iPhone til din computer via USB-kablet, åbn iTunes og synkroniser din iPhone med din computer. Vælg de filer, du ønsker at overføre, og klik på "Anvend" for at starte overførslen til din iPhone.
+
+Nu er du klar til at nyde dine yndlingsfilm på din iPhone! Du kan se dem når som helst og hvor som helst uden problemer med inkompatibilitet.
+
+Det er vigtigt at bemærke, at kopiering af dine egne DVD'er er lovligt, hvis det kun er til personlig brug. Hvis du vil distribuere eller sælge filmen, er det dog ulovligt og i strid med ophavsretsloven.
+
+Med disse nyttige tips er du nu godt på vej til at gøre dine film kompatible med din iPhone. Så find din yndlingsfilm og få den konverteret til din iPhone, så du kan nyde den undervejs. God fornøjelse!

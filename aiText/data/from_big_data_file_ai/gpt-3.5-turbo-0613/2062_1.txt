@@ -1,0 +1,15 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+gpt-3.5-turbo-0613
+Kære alle,
+
+Jeg vil gerne tale om en helt fantastisk enhed, som vil revolutionere vores dagligdag og gøre vores liv meget nemmere. Denne enhed hedder Epson ePOS-Print og er indbygget i den intelligente TM-P60II. Denne enhed er i stand til at modtage XML-kommandoer direkte fra webapplikationer og udskrive direkte fra populære webbrowsere. Det betyder, at integration og vedligeholdelse af vores systemer bliver en leg.
+
+En af TM-P60II's unikke funktioner er peeleren, som er perfekt til hyldekantsmærkater og produktmærkning. Denne funktion muliggør højtydende udskrivning på op til 80 mm/sek på mærkatmedier. Det betyder, at jobs bliver udført hurtigt og effektivt, og vi kan spare tid i vores arbejdsprocesser. Papirsystemet med indfald hjælper også med at spare tid og gør udskrivning endnu mere bekvemt.
+
+Med TM-P60II og Epson ePOS-Print vil vores virksomhed kunne opleve en helt ny effektivitet og let håndtering af udskrivningsopgaver. Vi kan se frem til en mere strømlinet arbejdsproces og bedre muligheder for integration med vores webapplikationer.
+
+Jeg håber, at I alle er lige så begejstrede som jeg over denne innovative enhed. Lad os arbejde sammen om at implementere TM-P60II og Epson ePOS-Print og nyde de mange fordele, det vil medføre for vores virksomhed.
+
+Tak for jeres opmærksomhed.
+
+Uden venlig hilsen.
