@@ -1,0 +1,9 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du bliver spurgt om emnet og skal give din mening.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Crypt0L0cker er tilbage og har valgt Italien som sit primære mål. Jeg synes, det er alarmerende at høre, at Crypt0L0cker ransomware er tilbage og retter sit fokus mod Italien. Denne type malware har allerede vist sig at være skadelig i fortiden ved at låse brugernes filer og kræve løsepenge for at frigive dem. Dette kan forårsage store problemer for enkeltpersoner og virksomheder, der mister vigtige data og potentielt også penge.
+
+Crypt0L0cker har tidligere udført angreb på brugere i Australien og Europa, og det er bekymrende, at det nu har valgt Italien som sit primære mål. Det er vigtigt, at virksomheder og enkeltpersoner i Italien tager forholdsregler for at beskytte sig mod denne trussel. Dette inkluderer at have opdateret antivirus-software, være forsigtig med at åbne mistænkelige e-mails eller downloade filer fra ukendte kilder samt at sikkerhedskopiere vigtige data regelmæssigt.
+
+Desværre er ransomware blevet mere og mere almindeligt i de seneste år, og Cerber virus er også en af de farlige trusler. Selvom der er mange anti-malware-software i 2017, er det vigtigt at vælge den bedste for at beskytte ens system. En effektiv anti-malware-software kan identificere og blokere ransomware-angreb, samt hjælpe med at fjerne eventuelle malware-infektioner.
+
+Det er vigtigt, at vi alle forbliver opdaterede om de seneste trusler og tager de nødvendige forholdsregler for at beskytte os selv og vores data mod ransomware. Vi skal være forsigtige med, hvilke links vi klikker på, hvilke filer vi downloa der og hvem vi deler vores personlige oplysninger med. Hvis vi er proaktive og tager sikkerheden alvorligt, kan vi mindske risikoen for at blive ofre for ransomware.

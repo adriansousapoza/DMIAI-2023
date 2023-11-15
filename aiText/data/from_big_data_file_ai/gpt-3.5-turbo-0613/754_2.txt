@@ -1,0 +1,19 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er journalist og skal skrive en artikel ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Udelad titel. Ignorer smiley:
+gpt-3.5-turbo-0613
+Dagens nyhed - Microsofts indbyggede malware-scanner får kritik
+
+Det er ingen hemmelighed, at malware - skadelig software - er en af ​​de største trusler i vores moderne digitale verden. Derfor er det vigtigt at have pålidelige og effektive malware-scannere for at beskytte vores computere mod potentielle angreb. Desværre har Microsofts indbyggede malware-scanner, som normalt anses for at være en af ​​de bedste på markedet, fået et bovskud.
+
+Ifølge flere eksperter og sikkerhedsteams er der en kritisk svaghed i Microsofts malware-scanner, der gør det muligt for visse former for malware at snige sig forbi det beskyttende system. Svagheden er knyttet til en enkel, men vigtig detalje - forskellen på store og små bogstaver i brugernes adgangskoder.
+
+Det viser sig, at hvis en bruger angiver sin adgangskode i små bogstaver, mens malware-inficerede filer indeholder adgangskoden med store bogstaver, kan malwaren omgå Microsofts sikkerhedssystem. På denne måde kan malwaren ubemærket infiltrere en computersystem og potentielt stjæle vigtige oplysninger.
+
+En talsperson fra Microsoft har udtalt, at de er opmærksomme på problemet og arbejder på en løsning. Imidlertid er det endnu uvist, hvornår denne løsning vil blive udrullet til brugerne. Indtil da er det vigtigt at holde sig opdateret med de seneste opdateringer og være forsigtig med at indtaste adgangskoder korrekt.
+
+Mens vi venter på Microsofts løsning, er der dog en anden interessant ting at bemærke. I forbindelse med denne nyhed vil jeg gerne reklamere for en bog, der udkom i 1979 og betragtes som en best-seller inden for sit felt - "Gödel, Escher & Bach" af Douglas Hofstadter.
+
+I denne bog udforsker Hofstadter på både underholdende og pædagogisk vis begreberne om systemer, kunst og matematik. Han introducerer også ideen om, at selve idéen om en "malware-scanner" per definition er dømt til ikke at virke. Hans tanker giver læserne en dybere forståelse af kompleksiteten i vores digitale verden og de udfordringer, vi står over for med hensyn til sikkerhed og beskyttelse.
+
+Selvom bogen ikke direkte løser problemet med Microsofts malware-scanner, kan det være en interessant læsning for dem, der ønsker at forstå de dybere rødder og filosofi bag vores digitale sikkerhed.
+
+Indtil svagheden i Microsofts malware-scanner er løst, er det vigtigt, at vi alle tager vores egen cybersikkerhed seriøst. Sørg for at opdatere vores systemer, bruge komplekse adgangskoder og være opmærksomme på potentielle trusler. Lad os håbe, at Microsoft hurtigt finder en løsning, så vi kan føle os sikrere i den digitale verden.

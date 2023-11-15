@@ -1,0 +1,19 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du bliver spurgt om emnet og skal give din mening.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Hej,
+
+Det lyder som om du har brug for hjælp til at forbinde din nye CDI-boks på din speedfight, efter at din startspærre er gået i stykker. Det kan være en lidt teknisk sag, men jeg vil forsøge at guide dig bedst muligt gennem processen.
+
+Først og fremmest er det vigtigt at sikre, at du har den rigtige CDI-boks til din speedfight-model. Det er også en god idé at have en manual eller et diagram over ledningerne ved hånden, da dette kan hjælpe dig med at identificere de korrekte ledninger.
+
+Når du har det på plads, kan du begynde at se på ledninger fra startspærren, som du kan forbinde til den nye CDI-boks. Normalt vil der være en rød og sort ledning forbundet til startspærren. Disse skal typisk tilsluttes til det tilsvarende røde og sorte ledninger på CDI-boksen. Det er dog altid en god idé at tjekke manualen for at være sikker.
+
+Vær også opmærksom på eventuelle andre ledninger, der kommer fra startspærren. Nogle gange kan der være ekstra ledninger forbundet til andre funktioner, såsom forlygter eller bremselys. Hvis dette er tilfældet, skal du sørge for at holde styr på, hvilke ledninger der skal sluttes til CDI-boksen, og hvilke der skal forblive forbundet til deres oprindelige destination.
+
+Som altid anbefaler jeg at søge hjælp fra en professionel mekaniker eller søge råd og vejledning fra et online forum eller en scooterklub. Dette kan sikre, at du får den korrekte information og undgår eventuelle fejl, der kan forårsage yderligere problemer.
+
+Held og lykke med at få din speedfight kørende igen! Hvis du har flere spørgsmål, er jeg her for at hjælpe dig.
+
+Mange hilsner,
+
+[dit brugernavn]

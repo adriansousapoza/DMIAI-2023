@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er journalist og skal skrive en artikel ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Udelad titel. Ignorer smiley:
+gpt-3.5-turbo-0613
+I en verden, hvor teknologien konstant udvikler sig, er det ikke overraskende, at øjenstyring bliver en realitet. Dansk startup-virksomheden, The Eye Tribe, præsenterer en ny gadget, der giver brugerne mulighed for at styre deres enheder ved hjælp af øjnene.
+
+Denne banebrydende teknologi, der stadig er ved at blive udviklet, har potentialet til at revolutionere den måde, vi interagerer med vores tablets, computere og telefoner på. Ved at implementere eye tracking-teknologien vil brugerne kunne styre deres enheder ved blot at kigge på skærmen.
+
+Tanken om at bruge øjnene som et værktøj til at navigere rundt på enheder lyder måske som noget fra en science fiction-film, men det er faktisk en virkelighed, som The Eye Tribe ønsker at gøre tilgængelig for alle. Ved at tilføje en lille gadget til enheden og installere den tilhørende software kan man omdanne enhver eksisterende enhed til en øjenstyret enhed.
+
+Med denne teknologi vil det være muligt at scrolle nedad på en hjemmeside ved blot at kigge på bunden af skærmen, eller at vælge en app på sin telefon ved at fokusere på ikonets position. Det er enkle funktioner, der kan gøre vores interaktion med vores elektroniske enheder mere intuitive og bekvemme.
+
+Men det stopper ikke her. The Eye Tribe ser potentialet for denne teknologi i en bred vifte af applikationer, herunder gaming og sundhedssektoren. Forestil dig at spille et computerspil ved blot at rette dit blik på de elementer, du ønsker at interagere med, eller at bruge øjenbevægelser til at styre et kirurgisk instrument under en operation. Mulighederne er næsten uendelige.
+
+Selvom denne teknologi stadig er under udvikling, er The Eye Tribe allerede i gang med at demonstrere dens potentiale. De har med succes lavet forsøg med Android-enheder, hvor brugerne har kunnet navigere rundt på enheden ved blot at kigge på forskellige områder på skærmen.
+
+The Eye Tribe arbejder på at perfektionere teknologien og gøre den mere tilgængelig for offentligheden. De har allerede fået opmærksomhed fra både investorer og tech-entusiaster, der ser potentialet i denne teknologis evne til at ændre vores måde at interagere med elektroniske enheder på.
+
+Så hvis du nogensinde har drømt om at kunne styre din enhed med dit blik, er det nu en mulighed, der er ved at blive realiseret. The Eye Tribe er på vej til at gøre øjenstyring til en integreret del af vores teknologi, så vi kan se frem til en fremtid, hvor vores øjne bliver vores primære værktøj til at interagere med den digitale verden.

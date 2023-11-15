@@ -1,0 +1,28 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+gpt-3.5-turbo-0613
+Kære læser,
+
+Det er vigtigt at have et sikkert og unikt kodeord for at beskytte din konto og personlige oplysninger. Vi beder dig derfor om at oprette et nyt kodeord, før du kan logge ind. 
+
+Når du vælger et kodeord, bør du overveje følgende råd for at maksimere sikkerheden:
+
+1. Brug et langt kodeord: Jo længere, jo bedre. Et længere kodeord gør det sværere for uønskede personer at gætte det.
+
+2. Brug en kombination af store og små bogstaver, tal og specialtegn: Ved at inkludere forskellige tegn i dit kodeord øger du kompleksiteten og gør det sværere at gætte.
+
+3. Undgå personlige oplysninger: Brug ikke lettilgængelige oplysninger, såsom dit navn, fødselsdato eller telefonnummer i dit kodeord. Disse oplysninger kan være nemme at finde for potentielle hackere.
+
+4. Undgå genbrug af kodeord: Brug aldrig det samme kodeord på flere forskellige konti. Hvis en af dine konti bliver kompromitteret, vil det føre til risiko for alle dine andre konti.
+
+5. Opdater dit kodeord jævnligt: Det anbefales at ændre dit kodeord regelmæssigt for at holde det sikkert. Skift dit kodeord mindst en gang om året eller når du har mistanke om, at din konto er blevet kompromitteret.
+
+Hvis du har glemt dit kodeord, kan du klikke på "Glemt dit kodeord?" for at få hjælp til at nulstille det. Husk at følge de samme sikkerhedsforanstaltninger, når du opretter et nyt kodeord.
+
+Hvis du endnu ikke har digital adgang som abonnent, opfordrer vi dig til at oprette en konto og nyde godt af vores e-aviser og tillæg.
+
+Vi sender dig en bekræftelses-e-mail med et link, der aktiverer dit nye kodeord. Følg venligst instruktionerne i e-mailen for at fuldføre processen.
+
+Tak fordi du hjælper os med at sikre din konto. Hvis du har yderligere spørgsmål eller behøver hjælp, er du velkommen til at kontakte vores kundesupport.
+
+Med venlig hilsen,
+[dit navn]
