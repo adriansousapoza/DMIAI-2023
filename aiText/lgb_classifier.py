@@ -62,6 +62,8 @@ def scale_and_split_data(df, scaler = None, test_size = 0.15, val_size = 0.15, r
         scaled_train_features_arr = scaler.fit_transform(df.drop(['label'], axis=1).values)
         train_features = pd.DataFrame(scaled_train_features_arr, index = df.index, \
                                             columns = df.drop(['label'], axis=1).columns)
+    else:
+        train_features = df.drop(['label'], axis=1).astype('float')
         
     train_labels = df['label']
     X_train, X_test, y_train, y_test = train_test_split(train_features, train_labels, test_size=test_size, random_state=random_state)
@@ -69,45 +71,49 @@ def scale_and_split_data(df, scaler = None, test_size = 0.15, val_size = 0.15, r
 
     return X_train, X_val, X_test, y_train, y_val, y_test, scaler
 
+
 def evaluate_classification_results(estimator, X_train, X_val, y_train, y_val, X_test = None, y_test = None, method_name = '', plot = False, booster=False):
          
         N = 2 if X_test is None else 3
 
         X = [X_train, X_val] if X_test is None else [X_train, X_val, X_test]
-        y = [y_train, y_val] if y_test is None else [y_train, y_val, y_test]
+        Y = [y_train, y_val] if y_test is None else [y_train, y_val, y_test]
 
-        pred = np.zeros((N, len(y_val)))
-        fpr, tpr = np.zeros(N) = np.zeros(N)
-        auc_score = np.zeros(N)
-        log_loss_score = np.zeros(N)
-        acc_score = np.zeros(N)
+        fpr_list, tpr_list = [], []
+        auc_score = []
+        log_loss_score = []
+        acc_score = []
 
-        for i in range(N):
+        for x,y in zip(X,Y):
+            y = y.values.reshape(-1)
+
             if booster:
-                pred[i] = estimator.predict(X[i])
+                pred = estimator.predict(x)
             else:
-                pred[i] = estimator.predict_proba(X[i])[:,1]
-
-            fpr[i], tpr[i], _ = roc_curve(y[i], pred[i])                
-            auc_score[i] = auc(fpr[i],tpr[i])
-            log_loss_score[i] = log_loss(y[i], pred[i])
-            acc_score[i] = accuracy_score(y[i], pred[i] > 0.5) if booster else estimator.score(y[i], pred[i] > 0.5)
- 
-            print("binary/acc/AUC train: ", benchmark_stats_train)
-            print("binary/acc/AUC val: ", benchmark_stats_val)
-            if N == 3:
-                print("binary/acc/AUC test: ", benchmark_stats_test)
+                pred = estimator.predict_proba(x)[:,1]
             
-            if plot:
-                fig, ax = plt.subplots()
-                ax.plot(fpr_train, tpr_train, label=f'Train (AUC = {auc_score_train:5.3f})')
-                ax.plot(fpr_val, tpr_val, label = f'Val (AUC = {auc_score_val:5.3f})')
-                if N == 3:
-                    ax.plot(fpr_test, tpr_test, label = f'Test (AUC = {auc_score_test:5.3f})')
-                ax.set(title=f'{method_name} ROC', xlabel = 'FPR', ylabel = 'TPR')
-                ax.legend() 
-            return
-    
+            fpr, tpr, _ = roc_curve(y, pred)
+            fpr_list.append(fpr), tpr_list.append(tpr)
+            auc_score.append(auc(fpr, tpr))
+            log_loss_score.append(log_loss(y, pred))
+            acc_score.append(accuracy_score(y, pred > 0.5))
+
+        print("binary/acc/AUC train: ", log_loss_score[0], acc_score[0], auc_score[0])
+        print("binary/acc/AUC val: ", log_loss_score[1], acc_score[1], auc_score[1])
+
+        if N == 3:
+            print("binary/acc/AUC test: ", log_loss_score[2], acc_score[2], auc_score[2])
+
+        if plot:
+            fig, ax = plt.subplots()
+            ax.plot(fpr_list[0], tpr_list[0], label=f'Train (AUC = {auc_score[0]:5.3f})')
+            ax.plot(fpr_list[1], tpr_list[1], label = f'Val (AUC = {auc_score[1]:5.3f})')
+            if N == 3:
+                ax.plot(fpr_list[2], tpr_list[2], label = f'Test (AUC = {auc_score[2]:5.3f})')
+            ax.set(title=f'{method_name} ROC', xlabel = 'FPR', ylabel = 'TPR')
+            ax.legend()
+        return
+
 def objective(trial, method, param_wrapper, scoring, X_train, y_train):
 
     params = param_wrapper(trial)
@@ -157,8 +163,8 @@ def hyperoptizing_lgbm_clf(X_train, X_val, y_train, y_val, parameter_wrapper, n_
 
 def main():
 
-    feature_csv_path =  'data_features.csv'
-    string_csv_path = 'data.csv'
+    feature_csv_path = None #'data_processed\\data_manual.csv'
+    string_csv_path = 'data_processed\\data_all.csv'
     load_model = False
     hyperoptimization = False
 
@@ -174,11 +180,11 @@ def main():
     
     X_train, X_val, X_test, y_train, y_val, y_test, _ = scale_and_split_data(df, scaler = scaler, test_size = 0.15, val_size = 0.15, random_state = 42)
 
-    lgb_kwargs = dict(boosting_type='gbdt', num_leaves=45, \
-                                max_depth=3, learning_rate=0.2, n_estimators=175, \
+    lgb_kwargs = dict(boosting_type='gbdt', num_leaves=25, \
+                                max_depth=2, learning_rate=0.2, n_estimators=25, \
                                 objective='binary', min_split_gain=0.0,\
-                                min_child_samples=1, subsample = 0.98,
-                                reg_alpha=0.05, reg_lambda=0.05, \
+                                min_child_samples=5, subsample = 0.7,
+                                reg_alpha=0.07, reg_lambda=0.07, \
                                 n_jobs=-1, importance_type = 'split') 
 
     if load_model:
@@ -189,7 +195,7 @@ def main():
         lgb_clf = lgb.LGBMClassifier(**lgb_kwargs)
         lgb_clf.fit(X_train, y_train, eval_set = [(X_val, y_val)])
         booster = False
-        lgb_clf.booster_.save_model('lgb_classifier.json')
+        lgb_clf.booster_.save_model('models/lgb_classifier.json')
 
     print(lgb_clf.score(X_test, y_test))
     evaluate_classification_results(lgb_clf, X_train, \
