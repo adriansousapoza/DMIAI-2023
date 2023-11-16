@@ -15,7 +15,7 @@ from matplotlib import rcParams
 from cycler import cycler
 
 
-from sklearn.model_selection import train_test_split, cross_val_score, cross_validate, RandomizedSearchCV
+from sklearn.model_selection import train_test_split, cross_validate
 from sklearn.metrics import roc_curve, auc, log_loss, accuracy_score
 from sklearn.preprocessing import QuantileTransformer
 #from category_encoders import LeaveOneOutEncoder, TargetEncoder
@@ -26,15 +26,10 @@ from optuna.integration import LightGBMPruningCallback
 from optuna.pruners import MedianPruner
 import lightgbm as lgb
 
-import re
-import nltk
-
 from utils import *
 
 nltk.download('punkt');
 
-#nltk.download('wordnet');
-#nltk.download('stopwords');
 
 ## Change directory to current one
 dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -42,7 +37,6 @@ os.chdir(dir_path)
 
 
 pd.options.mode.chained_assignment = None
-
 
 ## Set plotting style and print options
 sns.set_theme()
@@ -168,8 +162,16 @@ def main():
     load_model = False
     hyperoptimization = False
 
+    # Set sklearn-style scaler/transformer if any
     scaler = None
 
+    if feature_csv_path is not None:
+        df = pd.read_csv(feature_csv_path)
+    else:
+        df = pd.read_csv(string_csv_path)
+        df = preprocess(df)
+
+    
     X_train, X_val, X_test, y_train, y_val, y_test, _ = scale_and_split_data(df, scaler = scaler, test_size = 0.15, val_size = 0.15, random_state = 42)
 
     lgb_kwargs = dict(boosting_type='gbdt', num_leaves=45, \
@@ -178,7 +180,6 @@ def main():
                                 min_child_samples=1, subsample = 0.98,
                                 reg_alpha=0.05, reg_lambda=0.05, \
                                 n_jobs=-1, importance_type = 'split') 
-
 
     if load_model:
         lgb_clf = lgb.Booster(model_file='lgb_classifier.json')
