@@ -1,0 +1,3 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+
+Syddansk Universitet (SDU) har i øjeblikket et strømudfald, der påvirker IT og netværk på universitet. Det skriver SDU i en mail til de studerende, som DR er i besiddelse af. Nedbruddet skyldes fysiske forhold lokalt på SDU på Campusvej i Odense. Der er lige nu ikke noget, der tyder på, at der er tale om et cyberangreb, lyder det i mailen. Studerende og lærere kan tilgå mails med videre, hvis de bruger deres eget netvæk eller arbejder hjemmefra.

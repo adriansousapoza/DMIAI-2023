@@ -1,0 +1,3 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er journalist og skal skrive en artikel ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Udelad titel. Ignorer smiley:
+
+Dummy Title http://example.com en-gb TYPO3 News Mon, 23 Jul 2018 00:08:21 +0200 Mon, 23 Jul 2018 00:08:21 +0200 TYPO3 EXT:news news-115 Wed, 08 Nov 2017 14:12:00 +0100 H+H Danmark A/S bliver Utzon Partner http://www.mur-tag.dk/udfoerelse/opmuring/fugtisolering/vejledning-om-fugtspaerre/news/h-h-danmark-as-bliver-utzon-partner/

@@ -1,0 +1,4 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+
+forlængelse.For at gøre ikonet synligt igen i Firefox, skal du klikke på "Firefox" knappen, peg på "Indstillinger" og klik på "Toolbar layout."Træk ikonet Evernote på listen til din værktøjslinje.
+Den Evernote Web Clipper ikon mangler muligvis fordi udvidelsen er blevet deaktiveret.For at se om forlængelsen aktiveres i Google Chrome, skal du klikke på ikonet skruenøgle, peg på "Funktioner" og klik på "Extensions".I Firefox skal du klikke på "Firefox" knappen, "Add-ons" og "Extensions"

@@ -1,0 +1,6 @@
+forklar og uddyb emnet
+
+Åbn menuen 'Start'. Vælg 'Hjælp og support' fra listen over muligheder.
+Minimer alle programmer. Tryk på knappen 'F1'.
+Åbn en mappe på dit system. Find linket 'Hjælp' i øverste menulinje. Vælg 'Hjælp og support' fra listen over muligheder.
+Operativsystemer bliver stadig mere komplekse. Der er en lang række funktioner, genvejstaster, systemværktøjer og kontrolpanelvalg, der kan forveksle dig

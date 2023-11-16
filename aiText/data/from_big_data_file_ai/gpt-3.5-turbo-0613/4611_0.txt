@@ -1,0 +1,13 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+En vigtig cue er intensitet, som angiver lydstyrken eller det lydtryk, der rammer øret. En højere intensitet kan opfattes som en højere lyd.
+
+En anden cue er frekvens, som angiver hvor mange svingninger eller vibrationer lydbølgen har i sekundet. Dette opfattes som lydens tonehøjde. Lavere frekvenser opfattes som dybe toner, mens højere frekvenser opfattes som høje toner.
+
+Spredningen af lyden i rummet er også en vigtig cue. Øret kan opfatte forskelle i lydstyrken og timingen af lyden, når den rammer ørets to ører. Dette giver hjernen information om lydens placering i rummet.
+
+Endelig er varighed også en cue, som angiver hvor lang tid lyden varer. Korte lyde kan være skarpe og hurtige, mens længere lyde kan være mere vedvarende og langsomme.
+
+Når lyden er opfanget og bearbejdet i hjernen, kan den fortolkes og genkendes. Det betyder, at hjernen kan associere lyden med tidligere oplevelser og kategorisere den som f.eks. tale, musik eller omgivende støj.
+
+Auditiv perception er derfor en kompleks proces, der involverer både det mekaniske i øret, bearbejdningen af sansedata i hjernen og fortolkning af lyden baseret på tidligere erfaringer. Det spiller en vigtig rolle i vores evne til at kommunikere og navigere i vores omgivelser.

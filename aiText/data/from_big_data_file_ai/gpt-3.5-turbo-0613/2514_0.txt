@@ -1,0 +1,24 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+gpt-3.5-turbo-0613
+Hej bilentusiast,
+
+Det lyder som om, du har stødt på et problem med din udstødning, efter du har foretaget en udskiftning. Det er altid ærgerligt, når man får fejl efter at have gjort noget godt for sin bil. Jeg vil forsøge at give dig et råd til at fikse problemet.
+
+Først og fremmest er det godt, at du har specificeret fejlprioriteten og kørehastigheden. Det giver mig noget at arbejde med.
+
+Ud fra den information, du har givet, lader det til, at du har skiftet til en ny udstødning fra Supersprint. Jeg antager, at denne udstødning er kompatibel med din Audi A3 8V 1.4 TFSI.
+
+Når du har skiftet hele udstødningen, herunder katalysatoren, er det vigtigt at sikre dig, at der ikke er sket nogen ændringer i motorstyringen. Hvis du ikke har ændret noget i motorstyringen, kan det være, at den nye udstødning ikke er kompatibel med bilens eksisterende indstillinger.
+
+Mit råd til dig er at besøge en professionel bilmekaniker eller et autoriseret Audi-værksted. De vil kunne undersøge bilens motorstyring og foretage eventuelle justeringer, der kan være nødvendige for at få den nye udstødning til at fungere korrekt.
+
+Desuden kan mekanikeren også tjekke lambdasonderne (B1) for eventuelle fejl eller problemer. Ud fra de oplysninger, du har angivet om Delta-lambda (-0.00003), ser det dog ud til, at lambdasonderne fungerer inden for det acceptable område, men det er stadig en god idé at få dem tjekket grundigt af en fagkyndig.
+
+Det er vigtigt at have en professionel til at tage sig af dette, da fejl i udstødningssystemet kan påvirke bilens ydeevne og forbrænding. En mekaniker vil kunne give dig et mere præcist råd og muligvis løse problemet for dig.
+
+Husk altid at følge bilens vedligeholdelsesplan og sørg for at bruge forhandlere eller professionelle mekanikere, der har erfaring med din specifikke bilmodel.
+
+Jeg håber, at dette råd vil hjælpe dig med at få styr på dit udstødningsproblem, og at din Audi A3 snart vil køre som ny igen. Held og lykke med reparationen!
+
+Med venlig hilsen,
+[dit navn]

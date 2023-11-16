@@ -1,0 +1,15 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forklar og uddyb emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Velkommen til TravelBird! Vi vil gerne informere dig om vores brug af cookies, da vi altid stræber efter at sikre den bedste brugeroplevelse på vores hjemmeside.
+
+Hvad er cookies? Cookies er små tekstfiler, som gemmes på din computer eller mobiltelefon, når du besøger vores websted. Disse filer indeholder oplysninger, der hjælper os med at forbedre din interaktion med vores hjemmeside og tilbyde dig skræddersyede reklamer og tilbud.
+
+Hvorfor bruger vi cookies? Vi bruger både funktionelle cookies og analytiske cookies. Funktionelle cookies er nødvendige for at sikre den korrekte og fejlfri funktion af vores websted. De hjælper os med at gøre din browsingoplevelse mere behagelig ved at huske dine præferencer og indstillinger.
+
+Analytiske cookies hjælper os med at indsamle anonyme oplysninger om, hvordan vores brugere interagerer med vores websted. Disse oplysninger er afgørende for at forbedre vores tjenester og tilpasse dem til dine behov og præferencer. Vi bruger også disse data til at evaluere effektiviteten af vores reklamer og tilbud.
+
+Dine valgmuligheder: Vi vil gerne forsikre dig om, at vores cookies ikke indeholder personlige oplysninger som navn, adresse eller betalingsoplysninger. Du kan til enhver tid vælge at afvise cookies via indstillingerne i din browser. Du skal dog være opmærksom på, at dette kan påvirke funktionaliteten af vores websted og forhindre dig i at nyde alle de interaktive og tilpassede funktioner, vi tilbyder.
+
+Beskyttelse af dine data: Vi ønsker at understrege, at vi tager din datasikkerhed meget alvorligt. Vi anvender de nødvendige tekniske og organisatoriske foranstaltninger for at beskytte dine personlige oplysninger mod uautoriseret adgang og misbrug. Vi deler ikke dine data med tredjeparter til reklameformål uden dit udtrykkelige samtykke.
+
+Vi håber, at denne information har givet dig et bedre indblik i vores brug af cookies. Hvis du har yderligere spørgsmål, er du velkommen til at kontakte vores kundeservice. Vi er her for at hjælpe dig! Tak for din opmærksomhed, og god fornøjelse med at udforske vores websted.

@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+gpt-3.5-turbo-0613
+Kære studerende, 
+
+Jeg håber, I har haft en god start på semesteret. Desværre er jeg nødt til at informere jer om en uheldig situation, der for øjeblikket påvirker vores elnetværk her på Syddansk Universitet. Vi oplever et strømudfald, hvilket desværre også berører vores IT og netværk. 
+
+Situationen skyldes fysiske forhold lokalt her på vores campus i Odense. Vi undersøger på nuværende tidspunkt årsagen til udfaldet og arbejder hårdt på at få det løst hurtigst muligt. Jeg vil gerne understrege, at der ikke er noget, der tyder på, at der er tale om et cyberangreb. 
+
+Selvom vores interne netværk er berørt, er der stadig mulighed for at tilgå mails og øvrige informationer ved at bruge jeres eget netværk eller arbejde hjemmefra. Jeg er selvfølgelig opmærksom på, at dette kan være en udfordring for visse studerende og undervisere, og jeg vil gerne takke jer for jeres tålmodighed og forståelse i denne situation. 
+
+Vores IT-afdeling arbejder på højtryk for at finde en løsning, og vi vil holde jer opdateret med den seneste information. Jeg er sikker på, at vi snart vil være tilbage på sporet, og at vi kan fortsætte vores uddannelse og forskning uforstyrret.
+
+På vegne af Syddansk Universitet vil jeg gerne takke jer alle for jeres engagement og forståelse. Vi værdsætter jeres vedholdenhed under disse udfordrende omstændigheder.
+
+Med håb om snarlig genoprettelse og fortsat fremgang ved SDU.
+
+[Underskrift]

@@ -1,0 +1,9 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+I denne undersøgelse fra 2012-2020 undersøgte man arbejdsmiljøet og helbredet i Danmark. Undersøgelsen sammenlignede forskellige jobgrupper for at se, hvordan de forskellige jobtyper havde det med hensyn til specifikke spørgsmål.
+
+Et af de spørgsmål, der blev undersøgt, var niveauet af stress i de seneste to uger. Dette blev målt på en skala fra 'Aldrig' til 'Hele tiden'. Man lavede et diagram, der viser stressniveauet for forskellige jobgrupper.
+
+Resultaterne blev præsenteret i form af en gennemsnitlig score. Dette betyder, at man tog alle svar fra forskellige personer i hver jobgruppe og beregnede det gennemsnitlige stressniveau for den pågældende gruppe.
+
+Diagrammet viser altså, hvordan forskellige jobgrupper i Danmark oplevede stress i de seneste to uger i forhold til hinanden. Det kan give et indblik i, hvilke jobtyper der kan være mere stressende end andre, og hvor der eventuelt er behov for indsatser for at forbedre arbejdsmiljøet for de berørte grupper.

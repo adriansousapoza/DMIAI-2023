@@ -1,0 +1,10 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+
+Fornavn: Efternavn: ID:
+Skriv del af dato for at se sammenfaldende begivenheder. Lad feltet være tomt for at se sammenfald for alle.
+Begivenhed(er):
+januar februar marts april maj juni juli august september oktober november december
+Efternavn, Fornavn
+Kjeldsen, Svend 6 jul. 1902 Esbjerg, Skast herred, Ribe amt I7657
+Hansdatter, Maren 6 jul. 1818 Gadbjerg sogn, Tørrild herred, Vejle amt I2625
+Møller, Richard 6 jul. 1884 Sankt Nicolaj kirke, Vejle, Nørvang herred, Vejle amt I6723

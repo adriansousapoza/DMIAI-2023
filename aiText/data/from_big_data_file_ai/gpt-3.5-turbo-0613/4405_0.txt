@@ -1,0 +1,13 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Arkivering af kilder handler om processen med at gemme og bevare de oplysninger, som er citeret eller brugt som kilder i en artikel eller tekst. Dette er vigtigt for at sikre, at informationen forbliver tilgængelig for læsere i fremtiden, selv hvis de oprindelige kilder ændrer sig eller fjernes fra internettet.
+
+Når man citerer eller bruger information fra internettet som kilde, kan det være en god idé at arkivere kilden for at sikre, at den forbliver tilgængelig og kan verificeres senere. Dette kan være særligt vigtigt, hvis kilden er fra en hjemmeside, der ikke nødvendigvis vil være tilgængelig i fremtiden eller kan ændre sig over tid.
+
+Arkivering af kilder kan gøres på forskellige måder. En af de mest almindelige metoder er at bruge et webarkiv, som f.eks. Wayback Machine, der tager billeder af hjemmesider og gemmer dem i deres database. Når en kilde er arkiveret, bør der tilføjes en note eller henvisning til arkivet så læserne kan finde og verificere kilden.
+
+Arkivering af kilder er en vigtig praksis inden for forskning og akademisk skrivning for at sikre troværdigheden og pålideligheden af kildeangivelser. Det hjælper også med at bevare information og historik for fremtidige generationer.
+
+På Wikipedia er det også vigtigt at arkivere kilder korrekt for at bevare referencerne i artiklerne. Dette hjælper med at opretholde kvaliteten og validiteten af oplysningerne på platformen og forhindrer, at artiklerne mister deres kilder over tid. Wikipedia har interne retningslinjer og vejledninger, der beskriver den korrekte praksis for at arkivere kilder på platformen.
+
+Kort sagt handler arkivering af kilder om at sikre, at information forbliver tilgængelig og verificerbar i fremtiden, selvom de oprindelige kilder ændrer sig eller fjernes. Dette er en vigtig praksis inden for forskning, akademisk skrivning og på platforme som Wikipedia for at bevare troværdigheden og kvaliteten af oplysningerne.

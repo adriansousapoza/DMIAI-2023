@@ -1,0 +1,5 @@
+forklar og uddyb emnet
+
+2 Resume af sidst Overblik over kursus Introduktion. Tre pointer: Datalogi er menneskeskabt og dynamisk. Tidslinie over fremskridt mht. ideer og hardware. Algoritme er et centralt begreb i datalogi. Abstraktion er et stærkt værktøj.
+3 Algoritmer Algoritme = sekvens af operationer på en virtuel maskine. Virtuel maskine = Samling af veldefinerede operationer (handlinger).
+4 Algoritmer Algoritme = sekvens af operationer på en virtuel maskine

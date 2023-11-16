@@ -1,0 +1,5 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du bliver spurgt om emnet og skal give din mening.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+I de gode gamle dage af entrepriseretten var tingene måske ikke helt så komplicerede som i dag. Man kunne enten give skylden til entreprenøren eller bygherren, og risikoen blev ofte flyttet i sin helhed uden dybere overvejelser. Dette er stadig et problem i mange kontrakter, og det er også det grundlæggende paradigme, vores forretningsmodeller er bygget på.
+ 
+Et eksempel på dette er et byggeri, hvor forskellige entreprenører udfører forskellige fagområder. I dette tilfælde pålægger byggeledelsen facadenentreprenøren at stå for interimsafdækningen under opførelsen.

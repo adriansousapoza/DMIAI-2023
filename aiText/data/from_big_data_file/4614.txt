@@ -1,0 +1,8 @@
+forklar og uddyb emnet
+
+Hvis ikke, så vil vi meget gerne høre dine kommentarer.
+Skriv dem herunder, så gør vi det bedste, vi kan for at forbedre manualen.
+Prøv Gratis
+10. Flytning af shop
+Du kan redigere tidspunkt og informationer for et event ved at finde den i kalenderen, dobbeltklikke på den og vælge ”Rediger event”.
+Det er ligeledes muligt at flytte dato og/eller ændre varighed for et event direkte i uge-visningen.

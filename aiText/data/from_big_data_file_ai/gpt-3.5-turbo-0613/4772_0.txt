@@ -1,0 +1,17 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Det ser ud til, at du forsøger at få adgang til TripAdvisor's hjemmeside, men bruger en browser, som ikke understøttes. Dette kan resultere i, at hjemmesiden vises forkert eller ikke fungerer korrekt.
+
+TripAdvisor understøtter normalt følgende browsere: 
+- Google Chrome
+- Mozilla Firefox
+- Safari
+- Microsoft Edge
+
+Hvis du bruger en anden browser, kan du prøve at åbne TripAdvisor i en af de understøttede browsere for at se, om det løser problemet.
+
+Når det er sagt, ser det ud til, at du søger efter 3-stjernede hoteller i Bogor, der er beliggende i nærheden af visse seværdigheder eller vartegn som Viral Batik, Batik MAGO, Cimahpar Pool, 21 Cineplex og Cinemaxx. Derudover leder du også efter hoteller i nærheden af lufthavne og uddannelsessteder som Pakuan University.
+
+TripAdvisor er en populær hjemmeside, der giver brugere mulighed for at søge efter hoteller, restauranter, aktiviteter og meget mere, og læse anmeldelser og ratings fra andre rejsende. Du kan bruge søgefunktionen på hjemmesiden til at finde præcis det, du leder efter, baseret på dine søgekriterier og præferencer.
+
+Hvis du stadig har problemer med at få adgang til TripAdvisor eller har spørgsmål omkring specifikke hoteller eller ting at gøre i Bogor, kan du kontakte TripAdvisor's kundeservice for support og yderligere vejledning.

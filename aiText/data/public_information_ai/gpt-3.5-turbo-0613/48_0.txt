@@ -1,0 +1,13 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forklar og uddyb emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Hvis du har investeret i aktier, der ikke er optaget til handel på et reguleret marked, og du taber penge i forbindelse med salget af disse aktier, er det vigtigt at være opmærksom på, at du skal oplyse dette tab på din årsopgørelse. Dette gælder også for aktier, der handles på såkaldt OTC-markedet (Over-The-Counter markedet).
+
+Når du indberetter tabet på din årsopgørelse, skal du gøre det i rubrik 67 eller i det relevante oplysningsskema. Dette sikrer, at tabet bliver automatisk modregnet i eventuel positiv aktieindkomst, hvilket kan have en positiv effekt på din samlede beskatning.
+
+Det er vigtigt at være opmærksom på, at selvom aktierne ikke er optaget til handel på et reguleret marked, er det stadig nødvendigt at indberette eventuelle tab korrekt. Dette skyldes, at Skat ønsker at sikre, at alle skattepligtige indkomster og tab bliver dokumenteret og beskattet korrekt.
+
+Når du indberetter tabet, er det en god idé at have dokumentation for at understøtte dit tab. Dette kan for eksempel være handelsdokumenter, en handelsbekræftelse eller andre relevante dokumenter, der viser det faktiske tab, du har lidt ved salget af aktierne.
+
+Det kan være en god idé at konsultere en skatteekspert eller revisor, hvis du har spørgsmål eller brug for assistance i forbindelse med indberetning af tab på ikke-regulerede aktier. De kan give dig råd og vejledning baseret på din specifikke situation og sikre, at du opfylder alle lovmæssige krav.
+
+Det er vigtigt at huske, at skatteregler kan ændre sig over tid, så det er altid en god idé at holde sig opdateret på gældende regler og reguleringer vedrørende beskatning af aktieindkomst og tab på aktier, der ikke er optaget til handel på et reguleret marked.

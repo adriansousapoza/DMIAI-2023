@@ -1,0 +1,7 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Emnet i denne tekst er køb af e-bøger og lydbøger. Det ser ud til at der kommer snart nye e-bøger til salg, og der er lydbøger tilgængelige til priser under 50,- og 100,-. Det fremgår også, at hjemmesiden Politiken Books fungerer bedst, når man har JavaScript aktiveret.
+
+Der er også nogle funktioner, man kan benytte sig af i forbindelse med køb af bøger. Man kan tilføje en bog til sin ønskeliste, hvilket betyder, at man kan huske, at man har interesse for bogen, men uden at købe den med det samme. Man kan også tilføje den til sit bibliotek, hvilket antyder at man har købt og gemt bogen til senere læsning.
+
+Teksten fortsætter med en kort opsummering af plottet i en bog ved navn "Alida og Asle". Alida og Asle er to mennesker, der er flyttet til byen Bjørgvin for at finde arbejde og et sted at bo. Begge har oplevet vanskeligheder i deres fortid - Asle har mistet begge forældre, og Alida er blevet udstødt af sin egen mor. Alligevel kan de huske den tid, da de mødtes, og de indser straks, at de er perfekte for hinanden.

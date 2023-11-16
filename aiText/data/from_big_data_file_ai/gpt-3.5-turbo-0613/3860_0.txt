@@ -1,0 +1,17 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Alle disse oplysninger er værelsesbeskrivelser fra et hotel eller et lignende sted. De forskellige typer værelser har forskellige faciliteter og sengearrangementer.
+
+Den første beskrivelse er af en suite med en queensizeseng, der ikke tillader rygning. Den har også et boblebad og betegnes som værelse nummer 2 af alt tilgængelige værelser på hotellet.
+
+Den anden beskrivelse er også af en suite, men denne gang med en kingsizeseng og en sauna. Den har også et opholdsområde og betegnes som værelse nummer 4.
+
+Den tredje beskrivelse er af et standardværelse med en dobbeltseng. Den har også en størrelse på 140 cm, hvilket angiver, at det er et Grandlit-seng. Dette værelse betegnes som nummer 5.
+
+Den fjerde beskrivelse er af et standardværelse med en enkeltseng. Dette værelse er heller ikke-ryger og har en separat badeværelse. Den er nummer 7 på listen over tilgængelige værelser.
+
+Den femte beskrivelse er af et deluxe-værelse med en dobbeltseng og eget badeværelse. Den mangler yderligere detaljer og er nummer 8 på listen over værelser.
+
+Den sjette beskrivelse er af et familieværelse, der ikke tillader rygning. Der er ikke angivet yderligere faciliteter eller sengearrangementer, men det betegnes som værelse nummer 25.
+
+Den syvende og sidste beskrivelse er af endnu en suite med en queensizeseng. Den er heller ikke-ryger og har også et boblebad. Denne beskrivelse nævner også, at værelset har et badeværelse og er nummer 31.

@@ -1,0 +1,3 @@
+forklar og uddyb emnet
+
+Just Manager (64-bit portable) er et meget nyttigt og effektivt filhåndteringsprogram til Windows. Det er proppet med funktioner, så som flere faneblade, filsøgning, omdøbningsværktøj, osv. Det er desuden ikke så krævende og sidst men ikke mindst er det gratis.

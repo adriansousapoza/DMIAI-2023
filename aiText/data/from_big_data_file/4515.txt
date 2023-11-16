@@ -1,0 +1,6 @@
+forklar og uddyb emnet
+
+Skæve streger, fiasko og en ny ven
+Hvordan jeg endte med at kaste min kærlighed på tegneprogrammet LibreCAD og stadig være gode venner med Inkscape.
+Jeg har kastet mig ud i et projekt med at bygge et computerstyret ophæng til et spejlreflekskamera. For at bygge de mekaniske dele af projektet har jeg brug for at kunne lave ret præcise digitale tegninger. Tegninger der i sidste ende skal importeres fra PDF i laserskæren.
+Jeg har derfor gjort mig et par tanker og erfaringer ang

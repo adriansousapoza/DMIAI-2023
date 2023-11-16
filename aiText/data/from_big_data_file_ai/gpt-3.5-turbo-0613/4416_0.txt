@@ -1,0 +1,19 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+. Cookien gør det muligt for hjemmesiden at genkende din enhed og huske oplysninger om dine præferencer eller handlinger. Det kan for eksempel være at huske hvad der ligger i din indkøbskurv, hvilke sider du har besøgt eller at tilpasse indholdet på hjemmesiden til dine interesser.
+
+Formålet med at bruge cookies er primært at forbedre din oplevelse af hjemmesiden. Ved at gemme information om dine præferencer kan hjemmesiden tilpasse sig til dig og vise dig indhold, der er mest relevante for dig. Cookies kan også bruges til at indsamle statistik om, hvordan brugere interagerer med hjemmesiden. Dette kan hjælpe med at identificere og rette eventuelle problemer og optimere brugeroplevelsen.
+
+Der findes forskellige typer af cookies, herunder:
+
+- Nødvendige cookies: Disse cookies er essentielle for at hjemmesiden kan fungere korrekt. De giver grundlæggende funktioner som at navigere på siden, bruge indkøbskurven eller logge ind på ens konto. Disse cookies kan ikke fravælges.
+ 
+- Funktionelle cookies: Disse cookies giver ekstra funktionalitet, der ikke er nødvendig for grundlæggende drift af hjemmesiden. Det kan for eksempel være at huske dine indstillinger eller at tilbyde en mere personlig oplevelse. Du kan vælge at fravælge disse cookies.
+
+- Præference cookies: Disse cookies bliver brugt til at huske dine præferencer og valg på hjemmesiden. De kan for eksempel huske sprogvalg eller om du har valgt at acceptere cookies. Du kan vælge at fravælge disse cookies.
+
+- Statistik cookies: Disse cookies bruges til at indsamle anonym information om hvordan brugerne interagerer med hjemmesiden. Det kan være antal besøgende, siderne de besøger og hvor lang tid de opholder sig på siden. Disse data kan bruges til at forbedre hjemmesiden og optimere brugeroplevelsen. Du kan vælge at fravælge disse cookies.
+
+Det er vigtigt at bemærke, at cookies kan indeholde personlig information, men kun hvis du selv har angivet det på hjemmesiden. For eksempel hvis du indtaster dine kontaktoplysninger på et tilmeldingsformular. Normalt vil cookies kun indeholde anonyme oplysninger.
+
+For at acceptere eller afvise cookies kan du normalt ændre indstillingerne i din browsers internetindstillinger. Du kan også få en besked om cookies når du besøger hjemmesider og vælge at acceptere eller afvise dem derfra.

@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+gpt-3.5-turbo-0613
+Hvis du har problemer med at se Evernote Web Clipper-ikonet i din Firefox- eller Google Chrome-browser, fortvivl ikke! Der er et par enkle trin, du kan følge for at få ikonet tilbage på din værktøjslinje.
+
+I Firefox skal du starte med at klikke på "Firefox" knappen øverst til venstre i din browser. Find "Indstillinger" og klik på det. Dette åbner en rulleliste med forskellige muligheder, hvor du skal vælge "Toolbar layout."
+
+Når du har klikket på "Toolbar layout," kan du se en liste over ikoner, der kan tilføjes til værktøjslinjen. Find Evernote-ikonet på listen, og træk det tilbage til din værktøjslinje. Dette skulle gøre ikonet synligt igen, når du bruger Firefox.
+
+Hvis du bruger Google Chrome, skal du klikke på ikonet skruenøgle øverst til højre i din browser. Vælg "Funktioner" fra rullelisten, og klik derefter på "Extensions." Dette åbner en side med alle dine browserudvidelser.
+
+Søg efter Evernote Web Clipper-udvidelsen på listen, og kontroller, om den er blevet deaktiveret. Hvis den er deaktiveret, skal du aktivere den ved at klikke på knappen ved siden af udvidelsen. Nu skulle ikonet gerne vises igen i din Google Chrome-browser.
+
+Hvis ingen af disse trin virker, kan du prøve at geninstallere Evernote Web Clipper-udvidelsen. Du kan finde den officielle udvidelse i den relevante browserbutik.
+
+Husk altid at kontrollere, om din browser er opdateret til den seneste version, da nogle ændringer i browserens opdateringer kan påvirke visningen af ​​ikoner. Hvis du stadig har problemer, kan det være en god idé at kontakte Evernote-supporten for yderligere hjælp.
+
+Håber disse råd hjælper dig med at få dit Evernote Web Clipper-ikon tilbage på din værktøjslinje. God clipning!

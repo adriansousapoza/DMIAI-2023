@@ -1,0 +1,3 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forklar og uddyb emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+
+Data bliver lagt på i det primære datacenter, hvor data også bliver kopieret via en XOR algorithm til de to andre datacenter med en asynkrone metode. For at komme til det primær datacenter skal det i gennem et load balancer cluster. Hvis der kommer en fejl på det primær datacenter vil load balancerne dirigere trafikken til en af de to andre datacenter som, vil ”pakkerne” XOR pakkerne ud og hente eller skrive data der.

@@ -1,0 +1,13 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Emnet handler om køb og salg af både nye og brugte varer på DBA (Den Blå Avis). DBA er en online platform, hvor brugere kan oprette annoncer for varer, som de ønsker at sælge, og andre brugere kan derefter kontakte sælgeren og købe varerne.
+
+På DBA kan man finde over 1 mio. billige ting til salg. Det kan være alt fra møbler, elektronik, tøj, biler, tilbehør og meget mere. Brugere kan købe både nye og brugte varer, hvilket gør det til et populært sted at handle, da man kan finde gode tilbud og spare penge.
+
+For at kunne handle på DBA skal man oprette en bruger. Dette kan gøres ved at oprette en konto på hele dba.dk. Når man har oprettet en bruger, kan man søge efter varer ved at angive placeringen (f.eks. Brønderslev), kategori (f.eks. biltilbehør) og specifikke detaljer (f.eks. anhængertræk, bagagerumsdækken osv.).
+
+På DBA kan man også vælge at få besked, når der kommer nye annoncer, der matcher ens søgning. Dette kan være nyttigt, hvis man søger efter en specifik vare eller ønsker at følge med i nye tilbud og muligheder.
+
+Desuden kan man filtrere søgeresultaterne baseret på tidspunktet, hvor annoncen er blevet oprettet (f.eks. seneste uge, seneste 2 uger), samt om man kun ønsker at se annoncer fra NemID-brugere.
+
+DBA er en populær platform, hvor brugere kan finde varer til gode priser og samtidig få mulighed for at sælge egne varer, som man ikke længere har brug for. Det er en praktisk og bekvemt løsning for både købere og sælgere.

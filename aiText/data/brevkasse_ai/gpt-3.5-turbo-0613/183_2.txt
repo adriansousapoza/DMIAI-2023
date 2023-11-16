@@ -1,0 +1,13 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Jeg har modtaget din forespørgsel angående antidepressiv medicin specielt velegnet til ældre, og jeg vil gerne starte med at diskutere dine symptomer. Det virker som om, at du lider af tilbagevendende depressioner, ledsaget af led- og muskelsmerter, samt feber og forhøjet blodtryk. Først og fremmest vil jeg gerne undersøge, om dit forhøjede blodtryk og feber skyldes din depression. Det kan være, at du lider både af forhøjet blodtryk og tilbagevendende depressioner, og at feberen skyldes (virus-)infektioner. 
+
+Når det kommer til behandlingen af ældre med depression, bruger man ofte de såkaldte lykkepiller (som egentlig er SSRI-præparater). De ældre præparater, de tricykliske antidepressiva, anvendes kun i begrænset omfang, da de kan have en række bivirkninger, som især er uheldige for ældre mennesker. Hvis virkningen af SSRI-præparaterne ikke er tilstrækkelig, bliver behandlingen ofte suppleret med et præparat, der indeholder det aktive stof mianserin. Mange læger, der behandler ældre mennesker med depressive lidelser, har erfaring med, at denne kombinationsbehandling kan være mere effektiv end stofferne hver for sig, og kombinationsbehandlingen tolereres ofte godt.
+
+Det er vigtigt at nævne, at den anvendte medicin kan variere fra person til person, og at det kan være nødvendigt at prøve forskellige præparater for at finde den rette behandling til dig. Jeg anbefaler derfor, at du kontakter din læge for at drøfte dine symptomer nærmere og få en personlig behandlingsplan, der er tilpasset dine behov.
+
+Jeg håber, at denne information har været nyttig for dig. Husk altid at rådføre dig med din læge, før du ændrer din medicin eller behandling.
+
+Med venlig hilsen

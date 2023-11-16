@@ -1,0 +1,13 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Hypertekst er et koncept inden for informations- og kommunikationsteknologi, der muliggør ikke-lineær og ikke-kronologisk organisation af information. Det blev først introduceret af Ted Nelson i 1965 og blev senere udviklet og populært af Tim Berners-Lee, der skabte World Wide Web.
+
+I et hypertekst-system er informationen organiseret som en netværk eller en struktur af "noder" og "hyperlinks", hvor hver node repræsenterer en individuel enhed af information, f.eks. en tekstafsnit, billede eller video. Hypertext-links er interaktive elementer, der tillader brugeren at hoppe direkte fra en node til en anden ved at klikke på linket.
+
+Det unikke ved hypertekst er, at det giver brugeren frihed til at navigere og udforske informationen på en ikke-lineær måde. Man kan hoppe frem og tilbage mellem forskellige emner, følge links, der fører til relateret indhold, hoppe mellem forskellige niveauer af detaljer og meget mere. Dette adskiller sig markant fra traditionelle lineære medier som bøger eller artikler, hvor man normalt læser fra start til slut.
+
+Hypertekst-systemer har spillet en afgørende rolle i udviklingen af internettet og har gjort det muligt for brugerne at opdage og dele information på en meget mere fleksibel og interaktiv måde. I dag er internettet fyldt med hypertekst-baserede platforme som blogs, sociale medier, encyklopædier og mere, der alle bruger hyperlinks til at forbinde og præsentere information på en sammenhængende måde.
+
+Hypertekst-systemer har også haft stor indflydelse på informationsarkitektur, da de giver mulighed for at organisere og strukturere information på en måde, der matcher brugerens behov og præferencer. Desuden har hypertekst bidraget til at skabe nye former for samarbejde og deling af viden, hvor flere brugere kan bidrage til og ændre i den samme informationsstruktur.
+
+I dag er hypertekst en integreret del af vores daglige digitale oplevelse og er afgørende for måden, vi søger, læser og interagerer med information på internettet.

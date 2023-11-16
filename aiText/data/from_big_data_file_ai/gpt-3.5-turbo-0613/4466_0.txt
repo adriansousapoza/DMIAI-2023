@@ -1,0 +1,11 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+DDGU Scorekeeper giver dig mulighed for at se, hvordan du klarer dig på en konkret bane. Du kan indtaste resultaterne af de runder, du har spillet på en specifik bane, og systemet vil automatisk beregne din score og rating for den pågældende bane.
+
+Dette kan være nyttigt, hvis du ønsker at følge din udvikling og se, om du forbedrer dig på en bestemt bane over tid. Det kan også være sjovt at sammenligne dine resultater med andre spillere og se, hvordan du rangerer på forskellige baner.
+
+Systemet viser dig typisk din bruttoscore og din rating for den pågældende bane. Bruttoscoren er den samlede score, du har opnået på banen (antallet af kast), og ratingen er en numerisk værdi, der angiver din relative præstation på banen. Jo lavere ratingen er, desto bedre har du klaret dig i forhold til potentielle maksimale kast.
+
+Ved at se, hvordan du klarer dig på forskellige baner, kan du identificere dine styrker og svagheder og arbejde på at forbedre dit spil på de baner, hvor du har brug for det. Du kan også sammenligne dine resultater med andre spillere og få inspiration til, hvordan du kan forbedre dit spil generelt.
+
+DDGU Scorekeeper er et nyttigt værktøj for disc golf-spillere, der ønsker at følge deres udvikling og sammenligne deres resultater med andre spillere. Det giver dig mulighed for at analysere, hvordan du klarer dig på forskellige baner og identificere områder, hvor du kan forbedre dit spil.

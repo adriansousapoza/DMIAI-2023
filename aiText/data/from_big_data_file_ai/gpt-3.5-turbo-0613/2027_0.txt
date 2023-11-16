@@ -1,0 +1,13 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+gpt-3.5-turbo-0613
+Nu hvor vi er midt i vinteren, er det vigtigt at være opmærksom på forskellige sygdomme og infektioner, der kan påvirke vores helbred. To af disse sygdomme er legionella og pneumokok-infektion.
+
+Hvis du oplever symptomer som feber, hoste, brystsmerter eller åndedrætsbesvær, kan det være en god idé at få foretaget en prøvetagning for at undersøge, om du er blevet ramt af enten legionella eller pneumokok-infektion. Det er vigtigt at få taget prøven så tidligt som muligt i sygdomsforløbet samt i de følgende uger.
+
+Når du får svar på prøven, vil det blive angivet, om antigenet for legionella er påvist, ikke påvist eller om resultatet er inkonklusivt. For pneumokok-infektion angives det, om antigenet er påvist eller ikke påvist. Det er værd at bemærke, at en negativ besvarelse for pneumokok-infektion ikke udelukker muligheden for infektion med pneumokokker.
+
+Ved positivt resultat for pneumokok-infektion vil der normalt være en kort vurdering inkluderet i svaret. Hvis det er muligt, vil den angive, hvilken serotype eller gruppe af pneumokokpolysakkarider der er påvist. Dette kan være nyttigt for fremtidig behandling og smitteudbrudskontrol.
+
+Det er vigtigt at huske på, at prøveresultaterne kun er én del af diagnosen. Hvis du har mistanke om, at du er syg, bør du straks kontakte din læge for at få en korrekt vurdering og behandling.
+
+Hold dig sund og pas godt på dig selv i denne kolde tid.

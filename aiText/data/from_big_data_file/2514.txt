@@ -1,0 +1,10 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+
+Jeg har fornyeligt udskiftet min udstødning på min a3 8v 1,4tfsi
+Købte en komplet udstødning fra Supersprint fra turboen og bagud.
+Men efter jeg har kørt et stykke tid laver den fejl
+Er der nogen der kan give mig et råd til at få det fixed.
+Fejlprioritet: 2
+Kørehastighed: 111 km/t
+Kontrol af lambdasonder B1: Delta-lambda: -0.00003
+Altså du har også skiftet katalysator? Uden at lave ændringer i motorstyring?

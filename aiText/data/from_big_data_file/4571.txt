@@ -1,0 +1,5 @@
+forklar og uddyb emnet
+
+Gå til kassen
+Hvad gør vi
+En vigtig detalje ved vores rullefelt, er at vejrstationen ikke som normalt er bygget ind i rullefeltet, men er flyttet op, så den ser samme temperatur som MCen indånder, derved undgår vi at få vist flere og flere HK fordi temperaturen stiger inde i rullefeltet, Vi blev selv snydt af dette i starten, men det sker ikke mere. Vejrstationen korigerer automatisk HK visningen i forhold til temperatur mm. så derfor er det vigtigt at den er placeret rigtigt.

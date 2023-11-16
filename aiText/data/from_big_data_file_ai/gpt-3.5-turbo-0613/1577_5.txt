@@ -1,0 +1,14 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er inde på et uformelt debatforum og skal skrive en kommentar.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Hej alle,
+
+Jeg vil lige dele en frustrerende oplevelse, jeg har haft med min trykluftskompressor. Selvom den ikke har været i brug særlig meget, har den alligevel fået indvendig korrosion. Det er virkelig ærgerligt, da jeg bruger den til mine hobbyprojekter.
+
+Jeg har tidligere haft succes med at fjerne rust fra genstande ved at blødgøre dem i saltsyre. Men saltsyre er ikke en mulighed i dette tilfælde, da det er en kraftig base, der kan skade huden, lakken, malingen og endda opløse aluminium. Og det er jo netop aluminium, der ikke bør være til stede i den trykluft, jeg bruger til mine hobbyprojekter.
+
+Jeg vil derfor gerne høre, om nogen af jer har erfaring med at bekæmpe korrosion i tryktanke? Hvad har I gjort for at forhindre korrosion i jeres kompressorer? Jeg vil gerne undgå at skulle købe en ny, hvis det kan undgås.
+
+På forhånd tak for jeres hjælp!
+
+Bedste hilsner,
+[Navn]

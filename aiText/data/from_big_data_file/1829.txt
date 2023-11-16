@@ -1,0 +1,11 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er inde på et uformelt debatforum og skal skrive en kommentar.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+
+at lave et element, hvori der skal være et billede, som når man klikker
+på, får et bredde/højde bestemt popup vindue ?
+Selve elementet med billedet og linket, har jeg styr på, det er selve pop up delen.
+Lige nu har jeg følgende :
+Hejsa - prøv noget som dette:
+Jeg kan ikke rigtigt få det til at virke
+Det er en radio, jeg gerne ville have til at poppe op på selve hovedsiden, når
+man klikker på et billede.
+Selve koden jeg har nu er følgende :

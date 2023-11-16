@@ -1,0 +1,9 @@
+forklar og uddyb emnet
+
+er bestemt af vandets indhold af calcium og magnesium og opgives i grader hårdhed, dH0. Et stort indhold betyder, at vandet er hårdt - et lille indhold, at vandet er blødt:
+Der er ikke stillet kvalitetskrav til hårdheden, men den bør ligge mellem 5-300 dH.
+kan, i høje koncentrationer, give smagsproblemer.
+Vandet smager salt ved ca. 400 mg/l - risiko for tæring i varmtvandssystemer.
+Højst tilladelige værdi: 300 mg Cl/l.
+Vejledende værdi: 50 mg Cl/l.
+Højst tilladelige værdi: 250 mg SO4/l.

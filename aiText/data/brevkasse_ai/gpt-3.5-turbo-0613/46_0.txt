@@ -1,0 +1,20 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Jeg håber, du har det godt og at du har det bedre, efter vores sidste konsultation. Jeg har gennemgået dine undersøgelsesresultater og vil gerne give dig nogle oplysninger om din tilstand.
+
+Det ser ud til, at du lider af en variant af højdesyge, der kaldes High Altitude Cerebral Edema, eller HACE. Dette skyldes en hævelse af hjernen på grund af væskeansamling, også kendt som ødem. Det er vigtigt at bemærke, at HACE er en alvorlig tilstand, der potentielt kan true dit liv.
+
+De lette symptomer på højdesyge, som du oplever, såsom kvalme, hovedpine og svimmelhed, er vigtige signaler, som din krop sender dig. Det er afgørende, at du tager disse symptomer alvorligt og stopper din opstigning, så din krop kan tilpasse sig de nye omgivelser.
+
+Højdesyge er en tilstand, der kan forekomme, når du befinder dig i højere højder, hvor det atmosfæriske tryk er lavere. Dette fører til en reduceret iltmætning i blodet og kan resultere i forskellige helbredsmæssige problemer.
+
+Jeg vil anbefale dig at respektere og lytte til din krop, når du udsættes for høje højder. Det kan være nyttigt at tage hyppige pauser og lade din krop tilpasse sig det nedsatte iltmætningsniveau gradvist. Hvis symptomerne forværres, eller hvis du oplever andre alarmerende problemer, er det vigtigt, at du søger lægehjælp straks.
+
+Jeg håber, at mine råd er nyttige for dig, og jeg er sikker på, at hvis du tager højde for dem, vil du kunne mindske risikoen for alvorlige komplikationer relateret til højdesyge.
+
+Pas godt på dig selv og vær opmærksom på dine krops signaler. Du er velkommen til at kontakte mig igen, hvis du har flere spørgsmål eller bekymringer.
+
+Venligst,
+[Navnet på din læge]

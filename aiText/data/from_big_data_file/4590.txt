@@ -1,0 +1,10 @@
+forklar og uddyb emnet
+
+Cyklus for et bilag
+Side 405 - Udtræk fra lønsystem til Excel
+Kopiere til Excel
+Afstemning af bank og interne konti
+Kontrol af adresser
+Opret og rediger ny leverance
+Snitflade 586 A-bidrag
+Når kommunen overgår til ERP-systemet Prisme, vil der være en række af de arbejdsgange der tidligere er foretaget i Winformatik, som fremover vil skulle foretages i Prisme i stedet.

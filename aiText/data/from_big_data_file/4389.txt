@@ -1,0 +1,6 @@
+forklar og uddyb emnet
+
+På denne side kan du indtaste dit Yamaha-køretøjs VIN*-nummer, og kontrollere om det er omfattet af en eller flere aktive sikkerhedskampagner fra fabrikken.
+* VIN: Køretøjets identifikationsnummer (17 cifre).
+Du finder dette nummer i dine køretøjsdokumenter.
+VIN-eksempler:

@@ -1,0 +1,25 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Mindste fælles multiplum (forkortet MFM) er et matematisk begreb, der anvendes til at finde det mindste positive heltal, som er et multiplum af to (eller flere) positive heltal. Dette multiplum skal være mindst, fordi det også skal være et multiplum af de mindste faktorer af tallene.
+
+For at finde MFM af to tal a og b, skal man gøre følgende:
+
+1. Faktoriser de to tal a og b til deres primtalsfaktorer.
+2. Tag alle primtalsfaktorerne med den højeste eksponent fra begge tal og multiplikér dem sammen.
+
+Lad os betragte et eksempel for at illustrere dette:
+
+Lad os finde MFM af tallene 12 og 18.
+
+Trin 1: Faktorisering af 12 og 18:
+12 = 2^2 * 3^1
+18 = 2^1 * 3^2
+
+Trin 2: Multiplikation af de største eksponenter af hver primtalsfaktor:
+MFM(12, 18) = (2^2) * (3^2) = 4 * 9 = 36
+
+Så MFM(12, 18) = 36.
+
+MFM kan også beregnes for mere end to tal. I dette tilfælde følger man samme metode, men bruger alle primtalsfaktorerne med den højeste eksponent fra alle tallene.
+
+At kende MFM er nyttigt i mange matematikopgaver og problemer, såsom opgaver med brøker, ligninger og algebraiske udtryk. Dette skyldes, at MFM giver os det mindste fællesnævner for flere tal og gør det lettere at håndtere dem sammen.

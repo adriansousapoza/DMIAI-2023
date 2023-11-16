@@ -1,0 +1,28 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Outlook er en populær e-mail og kalenderapplikation udviklet af Microsoft. Den bruges ofte i erhvervslivet og til personlig brug til at håndtere e-mail, kalendere og opgaver.
+
+Starte Outlook:
+For at starte Outlook skal du åbne applikationen enten fra dit skrivebord eller startmenuen på din computer. Når du har åbnet Outlook, vil du blive bedt om at logge ind eller tilføje en e-mailkonto for at kunne bruge applikationen fuldt ud.
+
+Afslutte Outlook:
+For at afslutte Outlook skal du først sørge for, at alle eventuelle aktive opgaver er afsluttet og gemt. Derefter kan du klikke på "Fil" i øverste venstre hjørne af applikationen og vælge "Afslut". Dette vil lukke Outlook og alle tilknyttede vinduer og processer.
+
+Visninger i Outlook:
+Outlook tilbyder forskellige visninger til at organisere og vise dine e-mails, kalendere og opgaver. De mest almindelige visninger inkluderer:
+
+- Indbakke: Viser alle modtagne e-mails og giver dig mulighed for at sortere og organisere dem efter forskellige kriterier, som f.eks. dato eller afsender.
+
+- Kalender: Viser alle dine aftaler, møder og begivenheder i et kalenderformat. Du kan skifte mellem dag-, uge-, måneds- og årsvisninger, og tilføje, redigere eller slette begivenheder.
+
+- Kontakter: Viser dine kontakter og giver dig mulighed for at tilføje, redigere eller slette kontakter samt organisere dem i forskellige mapper.
+
+- Opgaver: Viser en liste over opgaver, du har oprettet, og giver dig mulighed for at tilføje nye opgaver, markere dem som fuldførte eller tilknytte dem til bestemte datoer.
+
+Aftaler og begivenheder:
+I Outlook kan du oprette aftaler og begivenheder i din kalender. En aftale er et individuelt møde, hvor du kan invitere andre personer og planlægge en bestemt dato og tid. En begivenhed er en påmindelse om en bestemt dato eller deadline uden at inkludere andre deltagere.
+
+Når du opretter en aftale eller begivenhed i Outlook, kan du angive detaljer som emne, tid, sted, påmindelse og deltagere. Du kan også tilføje en beskrivelse eller vedhæfte filer til den specifikke aftale eller begivenhed.
+
+Prisen for et Outlook fjernundervisningskursus:
+Prisen på et Outlook fjernundervisningskursus kan variere afhængigt af kursets varighed, indhold og den institution eller udbyder, der tilbyder det. Den angivne pris på 3.000,- kr. er blot et eksempel og kan være forskellig fra det faktiske kursus, du kan finde på markedet. Det anbefales at kontakte udbydere og få mere information om priser og kursusindhold, før du tilmelder dig.

@@ -1,0 +1,7 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forklar og uddyb emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+
+Bare så du er informeret
+Ved at arkivere forældede kanaler kan du bedre organisere og visualisere aktive og inaktive kanaler. Når du arkiverer en kanal, vises den ikke længere i din kanaloversigt.
+Kun team-admins og kanalejere kan dearkivere kanaler. Team-medlemmer kan stadig besøge en arkiveret kanal, men vil ikke kunne foretage ændringer eller opdatere tråde i den pågældende kanal.
+Åbn en kanal.
+Klik på ikonet med tre prikker til højre for kanalens titel for at åbne handlingsmenuen.

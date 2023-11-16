@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forklar og uddyb emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Velkommen til vores FAQ (Frequently Asked Questions), hvor vi er her for at hjælpe dig med alle de spørgsmål, du måtte have om vores tjenester. 
+
+Hvis du ikke kan finde den nødvendige hjælp på vores side, skal du ikke tøve med at kontakte vores supportteam. Vi står klar til at besvare dine spørgsmål og give dig den nødvendige vejledning.
+
+Hvis du har brug for support til en specifik e-shop, bedes du kontakte os på den anførte mailadresse for at få et tilbud. Vi er dedikerede til at sikre, at din e-shop er optimal og kan håndtere betalinger via kreditkort.
+
+Hvad angår oprettelsesprocessen for at modtage betalinger via kreditkort i din e-shop ved brug af Freepay, så er det en relativt enkel og smidig proces. Vores supportteam vil være glade for at hjælpe dig trin-for-trin igennem processen og sikre, at alt fungerer problemfrit for dig og dine kunder.
+
+Når det kommer til implementeringen af Freepay i din eksisterende e-shop, er der flere forskellige muligheder, som kan tilpasses dine behov. Vores supportteam vil kunne guide dig igennem processen og sikre, at du får den rigtige integrering, der passer bedst til dig og din forretning.
+
+Hvis du oplever problemer med vores system, bedes du kontakte vores supportteam med det samme. Vi ønsker at sikre, at vores tjenester fungerer optimalt for dig, og vi vil gøre vores bedste for at løse eventuelle problemer hurtigt og effektivt.
+
+Hvis du ønsker at se administrationen af vores system, kan vi tilbyde dig et testlogin. Dette vil give dig mulighed for at udforske og evaluere de funktioner og muligheder, vores system tilbyder, før du træffer en beslutning.
+
+Vi står klar til at hjælpe dig med alle dine spørgsmål og behov. Lad os sammen skabe den bedste løsning for din e-shop og sikre en problemfri betalingsoplevelse for dig og dine kunder. Kontakt vores supportteam i dag, og lad os komme i gang!

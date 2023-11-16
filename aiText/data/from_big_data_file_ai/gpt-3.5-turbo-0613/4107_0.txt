@@ -1,0 +1,11 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Emnet handler om at tilrette egne dokumenter og foretage en gammel fletning af dokumenter. Dette kan være nyttigt, når man ønsker at oprette eller redigere dokumenter i forskellige formater.
+
+Når man tilretter sine egne dokumenter, kan det betyde at man ændrer indholdet eller layoutet af dokumentet for at opnå det ønskede resultat. Dette kan omfatte ændring af tekst, indsættelse eller sletning af billeder, justering af margener eller skriftstørrelse osv. Det er vigtigt at sikre, at dokumentet er korrekt, professionelt og indholdsmæssigt nøjagtigt.
+
+En gammel fletning er en proces, hvor man kombinerer flere eksisterende dokumenter til et enkelt dokument. Dette kan være nyttigt, når man ønsker at oprette et dokument, der indeholder oplysninger eller indhold fra flere kilder eller tidligere versioner af dokumenter. Ved at flette dokumenterne kan man spare tid og arbejde med at kopiere og indsætte indholdet manuelt.
+
+Emnet indeholder også en række andre emner som oprettelse af egne dokumenter, oprettelse af BAT-filer (batchfiler), og en FAQ-sektion, hvor der besvares nogle almindelige spørgsmål om emnet.
+
+Spørgsmålene, der er stillet i FAQ-sektionen, drejer sig om problemstillinger og udfordringer, som brugeren kan støde på i forbindelse med oprettelse og redigering af dokumenter. Der besvares spørgsmål om manglende mailudsendelser, deling af dokumenter med kollegaer og oprettelse af nye aktiviteter og tilknytning af egne dokumenter.

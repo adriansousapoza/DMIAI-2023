@@ -1,0 +1,13 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+AutoWikiBrowser (AWB) er en MediaWiki-editor, der er udviklet til at gøre gentagne ændringer på Wikipedia hurtigere og lettere. Det er et værktøj, der primært anvendes på Microsoft Windows-systemer.
+
+AWB fungerer som en browser og åbner automatisk en ny side, når den gamle er gemt. Når det er konfigureret til det, giver redaktøren forslag til ændringer, normalt relateret til formatering, på den nye side. 
+
+En af hovedformålene med AWB er at gøre det muligt for brugere at udføre automatiske ændringer på Wikipedia-artikler. Dette kan være nyttigt i tilfælde, hvor der er behov for at udføre gentagne rettelser, såsom rettelse af stavefejl, ændring af formatering eller tilføjelse af kildeanvisninger.
+
+AWB giver også mulighed for at udføre mere komplekse ændringer ved hjælp af brugerdefinerede script. Disse scripts kan skrives af brugere og kan udføre specifikke opgaver baseret på brugerens behov. Dette åbner for muligheden for at automatisere en bred vifte af redigeringsopgaver og gør det muligt for erfarne brugere at optimere deres arbejdsproces.
+
+Det er værd at bemærke, at AWB kun må bruges af erfarne brugere, der er bekendt med Wikipedia's retningslinjer og principper. Da det er et automatiseret værktøj, er der risiko for at foretage utilsigtede ændringer, der kan påvirke artiklernes kvalitet og nøjagtighed. Derfor kræves det, at brugerne har en god forståelse af Wikipedia og dens redigeringspolitik, når de bruger AWB.
+
+AWB er et værdifuldt værktøj for erfarne Wikipedia-redaktører, der ønsker at effektivisere deres arbejdsproces og gøre gentagne redigeringsopgaver hurtigere og lettere. Det kan hjælpe med at opretholde konsistens og kvalitet på Wikipedia-artikler og frigøre tid til mere komplekse redigeringsopgaver.

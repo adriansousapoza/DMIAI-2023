@@ -1,0 +1,19 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du bliver interviewet og skal tale ud fra emnet. Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+gpt-3.5-turbo-0613
+Interviewer: Goddag Stefanos, tak fordi du tager dig tid til at tale med os i dag. Vi vil gerne høre din reaktion på din seneste kamp mod Hubert Hurkacz, hvor du desværre tabte med 0 point og blev besejret med 0-4. Kan du give os nogle indsigter i din oplevelse?
+
+Stefanos: Hej, tak fordi I har mig her i dag. Ja, det var en ret skuffende kamp for mig. Jeg ønsker selvfølgelig altid at præstere på mit bedste niveau, men det var desværre ikke tilfældet i dag.
+
+Interviewer: Kan du forklare, hvad der gik galt i kampen?
+
+Stefanos: Ja, bestemt. Jeg følte ikke, at jeg var i stand til at finde min rytme og min sædvanlige spilstruktur. Hubert spillede virkelig godt, og han udnyttede mine fejl på en imponerende måde. Jeg havde også nogle tekniske problemer, som gjorde det svært for mig at udføre mine slag korrekt.
+
+Interviewer: Hvad vil du gøre anderledes i de kommende kampe for at undgå at gentage denne præstation?
+
+Stefanos: Jeg vil helt sikkert gå tilbage til træningsbanen og analysere denne kamp nøje. Jeg vil arbejde hårdt på mine tekniske færdigheder og sikre mig, at jeg er i topform til mine kommende kampe. Jeg vil også fokusere på min mentale styrke og arbejde på at forblive rolig og fokuseret, selv når tingene ikke går som planlagt.
+
+Interviewer: Hvordan påvirker sådan en skuffende kamp din motivation og tro på dig selv?
+
+Stefanos: Jeg vil lyve, hvis jeg sagde, at det ikke påvirker mig. Det er aldrig sjovt at tabe, især ikke på den måde. Men jeg tror på min evne som tennisspiller, og jeg ved, at jeg har potentialet til at være blandt de bedste. Denne kamp vil kun motivere mig mere til at arbejde hårdt og vise, hvad jeg virkelig er i stand til i mine kommende kampe.
+
+Interviewer: Mange tak for dine ærlige svar, Stefanos. Vi ønsker dig held og lykke i dine kommende kampe, og vi er sikre på, at du vil komme tilbage stærkt.

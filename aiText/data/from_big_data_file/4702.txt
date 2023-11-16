@@ -1,0 +1,6 @@
+forklar og uddyb emnet
+
+kan du heller ikke kÃ¸re den, hvis du gÃ¥r direkte ind pÃ¥ youtube..?
+Nej, men i IE kÃ¸rer det fint…
+IldrÃ¦ven eller Firefox er jo bare en variant af Mozilla. Jeg kÃ¸rer lige nu Seamonkey-1.1.11 og den er sat op til at blokere for FLASH med mindre jeg siger OK (ved at klikke pÃ¥ en “Fremad!Knap”).
+Jeg tror at det er en fejl i opsÃ¦tningen af Firefox, som bevirker at den ikke vil acceptere din plugin, Capac. MÃ¥ske skal du hente en plugin.

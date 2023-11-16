@@ -1,0 +1,18 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Tak for din henvendelse angående dit helbredsmæssige problem. Jeg forstår, hvor vigtigt det er for dig at finde en løsning, der kan lindre dine depressive symptomer og samtidig tage højde for din alder.
+
+Når det kommer til valg af antidepressiva til ældre, er der nogle faktorer, som jeg skal tage i betragtning. Da hver patients situation er unik, vil jeg anbefale, at vi fortsætter denne samtale i konsultationen, hvor vi kan diskutere dine specifikke behov og finde den bedste behandling for dig.
+
+Det er godt, at du allerede tager medicin for dine depressioner. Dog kan det være, at der er behov for at justere dosis eller skifte til en anden type antidepressiv medicin for at opnå bedre effektivitet og reducere de fysiske symptomer, du oplever.
+
+Når det kommer til de fysiske symptomer, du nævner, såsom forhøjet blodtryk, let feber, muskel- og ledsmerter samt træthed, er det vigtigt at udelukke andre underliggende årsager, der kan bidrage til disse symptomer. Derfor vil jeg også anbefale, at vi foretager yderligere undersøgelser for at få et klarere billede af din helbredstilstand.
+
+Ved at arbejde sammen kan vi finde den bedste løsning for dig og din velvære. Så lad os aftale en tid til en konsultation, hvor vi kan diskutere dine symptomer, medicineringen og finde den rette vej fremad.
+
+På forhånd tak for din tillid til min ekspertise, og jeg ser frem til at møde dig i konsultationen.
+
+Med venlig hilsen,
+[Navn på lægen]

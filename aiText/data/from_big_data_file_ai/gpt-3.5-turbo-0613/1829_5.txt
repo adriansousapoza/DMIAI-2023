@@ -1,0 +1,11 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er inde på et uformelt debatforum og skal skrive en kommentar.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Hej alle,
+Jeg støder på en lille udfordring, som jeg håber, I kan hjælpe mig med. 
+Jeg forsøger at lave et element, hvor der skal være et billede, som når man klikker på det, åbner et popup-vindue med en bestemt bredde og højde. Jeg har næsten styr på selve elementet med billedet og linket, men jeg kæmper med selve pop-up-delen. 
+Lige nu har jeg følgende kode:
+
+[Her indsætter du selvfølgelig koden, som du har]
+
+Desværre lykkes det mig ikke at få det til at virke, og derfor henvender jeg mig her. Er der nogen, der har erfaring med dette eller har et forslag til, hvordan jeg kan løse det? Jeg vil gerne have, at når man klikker på billedet, åbnes der et popup-vindue med den ønskede bredde og højde, som viser en radio. 
+Jeg takker på forhånd for jeres hjælp og alle input er velkomne! 😊

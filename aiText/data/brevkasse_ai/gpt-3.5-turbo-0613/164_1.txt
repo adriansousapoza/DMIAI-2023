@@ -1,0 +1,19 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Tak for din henvendelse angående opstart af antibiotikabehandling. Jeg forstår, at du gerne vil have en begrundet mistanke om en infektion, der kan behandles med antibiotika, før du tager disse medicin.
+
+Først og fremmest vil jeg gerne forsikre dig om, at jeg som læge altid er meget omhyggelig med at ordinere antibiotika. Det er vigtigt at huske, at antibiotika er et kraftfuldt værktøj i kampen mod bakterieinfektioner, men de skal anvendes med forsigtighed for at undgå antibiotikaresistens og andre uønskede bivirkninger.
+
+Når du kommer til mig med helbredsmæssige problemer, vil jeg altid lytte omhyggeligt til dine symptomer og bekymringer. Jeg vil derefter foretage en grundig klinisk vurdering for at danne mig et billede af din aktuelle tilstand. Hvis der er tegn på en mulig bakterieinfektion, vil jeg bestille relevante laboratorietests, såsom blodprøver eller mikrobiologiske kulturer, for at bekræfte diagnosen.
+
+Det er vigtigt at bemærke, at der findes mange forskellige typer bakterier, og hver af disse kan have forskellig følsomhed over for forskellige typer antibiotika. Derfor vil jeg altid vælge det mest passende antibiotikum baseret på den specifikke type bakterie, vi mistænker. Denne tilgang sikrer, at vi får bedst mulig effektivitet og færrest mulige bivirkninger.
+
+Jeg forstår, at du ønsker at være i kontrol og være informeret om din behandling. Derfor vil jeg altid være åben for at besvare dine spørgsmål og give dig al den nødvendige information, så du kan træffe en informeret beslutning om din behandling.
+
+Tak igen for din henvendelse, og hvis du har yderligere spørgsmål eller bekymringer, er du velkommen til at kontakte mig. Jeg er her for at hjælpe dig med at opnå optimal sundhed og trivsel.
+
+Med venlig hilsen,
+
+[Navn på lægen]

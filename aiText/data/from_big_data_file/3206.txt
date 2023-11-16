@@ -1,0 +1,7 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du bliver spurgt om emnet og skal give din mening.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+
+hvad du har brug
+Adobe Photoshop Lightroom 2 eller højere
+Åbn Lightroom Udvikle modulet ved at klikke på "Udvikle" i øverste højre hjørne (Windows, "Ctrl + Alt + 2", Mac, "Kommando + Alter
+Vælg "Gradueret filter" værktøj Udvikle værktøjslinjen under Histogram panelet (eller tryk på "M" -tasten).Gradueret filter indstillingspanelet vises under værktøjslinjen.
+Vælg den effekt, du ønsker at anvende fra Effekt menuen ("Saturation Exposure", "Brightness", eller noget andet).

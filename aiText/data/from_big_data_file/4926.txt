@@ -1,0 +1,8 @@
+forklar og uddyb emnet
+
+Wikipedia:AutoWikiBrowser - Wikipedia, den frie encyklopædi
+Fra Wikipedia, den frie encyklopædi
+Udvikler(e)
+Tilgængelig på
+AutoWikiBrowser (AWB) er en halvautomatisk MediaWiki-editor til Microsoft Windows 2000/XP/Vista/7/8/8.1/10, skabt til at gøre gentagne ændringer hurtigere og lettere.
+Editoren er grundlæggende en browser, som automatisk åbner en ny side, når den gamle er gemt. Når den er sat op til det, foreslår den nogle ændringer (typisk formattering) på den nye side.

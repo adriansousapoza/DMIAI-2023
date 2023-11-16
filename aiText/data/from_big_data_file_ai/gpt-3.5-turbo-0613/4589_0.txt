@@ -1,0 +1,11 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+En isotropisk antenne er en teoretisk antenne, der sender og modtager elektromagnetiske bølger lige effektivt i alle retninger. Navnet "isotropisk" kommer fra det græske ord "isos", der betyder "lig" og "tropos", der betyder "retning". Det betyder, at antennen har den samme styrke og rækkevidde i alle retninger.
+
+I virkeligheden er det meget svært at opnå en isotropisk antenne, da en antenne normalt har en bestemt orientering og retningsbestemthed. I stedet bruges isotropantennen som en reference for at sammenligne andre antenner og beregne deres effektivitet.
+
+Isotropantennen bruges også til at måle gain, som er et udtryk for, hvor godt en antenne kan forstærke eller formindske et radiosignal. Gain måles i decibel (dB) i forhold til en isotropisk antenne. For eksempel vil en antenne med en gain på 3 dB sende signalet dobbelt så langt som en isotropisk antenne.
+
+Der findes forskellige typer af antenner, der anvendes i praksis, såsom dipolantennen, parabolangen og yagi-antennen. Disse antenner har en bestemt retning og forstærkning, og de bruges i forskellige applikationer afhængigt af deres egenskaber.
+
+I praksis bruger man ikke isotropantennen som en reel antenne, da det er umuligt at opnå en perfekt isotropisk stråling. Men det bruges som et teoretisk koncept og en reference for at forenkle beregninger og sammenligne antenner.

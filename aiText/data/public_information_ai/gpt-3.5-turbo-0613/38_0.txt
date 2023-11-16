@@ -1,0 +1,13 @@
+Skriv om følgende på dansk - vælg en neutral og objektiv tone.  Forklar om emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Årsopgørelsen er en opgørelse over dine indkomst- og skatteoplysninger for et givent år. Den udarbejdes af Skattestyrelsen og indeholder vigtige informationer om din skattepligtige indkomst, diverse fradrag og eventuelle gevinster eller tab ved køb eller salg af værdipapirer.
+
+Når det kommer til køb eller salg af aktier og andre værdipapirer, skal du være opmærksom på, at Skattestyrelsens beregningssystem, Værdipapirsystemet i TastSelv, kun kan beregne visse oplysninger. Det er derfor vigtigt, at du selv tjekker, om de oplysninger, der står på din årsopgørelse, er korrekte.
+
+For at sikre nøjagtigheden af dine oplysninger, bør du tjekke, om alle dine køb og salg af værdipapirer er angivet korrekt, herunder både gevinst og tab. Du bør også gennemgå eventuelle fradrag, der er blevet fratrukket i din årsopgørelse, og sikre dig, at de er korrekte og afspejler dine faktiske udgifter.
+
+Det er vigtigt at bemærke, at Skattestyrelsen indsamler mange oplysninger automatisk, herunder information fra din bank om køb og salg af værdipapirer. Men det er stadig dit ansvar som borger at tjekke, om oplysningerne er korrekte, da fejl kan forekomme.
+
+Hvis du opdager fejl eller mangler i dine oplysninger, skal du korrigere dem ved at indsende en rettelse til Skattestyrelsen. Dette kan normalt gøres online via TastSelv eller ved at kontakte Skattestyrelsen direkte.
+
+Ved at være opmærksom og nøje gennemgå din årsopgørelse kan du sikre, at dine skatteoplysninger er korrekte og undgå eventuelle problemer med Skattestyrelsen i fremtiden. Det anbefales derfor altid at være omhyggelig og selv kontrollere dine oplysninger.

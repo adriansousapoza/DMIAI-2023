@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Tak for din henvendelse og for at dele dine helbredsmæssige bekymringer med mig. Jeg vil gerne hjælpe dig med at forstå dit problem bedre og finde den bedst mulige løsning.
+
+Det er positivt, at du har udfyldt et væske-vandladningsskema, da det giver os værdifuld information om dine drikkevaner og urinmønstre. Det kan være en nyttig måde at identificere og evaluere eventuelle uhensigtsmæssigheder.
+
+I dit tilfælde nævner du, at du drikker 5 liter væske om dagen, herunder 8 øl. Det er tydeligt, at dette måske kan være en af årsagerne til, at du oplever hyppige toiletbesøg. Alkoholindtaget kan have en diuretisk virkning og øge din vandladningsfrekvens.
+
+Derfor vil jeg foreslå, at vi ser nærmere på dine drikkevaner og finder en mere hensigtsmæssig balance. Det er vigtigt at være opmærksom på, at anbefalet dagligt væskeindtag varierer fra person til person, afhængigt af faktorer som alder, køn og aktivitetsniveau. Jeg vil gerne hjælpe dig med at finde den mest hensigtsmæssige mængde væskeindtag for dig.
+
+Jeg anbefaler også, at du skal være opmærksom på, hvordan alkohol påvirker din vandladningsfrekvens. Øget indtag af alkohol kan have negative konsekvenser for din generelle helbredstilstand, og det er vigtigt at finde en balance her.
+
+Jeg håber, at disse råd kan hjælpe dig med at forbedre din situation. Hvis du har yderligere spørgsmål eller bekymringer, er du velkommen til at kontakte mig igen. Jeg ser frem til at hjælpe dig med at opnå bedre helbred og velvære.
+
+Med venlig hilsen

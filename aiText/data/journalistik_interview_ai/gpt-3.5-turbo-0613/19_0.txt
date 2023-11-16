@@ -1,0 +1,23 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du bliver interviewet og skal tale ud fra emnet. Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+gpt-3.5-turbo-0613
+Pressemeddelelse fra Københavns Vestegns Politi
+
+Dato: xx/xx/xxxx
+
+Emne: Knivstikkeri i Rødovre
+
+Københavns Vestegns Politi har i dag modtaget melding om et alvorligt knivstikkeri i Rødovre. Hændelsen fandt sted på Hendriksholms Boulevard i eftermiddag, og politiet er til stede for at undersøge sagen.
+
+Vi kan på nuværende tidspunkt bekræfte, at en person er blevet stukket med en kniv, men detaljerne og omstændighederne omkring hændelsen er endnu ukendte. Vi arbejder på at indsamle vidneforklaringer og undersøge området for at få et fuldt overblik over, hvad der er sket.
+
+Politiet er naturligvis optaget af at sikre borgernes tryghed og sikkerhed, og vi vil være til stede på Hendriksholms Boulevard i længere tid endnu for at foretage tekniske undersøgelser og afhøre vidner. Vi opfordrer endvidere alle, der har været vidner til et slagsmål eller har oplysninger, der kan hjælpe i efterforskningen, om at henvende sig til os.
+
+Desværre kan vi på nuværende tidspunkt ikke give nærmere oplysninger om den tilskadekomnes tilstand. Vores førsteprioritet er at sikre, at vedkommende får den nødvendige hjælp og behandling.
+
+Vi opfordrer samtidig borgere i området til at være ekstra opmærksomme og kontakte os, hvis de observerer noget mistænkeligt eller har information om det pågældende knivstikkeri. Henvendelser kan ske via vores almindelige telefonnummer, [indsæt telefonnummer], eller ved personligt fremmøde på politistationen.
+
+Vi vil fortsætte vores efterforskning og vil dele yderligere oplysninger, så snart det er muligt.
+
+Pressekontakt: [indsæt kontaktoplysninger]
+
+-END-

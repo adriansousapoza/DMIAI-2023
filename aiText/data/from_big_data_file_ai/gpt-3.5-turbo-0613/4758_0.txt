@@ -1,0 +1,17 @@
+forklar og uddyb emnet
+gpt-3.5-turbo-0613
+Dinnetime er en restaurant, der sender en meddelelse om, at de vil være lukket fra den 23. december til den 2. januar. Dog vil de være åbne den 31. december i tidsrummet 12.00 til 16.00, hvor kunder kan afhente deres nytårsmenu, hvis de tidligere har bestilt.
+
+Menuen for nytårsaften omfatter følgende retter:
+
+1. Grønlangkål med medister og hjemmesyltede rødbeder: Dette er en traditionel dansk ret, der består af kogt grønkål serveret med stegt medisterpølse og syltede rødbeder. Prisen er 69 kr.
+
+2. Torsk på perlebyg, porre og kørvelsauce: Denne ret indeholder bagt torsk serveret med perlebyg, porre og en kørvelsauce. Prisen er 85 kr.
+
+3. Bøf bearnaise med jordskokker og tomat: En saftig bøf bearnaise serveret med jordskokker og tomater. Bøffen er skåret af oksefilet. Prisen er 110 kr.
+
+4. Åben ravioli med kulmule og langtidsbagte tomater: Dette er en ret med åben ravioli, hvor fyldet består af kulmule fisk og langtidsbagte tomater. Prisen er 85 kr.
+
+5. Pot au feu af kylling, kål og løg: En traditionel fransk ret, der består af kylling, kål og løg kogt sammen i en bouillon. Prisen er 85 kr.
+
+Det er nødvendigt at bestille nytårsmenuen på forhånd for at kunne afhente den den 31. december. Menuen indeholder en bred vifte af valgmuligheder, så der burde være noget for enhver smag.
