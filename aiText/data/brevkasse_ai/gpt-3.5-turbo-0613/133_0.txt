@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Tak for din henvendelse angående de 'pletter' for øjnene, som du oplever. Jeg forstår, at det kan være bekymrende at opleve uforklarlige symptomer, især når man har en underliggende sygdom som diabetes.
+
+Først og fremmest vil jeg gerne berolige dig og fortælle, at disse pletter ikke nødvendigvis har en direkte sammenhæng med din diabetes. Der er mange forskellige årsager til, at man kan opleve pletter eller forstyrrelser i synet. Det kan være alt fra almindelig træthed eller øjenlidelser til mere alvorlige tilstande som migræne eller retinal løsrivelse.
+
+Som diabetiker er det dog yderst vigtigt, at du regelmæssigt får lavet øjenkontrol hos en øjenlæge, mindst en gang om året. Diabetisk retinopati er en almindelig komplikation, der kan opstå som følge af diabetes, og det er vigtigt at opdage eventuelle ændringer i øjet i tide for at undgå permanent synstab. Din øjenlæge er specialisten, der kan vurdere dit syn og kontrollere, om der er tegn på diabetisk retinopati eller andre øjenproblemer, der kræver behandling.
+
+Jeg vil derfor anbefale dig at kontakte din øjenlæge eller booke en tid til en øjenkontrol så snart som muligt. Det er altid bedst at få vurderet dine symptomer af en fagperson, der kan foretage en grundig undersøgelse og give dig den nødvendige behandling eller beroligelse.
+
+Jeg håber, at dette svar har kunne afhjælpe nogle af dine bekymringer. Hvis du har yderligere spørgsmål, er du altid velkommen til at kontakte os igen. Pas godt på dig selv og dit helbred.
+
+Med venlig hilsen,
+
+Dr. [Dit navn]

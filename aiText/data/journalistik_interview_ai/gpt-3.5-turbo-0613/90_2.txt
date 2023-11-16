@@ -1,0 +1,25 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du er politiker og skal tale ud fra emnet, men nævn ikke, at du er politiker.  Afslut ikke 'med venlig hilsen', og hvis der ikke er nok at snakke om, så find på noget. Ignorer smiley:
+gpt-3.5-turbo-0613
+Kære alle,
+
+Det er med stor bekymring, at jeg i dag vil tale om et emne, der desværre har været på fremmarch i vores samfund i de seneste år. Jeg taler selvfølgelig om unge menneskers alkoholforbrug. 
+
+Det er tydeligt, at udviklingen er gået den forkerte vej, siden vi oplevede et fald i unges alkoholindtag i begyndelsen af 00'erne. Men siden 2014 har vi set, at det er begyndt at stige igen, og det er slet ikke acceptabelt.
+
+Derfor ser jeg mig nødsaget til at foreslå en række nye tiltag, der kan være med til at håndtere problemet og sikre vores unges helbred og sikkerhed.
+
+For det første er det vigtigt at se på de lovmæssige rammer omkring unges tilgang til alkohol. Lad os starte med at sænke vægtgrænsen for lovligt at kunne købe alkohol for 16-17-årige fra 16,5 procent til 6 procent. Dette vil begrænse de skadelige virkninger af stærkere alkohol, som unge mennesker ofte ikke har erfaring med at håndtere.
+
+Desuden vil jeg foreslå en tidligere lukketid på kiosker, så unge mennesker ikke har mulighed for at købe alkohol efter kl. 22 i nattelivszoner. Formålet med denne ændring er at forhindre, at unge, der ikke kan komme ind på barer og klubber, køber alkohol i kiosker og afholder fester på offentlige områder. Vi ønsker at sikre en tryg og ansvarlig festkultur.
+
+Vi er også nødt til at være mere opmærksomme på den illegale videreformidling af alkohol til mindreårige. Derfor vil vi gøre det ulovligt for personer over 18 år at købe alkohol over den tilladte alkoholvolumen og sælge det videre til unge mennesker. Dette er et skridt i retning af at beskytte vores unge og reducere deres eksponering for farlige alkoholmængder.
+
+En anden vigtig ting at se på er, hvordan alkohol er placeret i vores supermarkeder. Det er afgørende, at alkohol ikke bliver placeret tæt på chips og slik, da dette appellerer til børn og unge på en uheldig måde. Vi skal sørge for, at der er klare adskillelser mellem alkohol og de produkter, der primært er tiltænkt voksne.
+
+Endelig vil jeg opfordre til, at ungdomsuddannelserne udarbejder en tydelig alkoholpolitik og arbejder på at skabe fællesskaber uden alkohol. Dette kan være med til at forebygge unges alkoholmisbrug og skabe et sundt og trygt miljø for vores unge mennesker.
+
+Mine damer og herrer, jeg håber, at I kan se vigtigheden af at tage disse skridt for at imødegå det stigende alkoholforbrug blandt vores unge. Vi er nødt til at handle nu for at beskytte vores unge mennesker og fremtidens generation.
+
+Tak for jeres opmærksomhed.
+
+[End]

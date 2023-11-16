@@ -1,0 +1,11 @@
+Skriv om følgende på dansk - vælg en neutral og objektiv tone.  Forklar om emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Når man taler om et negativt skattebeløb, refererer det til en situation, hvor ens samlede udgifter til fradragsberettigede poster, som f.eks. arbejdsløshedsunderstøttelse eller rentefradrag, overstiger ens samlede indtægter. I sådanne tilfælde opstår der et negativt skattebeløb, hvilket betyder, at man har ret til at få penge tilbage fra SKAT i stedet for at skulle betale skat.
+
+Når man har et negativt skattebeløb, vil det blive modregnet i ens egen slutskat af andre indkomster i samme indkomstår. Hvis det negative beløb er større end den skat, man skylder for andre indtægter, bliver resten automatisk modregnet i den samlevende ægtefælles slutskat for samme indkomstår.
+
+Hvis der stadig er et overskydende negativt skattebeløb, vil det blive modregnet i skatten i de følgende år. Først vil det blive modregnet i ens egen skat, og hvis der stadig er et restbeløb tilbage, vil det blive modregnet i ægtefællens skat.
+
+Når det kommer til negativ aktieindkomst, bliver skatteværdien beregnet ved at anvende en sats på 27 % af de første 61.000 kr. af den negative aktieindkomst og 42 % af resten for indkomståret 2024. Dette betyder, at man kan få en del af det negative beløb tilbage som skat.
+
+Det er vigtigt at bemærke, at skatteregler og satser kan ændre sig over tid, så det er altid en god idé at holde sig opdateret på de gældende bestemmelser eller søge rådgivning hos SKAT eller en skatteekspert for at sikre korrekt håndtering af ens skatteforpligtelser.

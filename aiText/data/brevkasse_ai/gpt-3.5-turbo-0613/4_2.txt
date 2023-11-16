@@ -1,0 +1,17 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Efter at have gennemgået dine helbredsoplysninger og undersøgelser, vil jeg gerne informere dig om nogle mulige årsager til dine problemer med frugtbarhed (fertilitet). 
+
+Det ser ud til, at din krop muligvis opfatter sædcellerne som en form for betændelse, hvilket resulterer i nedbrydning og fjernelse af sædcellerne, som om de var bakterier. Dette kan også ses ved en måling af antistoffer, hvor din krop producerer antistoffer mod dine egne sædceller, som en måde at nedbryde sædcellerne på. Som følge heraf bliver dannelsen af sædceller gradvist nedsat og kan til sidst ophøre helt.
+
+Når en mand ønsker at genopnå sin frugtbarhed efter en sterilisering, er en reversering af indgrebet kirurgisk set relativt simpelt. Det indebærer reparation af sædlederne, således at sæden igen kan passere gennem dem. 
+
+Det er vigtigt at bemærke, at succesraten for reversering kan variere afhængigt af forskellige faktorer, herunder tiden siden steriliseringen og den individuelle patients helbredstilstand. Der er også en risiko for komplikationer og svangerskabskomplikationer efter en reversering, som du bør være opmærksom på.
+
+For at få en mere nøjagtig vurdering af dine chancer for succes ved en reversering, anbefaler jeg dig at søge yderligere rådgivning og konsultation hos en specialist inden for mandlig fertilitet eller en urolog. De kan undersøge din specifikke situation og give dig specifikke anbefalinger baseret på din unikke medicinske historie og undersøgelsesresultater.
+
+Jeg håber, at dette svar kan give dig en bedre forståelse af dine helbredsmæssige udfordringer. Hvis du har yderligere spørgsmål eller bekymringer, er du velkommen til at kontakte os igen.
+
+Med venlig hilsen

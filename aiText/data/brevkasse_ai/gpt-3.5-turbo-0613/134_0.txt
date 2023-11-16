@@ -1,0 +1,15 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Jeg har modtaget din henvendelse vedrørende de pletter, du oplever for øjnene, og jeg forstår, at du allerede har været til øjenlæge. Dog vil jeg nok anbefale dig at blive undersøgt en ekstra gang samt få kontrolleret dit synsfelt. Som du selv nævner, kan pletterne være forbundet med din diabetes.
+
+Det er ikke unormalt, at der opstår forandringer på nethinden i forbindelse med diabetes. Disse forandringer kan fremstå som små blødninger eller væskeudsivninger, som kommer og går. Det er netop disse forandringer, man er opmærksom på og undersøger for ved øjenlægekontroller. Det skal dog nævnes, at det til tider kan være vanskeligt at fastslå den præcise årsag til dine symptomer, da visse ændringer kan variere i takt med reguleringen af din sukkersyge.
+
+Det er værd at nævne, at rygning også kan have en indvirkning på udviklingen af blinde pletter i synsfeltet. Derfor vil jeg anbefale dig at være opmærksom på din rygeadfærd, hvis du er ryger.
+
+Jeg håber, at dette svar har givet dig noget at tænke over, og jeg vil anbefale dig at søge yderligere undersøgelse hos en øjenlæge, så du kan få afklaring på dine symptomer. Har du yderligere spørgsmål eller bekymringer, er du selvfølgelig meget velkommen til at kontakte mig.
+
+Med venlig hilsen,
+
+[dit navn]

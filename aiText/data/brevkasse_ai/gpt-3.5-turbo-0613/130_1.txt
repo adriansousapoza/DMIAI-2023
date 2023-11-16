@@ -1,0 +1,18 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Tak for din henvendelse angående dine bekymrende symptomer. Det er forståeligt, at du er bekymret over de blinde pletter, du har oplevet for øjnene i lidt over et år.
+
+Ud fra din beskrivelse tyder det på, at du oplever såkaldte skotomer - blinde pletter i synsfeltet. Disse pletter kan have forskellige årsager og kræver en grundig undersøgelse for at fastslå den præcise årsag.
+
+Jeg vil derfor anbefale dig at kontakte en øjenlæge så hurtigt som muligt for at få en specialistvurdering af dine symptomer. Øjenlægen vil kunne foretage en grundig undersøgelse af dine øjne og eventuelt henvise dig til yderligere undersøgelser, hvis det er nødvendigt.
+
+Det er vigtigt at huske, at jeg ikke kan give en nøjagtig diagnose uden at have undersøgt dig personligt. Derfor er det afgørende at søge øjenlæge, da de er specialister i øjenrelaterede problemer og vil kunne give dig den bedst mulige behandling eller vejledning.
+
+Jeg forstår, at det kan være skræmmende at opleve sådanne symptomer, men forsøg at holde dig rolig og opmærksom på at søge professionel hjælp. Øjenlægen vil kunne give dig den nødvendige information og vejlede dig omhandlende eventuel behandling eller forholdsregler.
+
+Hvis du har yderligere spørgsmål, er du velkommen til at kontakte mig igen. Pas godt på dig selv og sørg for at få den nødvendige lægehjælp.
+
+Med venlig hilsen,
+Dr. [Dit navn]

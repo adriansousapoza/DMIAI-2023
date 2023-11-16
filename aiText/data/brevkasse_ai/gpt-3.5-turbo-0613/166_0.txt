@@ -1,0 +1,23 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære Patient,
+
+Jeg håber, denne besked finder dig i god behold. Jeg har modtaget dit brev vedrørende dine helbredsmæssige udfordringer, og jeg forstår, at det er en bekymrende situation for dig. Jeg vil gerne forsøge at besvare dine spørgsmål og give nogle perspektiver omkring emnet.
+
+Først og fremmest vil jeg gerne forsikre dig om, at din bekymring om resistensudvikling er velbegrundet. Det er et meget vigtigt emne, som vi som læger tager meget seriøst. Brugen af bredspektret antibiotika har øget risikoen for resistensudvikling, og det er blevet et globalt problem, hvor behandlingen af infektioner kan blive mere udfordrende.
+
+Det er rigtigt, at nogle lande har været mere liberal med at udskrive bredspektret antibiotika end andre. Dette kan skyldes forskellige årsager, herunder overforbrug og utilstrækkelig overvågning af antibiotikaforbruget, hvilket har medført en højere forekomst af resistente infektioner i disse områder.
+
+Som læge er det vores ansvar at være opmærksomme på disse risici og sikre, at vi ordinerer antibiotika med omhu og i overensstemmelse med de nationale og internationale retningslinjer. Det er vigtigt at evaluere hver patients behov nøje for at sikre den mest passende behandling. For eksempel, hvis du lider af en nyresygdomsom, skal vi være særligt forsigtige med at foreskrive antibiotika, der kan forværre dine nyreproblemer.
+
+Vi skal også fremme ideen om antibiotisk stewardship, som indebærer at anvende antibiotika med størst mulig omhu for at minimere risikoen for resistensudvikling. Dette involverer blandt andet at sikre korrekt dosering og varighed af behandlingen samt at undgå unødvendigt brug af antibiotika.
+
+Jeg forstår, at du kan have bekymringer og spørgsmål omkring alt dette, og det er vigtigt for os at adressere dem. Jeg vil opfordre dig til at besøge vores klinik eller kontakte os for en samtale, hvor vi kan give dig yderligere indsigt og vejledning i dine specifikke situation.
+
+Jeg håber, at dette svar har hjulpet dig med at forstå problemet bedre. Som læge er det vores mål at sikre din sundhed og velvære, og vi vil gøre vores bedste for at behandle dig på en forsvarlig og ansvarlig måde.
+
+Venligst vær opmærksom på, at denne besked kun er beregnet til informationsformål og ikke skal erstatte en personlig konsultation med en kvalificeret læge.
+
+Med ønsket om det bedste for dig og din sundhed,
+
+[Navn på lægen]
