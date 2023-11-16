@@ -1,8 +1,3 @@
-"""
-To run the following script you need the following folder structure
-"""
-
-
 import os
 import torch
 from torch.utils.data import random_split
@@ -25,6 +20,8 @@ from torchio_utils import torchio_validation_composition, process_and_crop_label
 start_time = time.time()
 
 base_path = '/home/asp/Downloads/DMIAI/DMIAI_2023/tumor-segmentation'
+os.chdir(base_path)
+
 
 dataset_dir_name = base_path + '/data_validation'
 dataset_dir = Path(dataset_dir_name)
@@ -42,32 +39,30 @@ os.environ['nnUNet_raw'] = os.path.join(base_path, 'nnUNet_raw')
 os.environ['nnUNet_preprocessed'] = os.path.join(base_path, 'nnUNet_preprocessed')
 os.environ['nnUNet_results'] = os.path.join(base_path, 'nnUNet_results')
 
-#current working directory
-os.chdir(base_path)
-print(os.getcwd())
+start_time = time.time()
 
-# Define the command to run
 command = 'nnUNetv2_predict -i nnUNet_raw/Dataset001/imagesTs -o nnUNet_raw/Dataset001/labelsTs -d 1 -c 2d -f 5 -device cpu'
 
-# Execute the command
-process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, cwd=os.getcwd())
 
-timeout = 10 * len(image_paths)
+# Continuously read and print output
+while True:
+    output = process.stdout.readline()
+    if output == b'' and process.poll() is not None:
+        break
+    if output:
+        print(output.strip().decode())
 
-output = process.stdout.readline()
-if output != '':
-    print(output.strip().decode())
-
-stderr = process.stderr.read().decode()
+# Check for any errors
+stderr = process.stderr.read()
 if stderr:
-    print("Error Output:", stderr)
+    print("Error:", stderr.decode())
 
-# Check if the command was executed successfully
-if process.returncode == 0:
-    print("Command executed successfully.")
-else:
-    print("Error in executing command.")
+process.wait()
 
+# Calculate elapsed time
+end_time = time.time()
+print("Time elapsed:", end_time - start_time)
 
 validation_dir_name = base_path + '/nnUNet_raw/Dataset001/labelsTs'
 validation_dir = Path(validation_dir_name)
@@ -79,9 +74,7 @@ process_and_crop_labels(validation_paths,
                         ORIGINAL_SIZE,
                         save_dir='data_validation/patients/labels')
 
-# Calculate elapsed time
-end_time = time.time()
-print("Time elapsed:", end_time - start_time)
+
 
 dice_scores = []
 for i in range(0, 10):
