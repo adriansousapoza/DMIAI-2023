@@ -1,0 +1,16 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Tak for din henvendelse vedrørende behandling af malaria. Jeg kan forstå, at du gerne vil have uddybet, hvordan sygdommen kan komme tilbage, og om den kan smitte gennem seksuel kontakt.
+
+Når man bliver behandlet for malaria og parasitterne bekæmpes effektivt, er sygdommen normalt forsvundet, og den kommer ikke tilbage, medmindre man igen udsættes for smittede malaria-myg. Det er vigtigt at bemærke, at hvis behandlingen ikke har været vellykket, kan sygdommen komme tilbage af forskellige grunde. Dette kan skyldes brugen af mindre effektive malariamidler, behandling i for kort tid eller utilstrækkelige doser af medicinen.
+
+Hvis sygdommen vender tilbage hos en person, der ikke er immun (som langt de fleste danskere), sker det som regel inden for 2-4 uger efter den første infektion. Du vil opleve symptomer som feber, kulderystelser, muskelsmerter og hovedpine, præcis som du gjorde, da du fik malaria første gang.
+
+Når det kommer til smitte ved seksuel kontakt, kan jeg forsikre dig om, at malaria ikke overføres denne vej. Malaria smitter udelukkende gennem myggestik, når en person bliver bidt af en moskito, der er bærer af parasitten.
+
+Jeg håber, at dette har opklaret dine spørgsmål. Hvis du har yderligere bekymringer eller har brug for mere information, er du velkommen til at kontakte mig igen.
+
+Med venlig hilsen,
+Dr. [Dit navn]

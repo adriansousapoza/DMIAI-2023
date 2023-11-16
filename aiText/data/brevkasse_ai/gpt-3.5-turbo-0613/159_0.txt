@@ -1,0 +1,16 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Jeg håber, du har det så godt som muligt, på trods af de udfordringer, du står overfor med din helbredstilstand. Tak for at dele dine bekymringer omkring sygdommen med den parasit, der kan forårsage malaria.
+
+Lad mig først forklare, at symptomerne på denne sygdom kan opstå op til tre måneder efter, at man er blevet smittet. For personer som dig, der ikke er vokset op i et område med høj forekomst af malaria og derfor ikke har udviklet immunitet mod falciparum malaria, vil udbruddet normalt forekomme inden for den første måned efter smitten. Gravide kvinder kan dog opleve et lidt anderledes forløb, da parasitterne af denne type har en tendens til at åbne sig i de mindste blodkar i moderkagen. Dette kan resultere i udbrud senere i graviditeten eller endda efterfølgende, hvilket adskiller sig fra et normalt tilbagefald af malaria. 
+
+I dit specifikke tilfælde kan vi formode, at du ikke var gravid på det tidspunkt, hvor du blev smittet med malaria. 
+
+Jeg vil gerne opfordre dig til at fortsætte dialogen omkring dit helbred med os, da det er vigtigt, at vi holder os opdaterede på dine symptomer og eventuelle ændringer i din tilstand. 
+
+Pas godt på dig selv og sørg for at hvile ordentligt. Vi står klar til at hjælpe dig gennem denne udfordrende tid.
+
+Venligst,
+[Navn]

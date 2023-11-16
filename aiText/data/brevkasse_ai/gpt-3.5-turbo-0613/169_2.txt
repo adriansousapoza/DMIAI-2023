@@ -1,0 +1,19 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Jeg har fået din forespørgsel om anbefalede vaccinationer til dit kommende turistbesøg i Thailand, og jeg vil gerne bidrage med min ekspertise for at sikre, at du er godt forberedt på din rejse.
+
+For at minimere risikoen for visse sygdomme, anbefaler vi to specifikke vaccinationer. Den første er Hepatitis A-vaccinationen, som beskytter mod den såkaldte "rejse virus leverbetændelse". Dette er en meget smitsom sygdom, der primært spredes gennem forurenet mad og vand. Da du vil være udsat for ukendt mad og drikke i løbet af dit ophold i Thailand, er denne vaccination essentiel for at beskytte dig mod hepatitis A.
+
+Den anden anbefaling er en kombineret stivkrampe-difteri booster vaccination. Denne vaccination anbefales, hvis du ikke har fået den inden for de seneste 10 år. Selvom stivkrampe og difteri kan forekomme sjældent, er det vigtigt at være fuldt beskyttet mod disse potentielt alvorlige infektioner, især når du rejser til et fremmed land.
+
+Ved at tage disse to vaccinationer inden din rejse kan du minimere din risiko for at blive syg og samtidig nyde din tid i Thailand uden bekymringer om sundhedsproblemer.
+
+Husk, at det er vigtigt at konsultere en læge eller en vaccinationsklinik, der specialiserer sig i rejsemedicin, for at få de nøjagtige anbefalinger baseret på din individuelle sundhedstilstand.
+
+Vi håber, at du får en fantastisk rejse og en sund oplevelse i Thailand!
+
+Varme hilsner,
+
+[Din læges navn]

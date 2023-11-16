@@ -1,0 +1,21 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+kunne blive gravid, da den kan påvirke fosteret. Bivirkningerne er generelt milde og forbigående, såsom træthed, hovedpine og ømhed på indstiksstedet. Men som med enhver form for medicinsk indgreb, er der en lille risiko for mere alvorlige bivirkninger.
+
+Kære patient,
+
+Jeg vil gerne først og fremmest takke dig for at dele dine bekymringer med mig og give mig muligheden for at svare på dine spørgsmål. Det kan være svært at navigere gennem den store mængde information, der findes, særligt når det handler om vores helbred.
+
+Efter at have læst din besked forstår jeg, at du ønsker at vide mere om muligheden for at blive vaccineret mod en bestemt sygdom. Jeg vil gøre mit bedste for at give dig al relevant information, så du kan træffe en informeret beslutning.
+
+For at starte med det vigtigste punkt, er det vigtigt at fastslå, om du allerede har haft sygdommen eller ej. Hvis du er sikker på, at du ikke har haft sygdommen, kan du overveje at blive vaccineret. Det er dog vigtigt at understrege, at personer med et svækket immunsystem bør være forsigtige med denne form for vaccine. Ved at få vaccinen, der indeholder levende, svækkede virus, kan immunsystemet blive udfordret og have problemer med at håndtere den.
+
+Når det kommer til selve vaccinationsprocessen, gives vaccinen normalt med 4-8 ugers mellemrum. Dette er for at sikre, at kroppen får tilstrækkelig tid til at opbygge immunitet mod virusset. Det er også vigtigt at bemærke, at vaccinen ikke bør gives til gravide kvinder. Hvis du overvejer at blive gravid, anbefales det at få vaccinen tre måneder før den mulige graviditet, da den kan have negative virkninger på fosteret.
+
+Bivirkningerne ved denne form for vaccine er generelt milde og forbigående. Dette kan omfatte symptomer som træthed, hovedpine og ømhed på indstiksstedet. Det er vigtigt at huske på, at bivirkninger kan variere fra person til person, og at der er en lille risiko for mere alvorlige bivirkninger, selvom denne risiko er yderst sjælden.
+
+Jeg håber, at ovenstående information kan hjælpe dig med at træffe en beslutning omkring din vaccination. Hvis du har yderligere spørgsmål eller bekymringer, er du altid velkommen til at kontakte mig. Jeg er her for at hjælpe dig med at bedømme, hvad der er bedst for dit helbred.
+
+Med venlig hilsen,
+
+[Navn på din læge]

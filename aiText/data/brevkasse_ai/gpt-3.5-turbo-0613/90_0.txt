@@ -1,0 +1,15 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Jeg har nøje læst din henvendelse, og jeg forstår, at du oplever visse udfordringer med dit helbred. Det er vigtigt for mig at understrege, at jeg som læge ikke kan stille en diagnose udelukkende baseret på de oplysninger, du har givet. For at kunne give dig den bedst mulige hjælp og vejledning, vil jeg dog gerne uddybe lidt om dine symptomer.
+
+Det er muligt, at du oplever tegn på en depression. Det er vigtigt at være opmærksom på, at jeg ikke kan bekræfte dette uden en grundig undersøgelse og samtale. Dog kan du læse symptomerne på depression på forskellige sider, der kan give dig et indblik i, hvordan en depression kan manifestere sig. Hvis du identificerer dig med flere af disse symptomer, kunne det være en indikation på en depression, men det er stadig nødvendigt med en konsultation hos en læge for at bekræfte dette.
+
+Jeg vil dog også anbefale, at du tager højde for andre muligheder, da der er mange forskellige årsager til, at man kan føle sig nedtrykt eller have andre helbredsmæssige udfordringer. Det kan være en god idé at søge yderligere professionel hjælp hos en læge eller en psykolog, der vil kunne udføre en grundlæggende vurdering af din tilstand og stille en mere præcis diagnose.
+
+Jeg forstår, at det kan være en belastende situation for dig, og jeg vil opfordre dig til at søge den nødvendige hjælp og støtte, så du kan få den bedst mulige behandling. Du er ikke alene, og der er ressourcer og professionelle, der er klar til at hjælpe dig gennem denne proces.
+
+Jeg håber, at denne information kan være til nytte for dig. Husk, at det er vigtigt at søge yderligere hjælp for at få den nødvendige behandling. Du kan altid kontakte mig eller en anden læge for at planlægge en konsultation og få yderligere vejledning.
+
+Med venlig hilsen

@@ -1,0 +1,18 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende.  Forestil dig, at du skal komme med råd ud fra emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley:
+gpt-3.5-turbo-0613
+Kære læsere,
+
+I dag skal vi tale om aktieindkomst og den noget komplekse beregning af skatteværdien af denne indkomst. Det kan være svært at navigere i skattelovgivningen, men frygt ej - jeg er her for at hjælpe!
+
+En vigtig ting at bemærke er, at hvis din aktieindkomst er negativ, behøver du ikke bekymre dig. Systemet er indrettet på en sådan måde, at den negative aktieindkomst automatisk vil blive regnet ud, og det negative skattebeløb vil blive trukket fra dine øvrige skatter på årsopgørelsen. Dette betyder kort sagt, at du ikke vil blive pålagt ekstra skat på grund af en negativ aktieindkomst.
+
+Dog er der en lille variation, hvis du er gift og samlevende ved årets udgang. I dette tilfælde skal din negativ aktieindkomst først modregnes i din ægtefælles eventuelle positive aktieindkomst for samme år, inden der beregnes et negativt skattebeløb. Så hvis din ægtefælle har en positiv aktieindkomst, vil dette betyde, at jeres samlede negative aktieindkomst bliver modregnet i hans/hendes indkomst først, før der beregnes et negativt skattebeløb.
+
+Dette kan synes en smule kompliceret, men det er faktisk en retfærdig metode, der sikrer, at man ikke bliver pålagt ekstra skat på grund af negativ aktieindkomst. Så selvom beregningen kan virke en smule besværlig, så kan du være sikker på, at systemet er designet til at sikre retfærdighed.
+
+Husk at have styr på dine aktieindkomster og konsulter eventuelt en revisor eller en skatteekspert, hvis du er usikker på dine skatteforhold. Det er bedre at være grundig og forstående, end at ende i en skattemæssig knibe.
+
+Håber, at denne information har været nyttig og har klargjort nogle af de forbehold og mekanismer, der er involveret i beregningen af negativ aktieindkomst. Lad ikke skattereglerne slå dig ud - bliv ved med at blive klogere og tag kloge valg!
+
+Bedste hilsner,
+[dit navn]

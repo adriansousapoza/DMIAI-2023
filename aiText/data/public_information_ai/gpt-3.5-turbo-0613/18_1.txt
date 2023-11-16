@@ -1,0 +1,13 @@
+Skriv om følgende på dansk - vælg en neutral og objektiv tone.  Forklar om emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Energimærkerapporten er et dokument, der giver ejere af boliger information om energieffektiviteten i deres hjem. Rapporten angiver, om der er mulighed for energimæssige forbedringer, samt hvilke omkostninger der er forbundet hermed. Den er udarbejdet af en autoriseret energikonsulent og er et vigtigt værktøj for både købere og sælgere af boliger.
+
+Rapporten indeholder en vurdering af boligens energiforbrug og CO2-udledning, ligesom den angiver en energikarakter fra A til G. En karakter på A indikerer, at boligen er meget energieffektiv, mens en karakter på G indikerer, at boligen er meget energiforbrugende. Rapporten giver også en række anbefalinger til energiforbedringer, såsom isolering af taget, udskiftning af vinduer og installation af energibesparende varme- og ventilationsanlæg.
+
+Det er vigtigt at bemærke, at energimærkerapporten skal udarbejdes af en autoriseret energikonsulent og skal opfylder visse standarder og retningslinjer. Rapporten er gyldig i 10 år og skal være tilgængelig for potentielle købere, når en bolig bliver solgt eller udlejet.
+
+Det kan være en god idé at undersøge energimærkerapporten nøje, da den kan bruges som forhandlingsgrundlag ved køb eller leje af en bolig. Hvis det viser sig, at rapporten er unøjagtig eller mangelfuld, kan man forhandle om en ændring af prisen eller kræve, at energiforbedringerne udføres, før handlen fuldføres.
+
+Det er vigtigt at være opmærksom på, at energimærket primært fokuserer på boligens energieffektivitet og ikke tager højde for andre aspekter som for eksempel indeklima eller bygningsvedligeholdelse. Det er derfor en god idé at kombinere energimærkerapporten med andre vurderinger og undersøgelser af boligens stand, når man køber eller lejer en bolig.
+
+I sidste ende bør energimærkerapporten ses som et redskab til at opnå et bedre indblik i boligens energiforbrug og mulige forbedringer. Det kan hjælpe både købere og sælgere med at træffe velinformerede beslutninger om energieffektivitet og de tilhørende omkostninger.

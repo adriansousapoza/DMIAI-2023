@@ -1,0 +1,16 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære Patient,
+
+Jeg håber, du har det godt. Tak for din henvendelse vedrørende dit helbredsmæssige problem med malaria. Jeg forstår, at du ønsker yderligere oplysninger og beroligende ord om din situation.
+
+Malaria er en alvorlig sygdom, der primært overføres gennem myggestik. Som du allerede ved, er det især Anopheles-myg, der bærer på malariaparasitterne. Når du bliver stukket af en myg, der er inficeret med malariaparasitter, kan det tage noget tid, før sygdommen bryder ud.
+
+I tilfælde af falciparum malaria, som er den mest almindelige form for malaria i Afrika, er den typiske inkubationstid omkring 9 dage. Dette betyder, at der kan gå op til 9 dage efter myggestikket, før du begynder at opleve symptomerne på malaria. Det er dog vigtigt at bemærke, at inkubationstiden kan variere fra person til person, og i visse tilfælde kan det tage længere tid.
+
+Det er afgørende, at du er opmærksom på eventuelle symptomer på malaria i løbet af denne periode. De mest almindelige symptomer inkluderer feber, kulderystelser, træthed, muskelsmerter, hovedpine og kvalme. Hvis du oplever nogen af disse symptomer eller er bekymret over din helbredstilstand efter at have været udsat for en risiko for malaria, vil jeg opfordre dig til at opsøge relevant lægehjælp for en korrekt diagnose og nødvendig behandling.
+
+Jeg håber, at denne information har været nyttig for dig. Husk, det er altid bedre at søge tidlig lægehjælp og få en præcis vurdering af din tilstand, hvis du har mistanke om malaria. Pas på dig selv og hold dig sund.
+
+Venlig hilsen,
+Din læge

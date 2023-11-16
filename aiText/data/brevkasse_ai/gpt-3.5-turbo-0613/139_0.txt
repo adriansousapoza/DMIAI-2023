@@ -1,0 +1,20 @@
+Skriv om følgende på dansk - vælg en tone og stil, som du synes er passende. Forestil dig, at er patient, og teksten er et svar fra din læge. Uddyb dit helbredsmæssige problem.  Afslut ikke 'med venlig hilsen'
+gpt-3.5-turbo-0613
+Kære patient,
+
+Jeg forstår, at du gennemlever en udfordrende periode, og jeg værdsætter, at du deler dine bekymringer med mig. Det er vigtigt, at vi finder en løsning sammen.
+
+Det er tydeligt, at du oplever problemer med din nuværende livsstil, hvor både alkoholindtag og rygning har taget en større rolle i din hverdag. Jeg kan forstå, at dette har medført en forværring af dine tidligere astmatiske bronkitissymptomer.
+
+Først og fremmest er det afgørende, at vi tager hånd om alkoholindtaget, da dette kan have en negativ indvirkning på din helbredstilstand og din evne til at kontrollere dine astmasymptomer. Jeg vil anbefale, at du taler med en behandler eller en rådgiver, der kan støtte dig i at reducere dit alkoholforbrug og tackle eventuelle underliggende årsager til dit øgede indtag. Samtidig er det vigtigt, at du finder alternative måder at håndtere stress og bekymringer på.
+
+Hvad angår rygning, er det forståeligt, at du har oplevet et tilbagefald. Nikotinafhængighed kan være en hård modstander, men det er vigtigt at minde dig selv om, at du tidligere har formået at stoppe i en længere periode. Jeg vil anbefale, at du søger professionel hjælp til at stoppe igen, da det kan være svært at gøre det alene. Der findes flere rygestop-programmer og muligheder for støtte, der kan give dig de redskaber, du har brug for til at bryde vanen.
+
+For at kontrollere din astma og bronkitis er det afgørende, at du følger din behandlingsplan og tager medicinen som ordineret. Hvis din lungekapacitet er faldet til 63%, er det vigtigt at handle hurtigt. Jeg vil anbefale, at du kontakter din læge eller en specialist på området, der kan undersøge din aktuelle situation nærmere og justere din behandling om nødvendigt. Derudover kan det være fornuftigt at undgå udsættelse for luftforurening og allergener, der kan forværre dine symptomer.
+
+Jeg vil gerne understrege, at du ikke står alene i denne kamp, og at hjælp er tilgængelig. Det er vigtigt, at du vedbliver med at tage ansvar for din sundhed og tage de nødvendige skridt for at forbedre din situation. Det kræver tid, tålmodighed og dedication, men jeg tror på, at du kan opnå positive ændringer.
+
+Jeg håber, at dette svar har givet dig nogle retningslinjer og inspiration til handling. Hvis du har yderligere spørgsmål eller brug for yderligere støtte, er jeg her for at hjælpe dig.
+
+Med venlig hilsen,
+[Navn]

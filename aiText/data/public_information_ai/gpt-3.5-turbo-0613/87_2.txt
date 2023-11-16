@@ -1,0 +1,9 @@
+Skriv om følgende på dansk - vælg en neutral og objektiv tone.  Forklar om emnet.  Hvis der ikke er nok at snakke om, så find på noget mere. Ignorer smiley: 
+gpt-3.5-turbo-0613
+Det danske skattevæsen har fokus på at sikre, at især udenlandske virksomheder og medarbejdere betaler korrekt moms og skat for det arbejde, de udfører i Danmark. Dette gøres for at undgå unfair konkurrence, hvor virksomheder og medarbejdere ikke er korrekt registreret. 
+
+For at opnå dette udvælger myndighederne virksomheder til kontrol baseret på oplysninger, der indikerer, at der kan være problemer med social dumping. Dette kan være tilfældet, hvis der er mistanke om, at underleverandører ansat af danske virksomheder ikke er korrekt registreret eller betaler den rette skat.
+
+Konsekvensen af dette er, at danske virksomheder kan blive pålagt at hæfte for eventuelle manglende skattebetalinger fra deres udenlandske underleverandører, hvis disse ikke er korrekt registreret. Dette kan have økonomiske konsekvenser for de danske virksomheder og er en del af den danske regerings indsats for at bekæmpe social dumping og skatteunddragelse.
+
+Det er vigtigt at bemærke, at denne kontrol og håndhævelse primært fokuserer på at sikre fair og lige konkurrencevilkår for alle virksomheder og medarbejdere i Danmark. Formålet er at beskytte arbejdsmarkedet og sikre, at skatter og moms indbetales korrekt, så de offentlige kasser får den indtægt, de er berettiget til.
