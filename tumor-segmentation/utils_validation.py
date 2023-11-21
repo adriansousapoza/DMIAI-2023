@@ -37,6 +37,7 @@ def torchio_validation_single_image(image_array, base_dir,
                           cropsize=(400,991),
                           dataset_ID=None):
     print(f'Processing image: {image_array}')
+    name_dataset = f'Dataset{dataset_ID:03d}'
 
     # Create a single subject
     subject = tio.Subject(
@@ -78,28 +79,21 @@ def torchio_validation_single_image(image_array, base_dir,
 
     save_nnUNet_raw_validation(dataset, 'nnUNet_raw', dataset_ID, 1, file_ending='.png')
 
-    filepath = Path('nnUNet_raw/Dataset001/imagesTs/patient_0000.png')
+    filepath = Path(f'nnUNet_raw/{name_dataset}/imagesTs/patient_0000_0000.png')
 
     return original_size, filepath 
 
 
-def process_and_crop_single_label(label_file, original_size, save_dir='data_validation/patients/labels', file_ending='.png'):
-    os.makedirs(save_dir, exist_ok=True)
-
-    label_image = cv2.imread(str(label_file), cv2.IMREAD_GRAYSCALE)
-
-    current_height, current_width = label_image.shape
+def process_and_crop_single_label(label_array, original_size):
+    current_height, current_width = label_array.shape
     original_height, original_width = original_size
     x_start = (current_width - original_width) // 2
     y_start = (current_height - original_height) // 2
-    cropped_label_image = label_image[y_start:y_start + original_height, x_start:x_start + original_width]
+    cropped_label_image = label_array[y_start:y_start + original_height, x_start:x_start + original_width]
 
     cropped_label_image = np.where(cropped_label_image > 0, 255, 0).astype(np.uint8)
 
     rotated_label_image = np.rot90(cropped_label_image, 3)
     rotated_label_image = np.flip(rotated_label_image, 1)
 
-    label_filename = f'segmentation_000{file_ending}'
-    cv2.imwrite(os.path.join(save_dir, label_filename), rotated_label_image)
-
-    print(f"Processed label saved to {save_dir}")
+    return rotated_label_image
