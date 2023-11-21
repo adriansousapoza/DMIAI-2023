@@ -172,5 +172,5 @@ tumor-segmentation/nnUNet_preprocessed/
 #tumor-segmentation/data_validation/
 #tumor-segmentation/data/
 tumor-segmentation/inverted_imgs/
-#tumor-segmentation/nnUNet
+tumor-segmentation/nnUNet
 tumor-segmentation/nnUNet_results.zip
