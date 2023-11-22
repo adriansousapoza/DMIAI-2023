@@ -17,7 +17,7 @@ from cycler import cycler
 
 from sklearn.model_selection import train_test_split, cross_validate
 from sklearn.metrics import roc_curve, auc, log_loss, accuracy_score
-from sklearn.preprocessing import QuantileTransformer
+from sklearn.preprocessing import QuantileTransformer, StandardScaler
 #from category_encoders import LeaveOneOutEncoder, TargetEncoder
 
 import optuna
@@ -25,10 +25,9 @@ from optuna.samplers import TPESampler
 from optuna.integration import LightGBMPruningCallback
 from optuna.pruners import MedianPruner
 import lightgbm as lgb
+import xgboost as xgb
 
 from utils import *
-
-nltk.download('punkt');
 
 
 ## Change directory to current one
@@ -54,6 +53,7 @@ np.set_printoptions(precision = 5, suppress=1e-10)
 
 ### FUNCTIONS ----------------------------------------------------------------------------------
 
+
 def scale_and_split_data(df, scaler = None, test_size = 0.15, val_size = 0.15, random_state = 42):
     """
     Scales and splits data into training, validation and test data
@@ -70,7 +70,6 @@ def scale_and_split_data(df, scaler = None, test_size = 0.15, val_size = 0.15, r
     X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=val_size, random_state=random_state)
 
     return X_train, X_val, X_test, y_train, y_val, y_test, scaler
-
 
 def evaluate_classification_results(estimator, X_train, X_val, y_train, y_val, X_test = None, y_test = None, method_name = '', plot = False, booster=False):
          
@@ -151,53 +150,86 @@ def hyperoptizing_lgbm_clf(X_train, X_val, y_train, y_val, parameter_wrapper, n_
                                     X_val, y_train, y_val, method_name='LGB', plot=True)
 
     # Save best parameters
-    with open('best_params_lgb_clf.pkl', 'wb') as fp:
+    with open('models/best_params_lgb_clf.pkl', 'wb') as fp:
         pickle.dump(lgb_clf_params, fp)
 
     ## save beset model
-    lgb_clf.booster_.save_model('lgb_classifier.json')
-
+    lgb_clf.booster_.save_model('models/lgb_classifier_best_model.json')
+    return
 
 ### MAIN ---------------------------------------------------------------------------------------
 
 
 def main():
 
-    feature_csv_path = None #'data_processed\\data_manual.csv'
-    string_csv_path = 'data_processed\\data_all.csv'
+    feature_csv_path = 'data_processed/data_all_balanced_many_features.csv'  #'data/final_training_data_features.csv' # None #'data_processed\\data_all_features.csv'
+    string_csv_path = 'data/final_training_data.csv'  #'data_processed\\data_all.csv'
+    features_validation_path = 'data/final_validation_data_features.csv'
+    validation_path = 'valz_labeled.csv'
+
     load_model = False
     hyperoptimization = False
+    include_val = True
 
     # Set sklearn-style scaler/transformer if any
-    scaler = None
+    scaler = None #QuantileTransformer(output_distribution='normal') #StandardScaler()   #None #QuantileTransformer(output_distribution='normal')
 
     if feature_csv_path is not None:
-        df = pd.read_csv(feature_csv_path)
+        df = pd.read_csv(feature_csv_path, header=0)
+        df = df.drop(['text', 'Unnamed: 0'], axis=1)
     else:
-        df = pd.read_csv(string_csv_path)
+        df = pd.read_csv(string_csv_path, header = 0, names=['idx','text','label'])
+        df.drop(['idx'], axis=1, inplace=True)
         df = preprocess(df)
 
-    
-    X_train, X_val, X_test, y_train, y_val, y_test, _ = scale_and_split_data(df, scaler = scaler, test_size = 0.15, val_size = 0.15, random_state = 42)
+    if features_validation_path is not None:
+        val_features = pd.read_csv(features_validation_path, header=0)
+        val_labels = val_features['label']
+        val_features = val_features.drop(['text', 'Unnamed: 0'], axis=1)
+    else:
+        df_val = pd.read_csv(validation_path, header=0, names=['idx','text','label'])
+        df_val.drop(['idx'], axis=1, inplace=True)
+        val_features = preprocess(df_val)
+        val_labels = val_features['label']
 
-    lgb_kwargs = dict(boosting_type='gbdt', num_leaves=25, \
-                                max_depth=2, learning_rate=0.2, n_estimators=25, \
+    test_final = val_features.sample(frac=0.2, random_state=42)
+    test_labels = test_final['label']
+    test_final = test_final.drop(['label'], axis=1)
+    val_features = val_features.drop(test_final.index)
+
+    df = pd.concat([df, val_features], ignore_index=True)
+    df = df.sample(frac=1, random_state=42)
+
+    X_train, X_val, X_test, y_train, y_val, y_test, scaler = scale_and_split_data(df, scaler = scaler, test_size = 0.1, val_size = 0.15, random_state = 42)
+
+    lgb_kwargs = dict(boosting_type='gbdt', num_leaves=120, \
+                                max_depth=4, learning_rate=0.2, n_estimators=100, \
                                 objective='binary', min_split_gain=0.0,\
-                                min_child_samples=5, subsample = 0.7,
-                                reg_alpha=0.07, reg_lambda=0.07, \
+                                min_child_samples=5, subsample = 1.0,
+                                reg_alpha=0.0, reg_lambda=0.0, \
                                 n_jobs=-1, importance_type = 'split') 
 
     if load_model:
-        lgb_clf = lgb.Booster(model_file='lgb_classifier.json')
+        lgb_clf = lgb.Booster(model_file='models/lgb_classifier.json')
         booster = True
-
     else:
         lgb_clf = lgb.LGBMClassifier(**lgb_kwargs)
         lgb_clf.fit(X_train, y_train, eval_set = [(X_val, y_val)])
         booster = False
         lgb_clf.booster_.save_model('models/lgb_classifier.json')
 
-    print(lgb_clf.score(X_test, y_test))
+    if scaler is not None:
+        scaled_test_features_arr = scaler.transform(test_final.values)
+        test_final = pd.DataFrame(scaled_test_features_arr, index = test_final.index, \
+                                            columns = test_final.columns)
+
+    #val_labels = pd.read_csv('data_processed\\validation_labeled.csv')['labels'].values
+    val_preds = lgb_clf.predict(test_final)
+    accu =np.isclose(val_preds, test_labels).sum()/len(val_preds)
+
+    print("ON VAL ..... ",accu)
+    print(accuracy_score(test_labels.values, val_preds))
+
     evaluate_classification_results(lgb_clf, X_train, \
                                                 X_val, y_train, y_val, X_test, y_test, method_name='LGB', plot=True, booster=booster)
 
